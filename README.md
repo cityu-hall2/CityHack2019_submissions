@@ -10,5 +10,7 @@
 
 ### Important notes
 1. Each team should upload the files to **the subfolder of their own group** only. DO NOT upload to the home directory of this repository.
-2. You can either fork this repository for development purpose and issue a merge request before the deadline, or upload the files directly to this repository.
+2. Please submit your project directly to this repository. **Do not fork this repository** since merge requests will not be approved.
+    - Tips: You are encouraged to create your own github repository for your development. You can add a link to your own repository in the readme file under your group folder.
 3. The submission deadline is **15:30, 27 Jan 2019**. Late submissions will not be considered in the evaluation stage.
+4. You can ask our technical stuffs for help if you have any difficulties.
