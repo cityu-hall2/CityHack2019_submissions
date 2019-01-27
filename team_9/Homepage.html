@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>CityU LBSMS</title>
+    <link rel="stylesheet" href="cssTheme.css">
+    <script type="text/javascript">
+      window.onload=init;
+      function init(){
+        var links=["SS1.jpg","SS2.jpg","SS3.jpg","SS4.jpg"];
+        var i=1;
+        function slides(){
+          var im=document.getElementById("im");
+          if(i>3){
+            i=0;
+          }
+          im.src=links[i];
+          i++;
+        }
+       setInterval(slides,5000);
+      }
+    </script>
+  </head>
+  <body>
+    <div class="logo">
+      <img src="logo.png" alt="logo">
+    </div>
+    <div class="Heading">
+      <h1>Run Run Shaw Library Seat Management System</h1>
+    </div>
+    <div class="navBar">
+      <a href="Homepage.html">Vacancy</a>
+      <a href="HPlan2.html">Booking</a>
+      <a href="HAboutus.html">About Us</a>
+    </div>
+    <div class="SlideShow">
+      <img id="im" src="SS1.jpg" alt="Slide Show Image">
+    </div>
+    <div class="FloorPlan">
+      <p id="hp">Run Run Shaw Library Floor Plan</p>
+      <div id="d1" class="seat" onclick="window.location='HPlan.html'">
+        <p>Unoccupied seats: 10</p>
+      </div>
+      <div id="d2" class="seat" onclick="window.location='HPlan.html'">
+        <p>Unoccupied seats: 22</p>
+      </div>
+      <div id="d3" class="seat" onclick="window.location='HPlan.html'" >
+        <p>Unoccupied seats: 23</p>
+      </div>
+      <div id="d4" class="seat" onclick="window.location='HPlan.html'">
+        <p>Unoccupied seats: 18</p>
+      </div>
+      <div id="d5" class="seat" onclick="window.location='HPlan2.html'">
+        <p>Unoccupied seats: 15</p>
+      </div>
+    </div>
+    <div class="Footer">
+      <a id="home" href="https://www.cityu.edu.hk">HomePage</a>
+      <p id="end">Tat Chee Avenue, Kowloon, Hong Kong SAR </p>
+      <p>Email: rnautiyal2-c@my.cityu.edu.hk</p>
+      <p>Phone: +852 5642561</p>
+    </div>
+  </body>
+</html>

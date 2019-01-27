@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Booking</title>
+    <link rel="stylesheet" href="cssTheme.css">
+    <link rel="stylesheet" href="cssBooking.css">
+    <script type="text/javascript">
+      window.onload=init;
+      function init(){
+        document.querySelector("form").onsubmit= filled;
+        function filled(){
+          alert("Booking Confirmed");
+          document.querySelector("form").action="HomePage.html";
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <div class="logo">
+      <img src="logo.png" alt="logo">
+    </div>
+    <div class="Heading">
+      <h1>CityU Library Seat Management System</h1>
+    </div>
+    <div class="navBar">
+      <a href="Homepage.html">Vacancy</a>
+      <a href="HBooking.html">Booking</a>
+      <a href="HAboutus.html">About Us</a>
+    </div>
+  	<h1>CityU Library Booking</h1>
+  	<form>
+      <fieldset>
+  		<label for="first">First Name:</label>
+  			<input class="in" id="first" type="text" name="First" placeholder="eg. John" required>
+        <br>
+  		<label for="last">Last Name:</label>
+  			<input class="in" id="last" type="text" name="Last" placeholder="eg. Smith" required>
+        <br>
+  		<label for="sid">SID:</label>
+  			<input class="in" type="text" name="student_id" placeholder="xxxxxxxx" required>
+        <br>
+  		<label for="email">Email:</label>
+  			<input class="in" id="email" type="Email" name="Email" placeholder="your email" required>
+        <br>
+  		<label for="pn">Phone Number:</label>
+  			<input class="in" id="pn"type="text" name="phone" required>
+        <br>
+      <label for="ch">I agree to the terms and conditions</label>
+  		<input class="in" id="ch" type="checkbox" name="">
+      <br>
+  	  <input id="sb" type="submit" name="submit" value="Submit"></input>
+     </fieldset>
+  	</form>
+  </body>
+  </html>

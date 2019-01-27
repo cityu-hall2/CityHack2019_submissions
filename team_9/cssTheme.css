@@ -1,0 +1,100 @@
+*{
+  margin:0;
+  padding: 0;
+}
+.logo{
+  float: left;
+  margin-left: 40px;
+}
+.Heading{
+  padding-top: 100px;
+  padding-left: 400px;
+  padding-bottom: 100px;
+  color: #b01861;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  text-decoration: underline;
+}
+.navBar{
+  background-color: #b01861;
+  padding: 10px;
+}
+.navBar a{
+  color: white;
+  padding: 10%;
+  font-size: 28px;
+}
+#im{
+  display: block;
+  margin: auto;
+  width: 90%;
+  height: 400px;
+}
+.FloorPlan{
+  background-image: url("LME.gif");
+  width: 1162px;
+  height: 800px;
+  margin-bottom:30px;
+}
+.FloorPlan p{
+  color: black;
+  font-size: 28px;
+  float: right;
+}
+.seat{
+  width: 100px;
+  height: 40px;
+  background-color: green;
+  position: relative;
+
+}
+
+#d1{
+  top: 60px;
+  left: 200px;
+}
+.seat p{
+  font-size: 13px;
+
+}
+#d2{
+  width: 70px;
+  top: 700px;
+  left: 270px;
+}
+#d3{
+  width: 70px;
+  top: 650px;
+  left: 695px;
+
+}
+#d4{
+  width: 70px;
+  top: 200px;
+  left: 907px;
+
+}
+
+#d5{
+  width: 70px;
+  top: 580px;
+  left: 907px;
+  background-color: purple;
+}
+.Footer{
+  background-color: #4b4d4f;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+#home{
+  font-size: 20px;
+  color: white;
+  margin: 20px;
+  padding-bottom: 10px;
+}
+.Footer>p {
+  color: white;
+  margin-left: 20px;
+  font-size: 12px;
+  padding: 10px;
+}
