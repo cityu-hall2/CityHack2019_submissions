@@ -8,7 +8,7 @@ Given the dataset by *BNP Paribas*, we used  [*spaCy*](https://spacy.io, "spaCy"
 
 #### 2. Dataset
 
-Dataset are provided by *BNP Paribas* originated from *Singapore Stock Exchange* containing 40 annual reports of corporations worldwide for training and 4 reports for testing on https://github.com/jeffreynghm/CityU-Hackathon-2019](https://github.com/jeffreynghm/CityU-Hackathon-2019). Contents provided for each annual report are also included.
+Dataset are provided by *BNP Paribas* originated from *Singapore Stock Exchange* containing 40 annual reports of corporations worldwide for training and 4 reports for testing on [https://github.com/jeffreynghm/CityU-Hackathon-2019](https://github.com/jeffreynghm/CityU-Hackathon-2019). Contents provided for each annual report are also included.
 
 #### 3. Methodology & Walkthrough
 
