@@ -1,5 +1,12 @@
 # CityHack 2019 submissions
-
+Team Alpha:
+Aakash Goyal
+Anmol Bansal
+Damni Tejani
+Rishabh Nautiyal
+Yashwanth Krishna
+<br>
+Task 1: Smart Campus: Library Seat Management System. 
 ### Submission checklist
 - [ ] Powerpoint for presentation.
 - [ ] The source code for your deliverables with appropriate file names.
