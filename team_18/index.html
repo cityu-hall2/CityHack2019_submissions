@@ -1,0 +1,116 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+
+  <title>EMSS-Smarter University For Smarter Students </title>
+  <meta name="description" content="Solution to conserve energy" />
+  <meta name="keywords" content="energy,university,light" />
+  <meta http-equiv="content-type" content="text/html; charset=windows-1252" />
+  <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+
+  <div id="logo1" style="position:absolute"><img src="logo.jpg" width=178.5 height=178.5></div>
+  <div id="main">
+    <div id="header">
+      <div id="logo">
+        <div id="logo_text">
+
+          <h1><a href="index.html">EMSS_<span class="logo_colour">Smart Lighting System</span></a></h1>
+          <h2>We Power The Future</h2>
+        </div>
+      </div>
+      <div id="menubar">
+        <ul id="menu">
+
+          <li class="selected"><a href="index.html">Home</a></li>
+          <li><a href="aboutus.html">About Us</a></li>
+          <li><a href="services.html">Services</a></li>
+          <li><a href="userinterface.html">User Interface</a></li>
+          <li><a href="teaminfo.html">Team Info</a></li>
+          <li><a href="contact.html">Contact Us</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div id="site_content">
+      <div id="banner"></div>
+	  <div id="sidebar_container">
+        <div class="sidebar">
+          <div class="sidebar_top"></div>
+          <div class="sidebar_item">
+
+          </div>
+          <div class="sidebar_base"></div>
+        </div>
+        <div class="sidebar">
+          <div class="sidebar_top"><img src="style/logo.jpg" width=300 height=300></div>
+          <div class="sidebar_item">
+
+          </div>
+          <div class="sidebar_base"></div>
+        </div>
+        <div class="sidebar">
+          <div class="sidebar_top"></div>
+          <div class="sidebar_item">
+
+          </div>
+          <div class="sidebar_base"></div>
+        </div>
+      </div>
+      <div id="content">
+
+        <h1>What is Energy Conservation?</h1>
+        <p style="font-weight:bold">Energy conservation is a decision and practice of using less energy. Energy conservation is a matter of utter importance in today's world. Energy conservation is not about making limited resources last as long as
+            possible , that would mean that you are doing nothing more than prolonged crisis until you finally run out of energy resources.</p>
+        <p style="font-weight:bold">Conservation is a process of reducing demand on a limited supply and enabling that supply to begin to rebuild itself.
+        If humans doesnt conserve energy,the world will depelete its natural resources. The goal of energy conservation techniques is Protect and replenish supplies , develop and use alterative energy sources , and to clean up the damage from the prior
+            energy processes.<p>
+
+        <div class="image" >
+        <img src="image1.jpg" width=400 height=400 style="border:4px solid red">
+        </div>
+
+        <div class="image" >
+        <img src="image2.jpg" width=400 height=400 style="border:4px solid red">
+        </div>
+
+        <div class="image" >
+        <img src="image3.jpg" width=400 height=400 style="border:4px solid red">
+        </div>
+
+
+      </div>
+    </div>
+    <div id="content_footer"></div>
+    <div id="footer">
+      <p><a href="index.html">Home</a> | <a href="aboutus.html">About Us</a> | <a href="services.html">Services</a> | <a href="userinterface.html">User Interface</a> |<a href="teaminfo.html">Team Info</a> | <a href="contact.html">Contact Us</a></p>
+
+    </div>
+    </div>
+  </div>
+
+<script>
+var index=0;
+function slideshow()
+{
+var slides= document.getElementsByClassName("image");
+var i;
+for(i=0;i<slides.length;i++)
+    {
+        slides[i].style.display="none";
+        }
+  index++;
+  if(index>slides.length)
+      index=1;
+    slides[index-1].style.display="block";
+
+     setTimeout(slideshow, 2000);
+}
+slideshow();
+</script>
+
+</body>
+</html>
