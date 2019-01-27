@@ -1,0 +1,1389 @@
+0.hocr: 
+r<XOm _Z._._mmz>._._Oz>_. >wmm._. §>Z>0mz=mz._. 2.5—5
+r<XOm _<_mO_ >0>m_> _u>O__n_O mxL>_U>Z CO_._.m m._._n
+Bm,NARFmRDEDPmTNEMwALD.EDNUMMOCNm
+m_wOZ. <m>m mZU_zQ Oz” 9 .omhodv
+
+===================================================
+1.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+Contents
+
+Information on the investments and management .......................................... 3Activity report .................................................................................................... 10Auditor’s report ................................................................................................. 16Annual accounts .. 18Balance sheet ................................................................................................ 19Assets ....................................................................................................... 19Liabilities ................................................................................................... 20Off—balance sheet commitments .................................................................... 21Proﬁt and loss account ................................................................................... 22Appendix ........................................................................................................ 23Accounting rules and methods ................................................................. 23Evolution of the net assets ........................................................................ 26Information supplements .......................................................................... 27Inventory ............................................................................................................. 40
+
+935828
+2 Annual Iepon‘ — Fiscal year ending on: 31.03.2017
+===================================================
+10.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+Information on the compensation policy:
+The management company has established a compensation policy in compliance with the regulations in force. Thispolicy complies with the economic strategy, the objectives, and the values and interests of the management companyand the Funds which it manages, as well as those of the investors in these Funds, and includes measures designed toavoid conﬂicts ofinterest.
+The compensation policy of the management company implements a balanced system whereby the compensation of theemployees concerned is based on the below principles, in particular:
+- the compensation policy of the management company is compatible with efficient and healthy risk management,encouraging such an approach, and discouraging any risk-[aking which would be incompatible with the risk proﬁles, thepresent brochure, or the other governing documents of the Funds managed by the management company;
+- the compensation policy was adopted by the Supervisory Board of the management company, which adopts and re-examines the general principles of such policy at least once a year;
+- personnel engaged in monitoring functions are compensated in accordance with the achievement of the objectiveslinked to their position, regardless of the performance of the sectors that they monitor;
+- when the compensation varies according to performances, its amount is established by combining the evaluation of theperformance of the person concerned and the valuation of the business unit or the Funds, and with regard to their risksand the results of the entirety of the management company during the evaluation of individual performances, takingﬁnancial and non-ﬁnancial criteria into account;
+— an appropriate balance is established between the ﬁxed and variable components of the overall compensation;
+— above a certain threshold, a large portion (which in all cases is at least 50% 0f the entire variable component of thecompensation) consists of exposure to an index the components and the operational rules of which guarantee thealignment of the interests of the personnel concerned and those of the investors;
+- above a certain threshold, a substantial portion (and in all cases at least 40%) 0f the variable component of thecompensation is delayed for an appropriate period;
+- variable compensation, including the delayed part, is only paid or acquired if it is compatible with the overallﬁnancial situation of the management company and if it is justified by the performances of the business unit, the Fundsand the person concerned.
+The updated details of the compensation policy are available on the following website: http://www.lyx0r.com/fr/menu-corporate/nous-connaitre/mentions-reglementaires/
+
+935828 1 1 Annual report — Fiscal year ending on: 31.03.2017
+===================================================
+11.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+Transparency of securities financing operations and reuse of financial instruments SFTR regulation(Accounting currency of the CW)1. General information.
+1.1. Amount of securities and raw materials loaned in proportion with the total assets that can be loaned,defined as excluding the cash and cash equivalents.
+Securitieslending
+
+
+% of assets thatcan be loaned
+
+
+
+1.2. Amount of the assets committed to each type of securities financing operation and total return swap,expressed in absolute value (in the currency of the collective investment undertaking) and in proportion with theassets under management of the collective investment undertaking.
+
+
+
+Securities Securities Repo Reverselending borrowing operations repo operations TRSAbsolute value - - - - 188,134,746°/o of assets undermanagement ' ' ' ' 53'36
+
+
+
+
+
+
+2. Concentration data
+2.1. The ten biggest issuers of guarantees for all types of securities financing operations and total return swaps(breakdown of the volumes of guarantees and raw materials received, with the names of the issuers).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name SAINT-GOBAIN CIE1 Amount 3,642,183Name EBAY INC2 Amount 1,094,121Name ROYAL DUTCH SHELL PLC3 Amount 1,067,756Name ESSILOR INTL CIE GLE4 Amount 474,507Name L’OREAL SA5 Amount 449,654Name THALES6 Amount 383,854Name ARKEMA SA7 Amount 275,775Name DASSAULT SYSTEMES8 Amount 232,710Name BOUYGUES9 Amount 69,862
+
+
+
+
+935828 12 Annual report — Fiscal year ending on: 31.03.2017
+
+===================================================
+12.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+2.2. The ten main counterparties for each type of securities financing operation and total return swap separately(name of the counterpany and gross volume of operations in progress).
+
+
+
+Securities Securities Repo Reverselending borrowing operations repo operations TRSSOCIETE1 Name ' ‘ ‘ - GENERALEAmount - - - - 188,134,746
+
+
+
+
+
+
+
+3. Aggregated operation data for each type of securities financing operation and total return swap separately,broken down according to the following categories.
+3.1. Type and quality of the guarantees.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Securities Securities Repo Reverselending borrowing operations repo operations TRSCash - - - - -Security - - - - 7,690,423Rating or literary Not applicable3.2. Guarantee maturity.Securities Securities Repo Reverselending borrowing operations repo operations TRSUnder 1 day - - - - —1 day to 1 week - - - - -1 week 101 month - - - - -1 to 3 months - - - - —3 months to 1 year - - - - -More than 1 year - - - - -Open - - - - 7,690,4233.3. Guarantee currency.Securities Securities Repo Reverselending borrowing operations repo operations TRSCurrency - - - - EUR1 Amount - - - - 5,528,5462 Currency - - - - USDAmount - - - - 1,094,121Currency - - - - GBP3 Amount - - - - 1,067,756935828 13 Annual report — Fiscal year ending on: 31.03.2017
+
+
+
+
+===================================================
+13.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+3.4. Maturity ot the securities financing operations and total return swaps.
+
+
+
+
+Securities Securities Repo Reverselending borrowing operations repo operations TRSUnder 1 day - - - - -1 day to 1 week - - - - -1 week 101 month - - - - -1 to 3 months - - - - 188,134,746
+
+3 months to 1 year - . . . _
+
+More than 1 year A . _ _ _
+
+
+
+
+
+
+
+Open - - - - -
+
+3.5. Countries where the counterparties are established.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Securities Securities Repo Reverselending borrowing operations repo operations TRSCountry - - - - FRANCE
+1Amount - - - - 188,134,7463.6. Settlement and clearing.
+Securities Securities Repo Reverselending borrowing operations repo operations TRSTripartite - - - - -Central counterparty - - - - -Bilateral - - - - 188,134,746
+
+
+
+
+
+
+4. Data on the reuse of guarantees (collateral).
+Financial guarantees received in a non-cash form shall not be sold, reinvested or pledged.
+5. Retention of the guarantees received by the collective investment undertaking in connection with securitiesfinancing operations and total return swaps.
+
+
+
+
+
+
+Number of custodians 11 Name SOCIETE GENERALEAmount 7,690,423
+
+
+
+
+935828 14 Annual report — Fiscal year ending on: 31.03.2017
+
+===================================================
+14.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+6. Retention of the guarantees provided by the collective investment undertaking in connection with securitiesfinancing operations and total return swaps.
+The custodian, Société Generale S.A., exercises three types of responsibility; respectively, the monitoring of theregularity of the decisions of the management company, the monitoring of cash flows of the CIU and the custody of theassets of the CIU.
+Société Generale S.A also works with a limited number of sub-custodians, selected according to the most rigorousquality standards, including the management of possible conflicts of interest which may arise from these appointments.The Custodian has established an effective policy for identification, prevention and management of conflicts of interest, incompliance with national and international regulations as well as international norms.
+7. Data on the earnings and costs for each type of securities financing operation and total return swap.
+The CIU shall utilise overthecounter index—Iinked swaps trading the value of the ClU‘s assets (or, as the case may be,any other asset held by the CIU) against the value of the Benchmark Indicator.
+The revenue and costs linked to these Total Return Swaps (TRS) are included in the assessment of the instruments aswell as in the result presented in the statement of net assets and the statement of net asset values.
+
+935828 15 Annual report — Fiscal year ending on: 31.03.2017
+===================================================
+15.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+Auditor’sreport
+
+pwc
+AUDITOR’S REPORTON THE ANNUAL ACCOUNTSFiscal year closing on 31 March 2017
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETFUCITS INCORPORATED IN THE FORM OF A MUTUAL FUND
+Monetary and Financial Code
+Management ComganyLYXOR INTERNATIONAL ASSET MANAGEMENT
+17, cours Valmy92800 Puteaux
+Ladies, Gentlemen,
+As part of the mission entrusted to us by the management company’s management bodies, we hereby present ourreport relative to the ﬁscal year closing on 31 March 2017 concerning:
+— the veriﬁcation of the annual accounts of UCITS incorporated in the form ofa mutual fund LYXOR MSCI AC ASIAPACIFIC EX JAPAN UCITS ETF, as they are attached to this report;
+7 the bases of our assessments;
+— the speciﬁc veriﬁcations and information required by law.
+The annual accounts have been Closed under the responsibility of the funds management company. It is our duty toexpress an opinion on these accounts based on our audit,
+1. OPINION ON THE ANNUAL ACCOUNTS
+We have conducted our audit in accordance with the applicable professional standards in France These standardsrequire that we apply the procedures necessary to obtain reasonable assurance that the annual ﬁnancial statements donot include any signiﬁcant misstatements, An audit involves verifying, by sampling and other selection methods, theelements underlying the amounts and information contained in the annual ﬁnancial statements, It also involvesassessing the implemented accounting principles, the signiﬁcant estimates that have been used, and assessing theoverall presentation of the ﬁnancial statements, We feel that the collected evidence is sufﬁcient and appropriate forthe basis of our opinions
+We certify that, in accordance with French accounting rules and principles, the annual ﬁnancial statements aretruthful and in order, and present a fair picture of the operating proﬁts and losses for the past ﬁscal year, as well asthe UCITS created in the form of a mutual fund at the end of said ﬁscal yeatx
+2. JUSTIFICATION OF THE ASSESSMENTS
+In application of the provisions of article L,823-9 of the Commercial Code relative to the justiﬁcation of ourassessments, we inform you of the fact that the assessments we made concerned the appropriateness of theimplemented accounting principles and the reasonable nature of the signiﬁcant estimated that have been used,
+The assessments made in this way are in line with our approach for the audit of the annual accounts, taken as a whole,and they therefore contributed to the formulation of our opinion as expressed in the ﬁrst pan of this report,
+
+Ie Cedex
+
+P ewaterhouseCoopersAudit, 63, rue de Vi’llz‘e , 92208 Ne 'Ily ur’1‘.- +33 (0) 1 56 57 58 59, F: +33(a)1 56 5758 6(1.www.pwcﬁ
+Socuélé d'sxpell se :amplabls mscnle nu labein as l‘urdrv da Pans - He de France Soc sté as camnussanax aux commas memhre no la compagma mgvonaie aeVersailles Sociélb ps' Acmms Stmnllﬁés am napllal de 2 510 450 e Slége sooal 63 we de mums 92200 Neulllyrsurr SElnE ROS Nsnxena 677 ms 483 TVAn“ ruvss‘lznoswa Sumter) one 483 00352 Coda APE 5920 z Eureaux Bamaaux Grenoble, Ulla, Lynn Marssvue Melz‘ Nana; Nms Psns, thels Rennes‘Rauan. Strasbouvg Toulouse
+
+935828 16 Annual report — Fiscal year ending on: 31.03.2017
+===================================================
+16.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+3. SPECIFIC INFORMATION AND AUDIT PROCEDURES
+We have also conducted the auditing procedures required by law in accordance with the applicable professionalstandards in France‘
+We have no observations to report regarding the truthfulness or consistency with the annual accounts of theinformation included in the annual report and in the documents sent to the shareholders concerning the company’ssituation and annual accounts
+Neuilly sur Seine, date of the electronic signature
+
+Document authenticated via electronic signatureThe auditorPricewaterhouseCoopers Audit
+
+
+Marieichristine Jetil
+
+2017t07‘l9 18:34:06+0200
+
+935828 17 Annual report — Fiscal year ending on: 31.03.2017
+===================================================
+17.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+ANNUALACCOUNTS
+
+935828 18 Annual report — Fiscal year ending on: 31.03.2017
+===================================================
+18.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+31.03.2017 31.03.2016
+Currency
+
+Net fixed assetsDepositsFinancial instruments
+0 EQUITIES AND SIMILAR SECURITIESTraded on a regulated 01' similar marketNot traded on a regulaned or similar market
+0 BONDS AND SIMILAR SECURITIESTraded on a regulated or similar marketNot traded on a regulated or similar market
+0 DEBT SECURITIESTraded on a regulated or similar marketNegotiated debt securitiesOther debt securitiesNot traded on a regulated or similar market
+0 COLLECTIVE INVESTMENT UNDERTAKINGSGeneral UCITS and Investment Fund intended for non-professionals andequivalent, of other countriesOther Funds intended for non»professionals and equivalent, of other EUmember statesGeneral professional Funds and equivalent, of other EU member statesand lished securitisation entitiesOther professional investment Funds and equivalent of other EU memberstates and non-listed securitisation entitiesOther non-European entities
+0 TEMPORARY SECURITIES TRANSACTIONSReceivables representing ﬁnancial securities under reverse repurchaseagreementsReceivables representing loaned ﬁnancial securitiesFinancial securities borrowedFinancial secuﬁties under repurchase agreementsOther temporary transactions
+0 FINANCIAL CONTRACTSOperations on a regulated or similar marketOther operations
+0 OTHER FINANCIAL INSTRUMENTS
+ReceivablesFuture foreign exchange operationsOther
+Financial accountsLiquidities
+Other AssetsTotal assets
+
+
+935828 19 Annual report — Fiscal year ending on: 31. 03.201 7
+===================================================
+19.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+31.03.2017 31.03.2016
+Currency
+
+Shareholders’ equities
+0 Capital
+0 Non—distributed prior net capital gains and losses0 Carried forward
+0 Net capital gains and losses of the ﬁscal year
+0 Result of the fiscal year
+Total shareholders’ equity(amount representing the net assets)
+Financial instruments0 SALE OPERATIONS 0N FINANCIAL INSTRUMENTS
+O TEMPORARY F mANCIAL SECURITIES TRANSACTIONSDebts representing ﬁnancial securities under repurchase agreementsDebts representing borrowed ﬁnancial securitiesOther temporary transactions
+0 FINANCIAL CONTRACTSOperations on a regulated or similar marketOther operations
+DebtsFuture foreign exchange operationsOther
+Financial accountsBank loans and overdraftsLoans
+
+Total liabilities
+
+
+
+935828 20 Annual report — Fiscal year ending on: 31. 03.201 7
+===================================================
+2.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+Management company LYXOR INTERNATIONAL ASSET MANAGEMENT17, cours Valmy 7 92987 Paris La De’fense Cedext
+Depository and Custodian SOCIETE GENERALE75886 Paris Cedex 18‘
+Underwriter SOCIETE GENERALE75886 Paris Cedex 18‘
+Statutory auditor PRICEWATERHOUSECOOPERS AUDIT63, rue de Villiers » 92208 Neuilly-sur-Seiue Cedex,
+INFORMATION ON THE INVESTMENTS AND MANAGEMENT
+Classiﬁcation:International equities.
+At least 60% 0f the MF is permanently exposed in a foreign equity market or in equity markets of several countries,possibly including the French market,
+The MF is index-based fund of the UCITS ETF type.
+Terms of determination and allocation of amounts available for distribution:Class of units C-EUR and C-USD: Capitalisation of all the amounts available for distribution.
+Units USD: The management company reserves the right to capitalise and/or distribute all or part of the result, one ormore times each year. The generated net capital gains will be capitalised.
+Management objective:
+T e MF's management objective is to replicate the MSCI AC ASIA PACIFIC-EX JAPAN NET TOTAL RETURNindex (“the Benchmark Indicator), listed in dollars of the United States of America (USD), regardless of its evolution,while insofar as possible minimizing the tracking error between the MF’s performances and those of the BenchmarkIndicators
+T e anticipated level of the ex-post tracking error under normal market conditions is 0.08%.
+Benchmark indicator:
+Tie benchmark indicator is the MSCI AC ASIA PACIFIC-EX JAPAN NET TOTAL RETURN index, (net dividendsreinvested).
+T18 Benchmark Indicator is an equities index calculated and published by the supplier of international indices, MSCI.
+T16 Benchmark Indicator measures the overall performance of the markets in Asia and the Paciﬁc, except J apan. On31 March 2006, the Benchmark Indicator consisted of 667 securities listed on the 13 markets of the following countries:China, Hong Kong, Indonesia, Korea, Malaysia, Philippines, Singapore, Taiwan, Thailand, New Zealand, Australia andIndia.
+T16 weight of each security in the Benchmark Indicator is adjusted according to its stock market capitalisation, on thebasis of the free-ﬂoat. Consequently, the number of securities included in the composition of the basket may changeover time,
+T16 ofﬁcial MSCI indices are calculated on a daily basis at the market closing using the ofﬁcial closing prices of thestock exchanges of listing of securities composing the indices.
+T16 Benchmark Indicator is an index weighted by the equity market capitalisation.
+
+T'ie monitored performance is that of the closing prices of the Benchmark Indicators
+An exhaustive description and the complete methodology for the construction of the Benchmark Indicator as well asinformation on the composition and relative weights of the Benchmark Indicator's components will be available on theMSCI website: http://wwwtmscitcom.
+Revisions and composition of the Benchmark IndicatorThe MSCI Standards indices are reviewed quarterly to account for events that may affect the market capitalisation of anindex component (i.e. the number of securities issued and its free ﬂoat) or its sector classification. The principal
+changes in a company’s capital structure may be implemented in real time (merger or acquisition, large rights issues orIPOs).
+
+935828 3 Annual report — Fiscal year ending on: 31.03.2017
+===================================================
+20.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+31.03.2017 31.03.2016
+Currency
+
+Hedgingo Commitments on regulated or similar markets- Futures market- Options market— Credit derivatives— Swaps— Contracts for Differences (CFD)
+0 Over-the—counter commitments— Futures market— Options market- Credit derivatives— Swaps— Contracts for Differences (CFD)
+0 Other commitments— Futures market- Options market— Credit derivatives— Swaps- Contracts for Differences (CFD)
+Other operations0 Commitments on regulated or similar markets— Futures market- Options market- Credit deﬁvatives— Swaps- Contracts for Differences (CFD)
+0 Ovet-the-counter commitments- Futures market- Options market— Credit derivatives- Performance swaps- Contracts for Differences (CFD)
+0 Other commitments- Futures market— Options market- Credit derivatives- Swaps— Contracts for Differences (CFD)
+
+
+
+935828 21
+Annual report — Fiscal year ending on: 31. 03.201 7
+===================================================
+21.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+31.03.2017 31.03.2016
+Currency
+
+Earnings on ﬁnancial transactions
+0 Earnings on deposits and ﬁnancial accounts
+0 Earnings on equities and similar securities
+0 Earnings on bonds and similar securities
+0 Earnings on debt securities
+0 Earnings on temporary ﬁnancial securiiies acquisitions and sales0 Earnings on ﬁnancial contracts
+0 Other ﬁnancial products
+Total (I)
+
+Charges on ﬁnancial operations
+0 Charges on temporary ﬁnancial securities acquisitions and sales0 Charges on ﬁnancial contracts
+0 Charges on ﬁnancial debts
+o Other ﬁnancial charges
+Total (II)
+
+Proﬁt and loss on ﬁnancial operations (I - II)
+
+Other earnings (III)
+Management fees and depreciation charges (IV)
+Net proﬁt and loss of the ﬁscal year (L.214-17-l) (I - II + III - IV)Adjustment of the ﬁscal year’s incomes (V)
+Advances on result paid for the ﬁscal year (VI)
+
+
+Earnings (I - II + [H - IV +/- V - VI):
+
+
+935828 22 Annual report — Fiscal year ending on: 31.03.2017
+===================================================
+22.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+appendix
+1 ccounting rule and methods
+The annual accounts are presented in the form required by Regulation ANC 2014-01 that repealedthe amended CRC Regulation 2003-02.
+Assessment rules
+The MF’s assets are assessed in compliance with the applicable laws and regulations, and moreparticularly with the rules deﬁned in regulation 110. 2014-01 of the Accounting RegulatoryCommittee dated 14 January 2014 relative to the chart of accounts of undertakings for collectiveinvestment in transferable securities.
+The ﬁnancial instruments traded on a regulated market are assessed at the closing price on the daybefore the calculation day of the net asset value, When these ﬁnancial instruments are traded onseveral regulated markets at the same time, the chosen closing price is the one of the regulatedmarket in which they are primarily traded,
+However, in the absence of signiﬁcant transactions on a regulated market, the following financialinstruments are assessed using the following specific methods:
+— Negotiable debt securities (“NDS”) having a residual life upon acquisition that is less than orequal to 3 months are assessed with a linear distribution, over the residual lifespan, of thedifference between the acquisition value and the redemption value, The management companynevertheless reserves the possibility of assessing these securities at the current value in ease ofparticular sensitivity to market risks (rates, etc.). The chosen rate is that of the equivalentsecurity issues allocated to the risk margin related to the issuer;
+- NDS, of which the residual lifespan at acquisition is greater than 3 months but of which theresidual lifespan 0n the net asset value closing date is equal to or less than 3 months, are assessedby means of a linear distribution, over the residual lifespan, of the difference between the lastadopted current value and the reimbursement value, The management company neverthelessreserves the possibility of assessing these securities at the current value in case of particularsensitivity to market risks (rates, etc). The chosen rate is that of the equivalent security issuesallocated to the risk margin related to the issuer;
+- NDS, of which the residual lifespan 0n the net asset value closing date is greater than 3 months,are assessed at their current value. The chosen rate is that of the equivalent security issuesallocated to the risk margin related to the issuer.
+— Firm future ﬁnancial instruments traded on organised markets are assessed at the clearing priceon the day before the calculation day of the net asset value Conditional future financialinstruments traded on organised markets are assessed at the market value on the day of the netasset value Over-the—counter ﬁrm or conditional future ﬁnancial instruments are assessed at theprice given by the ﬁnancial instrument’s counterparty, They are presented in the off—balancesheet on the basis of the nominal value defined in the contract,
+In the event of the holding of an EMTN, it will be valued 0n the basis of a market price given bythe financial instrument’s counterparty.
+The management company independently carries out a verification of this assessment.— Deposits are assessed at their nominal value, plus any related interest that has accrued,
+- Subscription warrants, cash certiﬁcates, promissory notes and mortgage notes are assessed attheir probable market value, under the management company's responsibility,
+- Temporaiy securities acquisitions and sales are assessed at the market price,
+- Units and equities in undertakings for collective investment in transferable securities operatingunder French law are assessed at the last net asset value known on the calculation date of theMF’s net asset value.
+- Units and equities of UCITS operating under foreign law are assessed at the last unit net assetvalue known on the calculation date of the MF’s net asset value.
+Financial instruments traded on a regulated market for which the price has not been determined orfor which the price has been corrected are assessed at their probable market value, under themanagement company’s responsibility.
+
+935828
+23 Annual report — Fiscal year ending on: 31.03.2017
+===================================================
+23.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+appendix
+The exchange rates used for the assessment of ﬁnancial instruments listed in a currency other thanthe MF’s reference currency are the exchange rates disseminated by the WM Reuters on the sameday of the MF’s net asset value date.
+Posting method for the trading feesThe chosen method is that of included fees‘
+Posting method of incomes from ﬁxed income securitiesThe chosen method is that of the collected coupon.
+Assessment methods for off-balance sheet commitmentsOff—balance sheet operations are assessed at the commitment value.
+The commitment value for firm futures contracts is equal to the price (in the currency of the CIU)multiplied by the number of contracts multiplied by the face value.
+The commitment value for conditional operations is equal to the price of the underlying security(in the currency of the CIU) multiplied by the number of contracts multiplied by the deltamultiplied by the underlying face value,
+The commitment value for the swap contracts is equal to the contract’s nominal amount (in thecurrency ofthe CIU)‘
+Operation and management fees
+These fees include all of the fees invoiced directly to the MF, except for the transaction fees. Thetransaction fees include intermediation fees (brokerage, stock market tax, etc) and the transfercommission which, if relevant, may notably be collected by the custodian and managementcompany.
+For this MF, the following fees can be added to the operation and management fees (see summaryTable hereinafter):
+- Outperformance commissions: these commissions reward the management company when theMF has exceeded its objectives and are therefore invoiced t0 the MF;
+- Transfer commissions invoiced t0 the MF.
+For more details on the fees actually invoiced to the MF, refer to the Statistical Part of the KeyInvestor Information Document “KIID”.
+
+Fees invoiced t0 the CIU Basis Schedule rate
+
+Financial management fees andadministrative fees external to the portfolio
+
+
+
+i i Net asset maximum 0.60‘7 er earmanagement company (Auditor, Deposnory, 0 p ydistribution, lawyers) including tax ”lOutperformance commission Net asset None‘ ‘ Collection on eachTransfer commissions ‘ Nonetransaction
+
+
+
+(I) including all fees excluding transaction fees, outperformance commissions and fees related to
+investments in UCITSi
+Accounting currencyThe MF accounting is carried out in EURO.
+Indication of accountancy changes declared to each of the bearers individually- Occurred change: None.- Future change: None.
+
+935828
+24 Annual report — Fiscal year ending on: 31.03.2017
+
+===================================================
+24.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+appendix
+Indication of other changes declared to each of the bearers individually (Not certified by theauditor)
+- Occurred change: None.- Future change: None.
+Indication and justiﬁcation of the changes to estimates and application provisionsNone.
+Indication of the nature of the errors corrected during the ﬁscal yearNonei
+Indication of the rights and conditions attached to each category of unitsClass of units C-EUR and C-USD: Capitalisation of all the amounts available for distribution.
+Units USD: The management company reserves the right to capitalise and/or distribute all or partof the result, one or more times each year‘ The generated net capital gains will be capitalised,
+
+
+LYXOR ETF MSCI AC ASlAiPACIFIC EX JAPAN (the “‘Fund”) is in no way sponsored, endorsed, sold orpromoted by MSCI Inc, (MSCI), or by any MSCI subsidiary, or by any of the entities involved in thepreparation of the MSCI indices. The MSCI indices are the exclusive property of MSCI and the MSCI indicesare trademarks belonging to MSCI or its subsidiaries and have been the subject of a licence granted, forcertain requirements, to Lyxor Asset Management. Neither MSCI, nor any MSCI subsidiary, nor any of theentities involved in the preparation 01' calculation of the MSCI indiees makes any declaration or issues anyexpress or implicit guarantee relative to holders of the Fund’s units or more generally to the public, withregard to the timeliness of a transaction involving mutual fund units in general or the Fund‘s units inparticular, or regarding the ability of any MSCI index to replicate the performance of the overall equitymarket MSCI or its subsidiaries are the owners of certain names, registered trademarks and 0f the MSCIindiees that are determined, composed and calculated by MSCI without discussion with Lyxor InternationalAsset Management or the Fund, Neither MSCI, nor any MSCI subsidiary, nor any of the entities involved inthe preparation of the MSCI indices is required to take into account the needs of Lyxor International AssetManagement or of the holders of the Fund’s units when determining, composing or calculating the MSCIindicesi Neither MSCI, nor any MSCI subsidiary, nor any of the entities involved in the preparation of theMSCI indiees makes any decision regarding the launch date, the price, the quantity of the Fund’s units, oreven the determination and calculation of the formula used to establish the Fund’s net asset value. NeitherMSCI, nor any MSCI subsidiary, nor any of the entities involved in the preparation of the MSCI indieesassumes any liability or obligation with regard to the Fund’s administration, management or marketing,THOUGH MSCI OBTAINS INFORMATION FOR INTEGRATION OR USE IN THE CALCULATIONOF THE INDICES FROM SOURCES THAT MSCI CONSIDERS TO BE RELIABLE, NEITHER MSCINOR ANY OTHER PARTY INVOLVED IN THE CREATION OR CALCULATION OF THE MSCIINDICES GUARANTEES THE EXACTNESS AND/OR EXHAUSTIVE NATURE OF THE INDICES OROF ANY INCLUDED DATA, NEITHER MSCI NOR ANY OTHER PARTY INVOLVED IN THECREATION OF A CALCULATION FOR THE MSCI INDICES GIVES ANY EXPRESS OR IMPLICITGUARANTEE AS TO THE RESULTS THAT MAY BE OBTAINED BY THE HOLDER OF A MSCILICENCE, THE CUSTOMERS OF THE SAID LICENSEE AS WELL AS THE COUNTERPARTIES,UNIT HOLDERS IN THE FUND OR ANY OTHER PERSON OR ENTITY, BASED ON THE USAGE OFTHE INDICES OR OF ANY DATA INCLUDED WITH REGARD TO THE RIGHTS GRANTED BYLICENCE OR FOR ANY OTHER USAGE, NEITHER MSCI NOR ANY OTHER PARTY GIVESEXPRESS OR IMPLICIT GUARANTEES AND MSCI REJECTS ALL GUARANTEES REGARDINGTHE COMMERCIAL VALUE OR ADEQUACY FOR A SPECIFIC USAGE OF THE INDICES ORINCLUDED DATA NOTWITl—ISTANDING THE ABOVE, UNDER NO CIRCUMSTANCES MAY THELIABILITY OF MSCI OR OF ANY OTHER PARTY BE SOUGHT WITH REGARD TO ANYDAMAGES, WHETHER DIRECT, INDIRECT OR OTHER (INCLUDING THE LOSS OF EARNINGS),EVEN IN CASE OF KNOWLEDGE OF THE POSSIBILITY OF SUCH DAMAGES
+
+
+935828
+25 Annual report — Fiscal year ending on: 31.03.2017
+
+===================================================
+25.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+2. Evolution of the net assets
+
+
+31.03.2017 31.03.2016Currency EUR EURNet assets at the start of the ﬁscal year 285,186,482.89 438,687,806.21Subscriptions (including subscriptioncommission acquired by the CIU) 114,122,133.22 324,348,93959
+Redemptions (less the redemptioncommission acquired by the CIU)
+Capital gains generated on deposits and ﬁnancial instruments
+Capital losses generated on deposits and ﬁnancial instruments
+Capital gains generated on financial contracts
+Capital losses generated on ﬁnancial contracts
+Transaction fees
+Exchange rate differentials
+Changes to the estimate difference of
+-114,838,980.3647,925,521.26-28,975,430.04647,905,012.47-633,356,991.25-7,970.51
+1,431,116.37
+-405,539,186.7852,411,569.58-50,879,584.781,181,781,767.72
+-1 ,223, 174,638.60
+6,323,337.99
+
+
+the deposits and ﬁnancial instruments: 28,389,46851 -36,566,411.61- Estimate diﬁerenceﬁscal year N 51,256, 797.02 2,867,328.51- Estimate diﬁcrenceﬁscal year N-I 22,867,328.51 59,433, 740.12Changes to the estimate difference ofﬁnancial contracts: 3,905,214.42 6,727,958.61- Estimate diﬂerencefiscal year N 3,839,472.16 -65, 742.26- Estimate diﬁerenceﬁscal year N-1 -65, 742.26 -6,793, 700.87Previous ﬁscal year distribution of net capital gains and losses — -Previous ﬁscal year distribution on profits - -Net profit and loss of the ﬁscal year before adjustment account 906,979.34 711,600.94Advance(s) paid during the ﬁscal year on net capital gains and losses — -Advance(s) on proﬁts paid during the fiscal year - -Other elements - »Net assets at the end of the ﬁscal year 352,592,556.32 285,186,482.89
+
+
+935828
+26
+Annual report — Fiscal year ending on: 31.03.2017
+===================================================
+26.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+3. Information supplements
+3.1 Financial instruments: breakdown by the instrument’s legal or economic type3.1.] Breakdown of the “Bonds and similar securities item by type of instrument
+Traded on a regulated Not traded on a regulatedor similar market or similar market
+
+Index-linked bonds - -
+
+Convertible bonds A -
+
+Fixed»rate bonds - »
+
+Variable-rate bonds - -
+
+Zero—coupon bonds ~ —
+
+Participating securities - »
+
+Other instruments _ _
+
+3.1.2 Breakdown of the “Debt securities item by legal or economic type
+Traded on a regulated Not traded on a regulatedor similar market or similar market
+
+Treasury Bills — -
+
+Commercial papers - »
+
+Certificates of deposit . _
+
+Medium—term notes (“BMTN”) — _
+
+Other instruments - »
+
+31.3 Breakdown of the “Sale operations on ﬁnancial instruments” item by instrument type
+
+
+Securities under Securities borrowed Securities acquired Short sales
+reverse repurchase sold with redemption
+agreement sold right soldEquities - - - —Bonds - - - -
+
+Debt securities — . _ _
+
+Other investments — . _ _
+
+
+935828 27 Annual report — Fiscal year ending on: 31.03.2017
+===================================================
+27.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+3‘1.4 Breakdown of the 0ff»balancc sheet headings by market type (notably rates, equities)
+Rate Equities Exchange Other
+
+HedgingCommitments on regulated - — _ _or similar markets
+
+Over»the-counter commitments - — . _
+
+Other commitments — . _ _
+
+Other operationsCommitments on regulated - — _ _or similar markets
+
+Over-[he-counter commitments 188,134,74560 - -
+
+Other commitments - . . .
+
+3.2 Breakdown by rate types of the asset, liability and off-balance sheet items
+Fixed rate Variable rate Revisable rate Other
+
+AssetsDeposits
+
+Bonds and similar securities - — . _
+
+Debt securities - . _ _
+
+Temporary ﬁnancial securities operations - . . _
+
+Financial accounts - - - 0.75
+
+LiabilitiesTemporary ﬁnancial securities operations
+
+Financial accounts - - - 0.02
+
+Off—balance sheetHedging
+
+Other operations — . . _
+
+3.3 Breakdown by residual maturity of the asset, liability and off-balance sheet items
+0-3 months 3 months - 1-3 years 3-5 years >5 years1 year
+
+AssetsDeposits - — . _ _
+
+Bonds and similar securities - . . _ _
+
+Debt securities — . . _ _
+
+Temporaiy ﬁnancial securitiesoperations — - - — -
+
+Financial accounts 0.75 - _ . _
+
+LiabilitiesTemporaiy ﬁnancial securitiesoperations - — - — -
+
+Financial accounts 0.02 — . _ _
+
+Off—balance sheetHedging
+
+Other operations 188,134,745.60 - — _ _
+
+
+935828 28 Annual report — Fiscal year ending on: 31.03.2017
+===================================================
+28.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+3.4 Breakdown by listing or assessment currency of the asset, liability and off—balance sheet itemsThis breakdown is givenfor the main listing or asxessmem‘ currenciex, with the exception 0fthe currencyfor the
+keeping Ofthe accounts.
+By main currency
+USD
+J PY - Othercun’encies
+
+AssetsDeposits
+
+Equities and similar securities
+101,127,871.91
+20,560,62127 - -
+
+Bonds and similar securities
+
+Debt securities
+
+CIU
+
+Temporary ﬁnancial securities operations
+
+Receivables
+
+Financial accounts
+
+Other assets
+
+LiabilitiesSale operations on financial instruments
+
+Temporary ﬁnancial securities operations
+
+Debts
+
+Financial accounts
+
+Off-balance sheetHedging
+
+Other operations
+
+3.5 Receivables and Debts: breakdown by type
+Detailx 0fthe elements comprixing the “other receivables” and “other debtx items,notably breakdown of the future foreign exchange operations by type ofoperation (purchase/sale).
+
+ReceivablesFuture currency exchange operations:
+305,000.000
+
+Future purchases of currency
+
+Total traded amount of future Sales of currencies
+
+Other receivables:Coupons receivable
+305,000.00
+
+
+
+
+
+Other operations
+
+DebtsFuture currency exchange operations:
+482,113.28
+
+Future sales of currencies
+
+Total traded amount of future Purchases of currencies
+
+Other debts:Account payable
+305,000.00
+
+Accrued expenses
+177,113.28
+
+
+
+
+Other operations
+
+
+935828
+29
+Annual report — Fiscal year ending on: 31.03.2017
+===================================================
+29.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+3.6 Shareholders’ equity
+
+
+
+
+Subscrigtions RedemgtionsNumber of units issued/redeemed Number of Amount Number of Amountduring the fiscal year: units unitsUNIT USD / FR0010372185 » - - -UNIT C-EUR / FR0010312124 1,938,494 $4,965,768.74 2,453,200 104,905,986177UNIT C-USD / FR0010581439 674,521 29,156,36448 228,500 9,932,993.59Subscription / redemption commission by unitcategory: Amount Amount
+
+UNIT USD / FR0010372185 - -UNIT C-EUR / FR0010312124 - -UNIT C»USD / FR0010581439 » »Remittances by unit category: Amount AmountUNIT USD / FR0010372185 - -UNIT C—EUR / FR0010312124 - -UNIT C-USD / FR0010581439 - -Commissions acquired by the CIU by unit
+category: Amount AmountUNIT USD / FR0010372185 — —UNIT C—EUR / FR0010312124 - -UNIT C-USD / FR0010581439 - -
+
+
+
+
+
+
+
+
+
+
+
+3.7 Management fees
+
+
+
+Operating and management fees (fixed fees) as % of the average net assets %Unit category:
+UNIT USD / FR0010372185 0.60UNIT C-EUR / FR0010312124 0.60UNIT C—USD / FR0010581439 0.60Performance commissions (variable fees): amount of costs for the year AmountUnit category:
+UNIT USD / FR0010372185 -
+
+UNIT C-EUR / FR0010312124 -UNIT C-USD / FR0010581439 -Retrocession of management fees:- Total amount of fees retroceded t0 the CIU -- Breakdown by “target CIU:- CIU 1 -- CIU 2 -— CIU 3 —- CIU 4 -
+
+
+
+
+
+
+
+935828 30 Annual report — Fiscal year ending on: 31.03.2017
+===================================================
+3.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+The exact composition and the revision rules of the Benchmark Indicator are published by MSCI are available on theInternet site: http://www.msci.com. The rebalancing frequency indicated above does not affect the cost ofimplementingthe Investment strategy.
+Benchmark Indicator publication
+The Benchmark Indicator is also calculated in real time every day that the Benchmark Indicator is published. TheBenchmark Indicator is available in real time Via Reuters and Bloombergi
+Reuters code: idMISXOOOOONUS
+Bloomberg code: NDUECAPF
+The Benchmark Indicator's closing price is available on MSCI internet site: http://www,msci.com,
+Investment strategy:
+1. Strategy employedThe MF will comply with the investment rules dictated by the European directive n0. 2009/65/EC dated 13 July 2009.
+In pursuit of the greatest possible correlation with the performance of the Benchmark Indicator, the MF will reach itsmanagement objective using the indirect replication method which means that it will enter into one or more OTC swapcontracts enabling it to reach its investment objective. The objective of these swap contracts will be to exchange (1) thevalue of the MF’s assets, which will consist of balance sheet assets (excluding any securities received as guarantees),for (ii) the value of the securities that underlie the Benchmark Indicator.
+The securities in the MF’s assets will notably be securities making up the Benchmark Indicator, as well as otherinternational equities, from all economic sectors, listed on all markets, including the small caps markets.
+The securities basket held may be adjusted daily so that its value will be superior or equal to 100% of the Fund's netassets in most cases‘ Where necessary, the aim of this adjustment will be the neutralisation of the counterparty riskresulting from the future exchange contract described above,
+Information relative to (i) the updated composition of the basket of the balance sheet assets held in the MF’s portfolioand (ii) the market value of the forward exchange operation entered into by the MF are available on the page dedicatedto the MF 0n the Internet site wwwlyxoretﬂcom, The update frequency and/or the update date of the aforesaidinformation is also indicated on the same page of the aforesaid Internet site‘
+As part of the management of its exposure, the MF may be exposed up to 20% of its assets in equities from a singleissuing entity. This 20% limit can be increased to 35% for a single issuing entity when this proves to be justiﬁed byexceptional conditions within the market, notably when certain securities are heavily dominant and/or in the event ofhigh volatility of a financial instrument and of securities from an economic sector represented by the BenchmarkIndicator, in particular in the event of a public offering affecting one of the securities making up the BenchmarkIndicator or in the event of a signiﬁcant restriction of liquidity affecting one or more ﬁnancial instruments making upthe Benchmark Indicator‘
+In the present case, the manager intends to primarily use the following assets:
+2. Balance sheet assets {excluding integrated derivatives!
+The MF may hold, in compliance with the ratios contained in the regulation, international equities (from all economicsectors, listed on all markets), including within the small cap markets,
+The aforementioned equities will be chosen on the basis of criteria:- of eligibility, in particular:Subordination to the main market indices or to the Benchmark Indicator,Liquidity (minimal thresholds applied to mean daily volumes of transactions and to the equity market capitalisation),0 Rating of the country of the issuer’s head office (requirement of a minimal threshold in S&P rating or equivalent),— of diversiﬁcation, notably:
+o Issuer (application of ratios applicable to the eligible assets of a UCITS, as speciﬁed in Art. R214-21 of the [French]Monetaiy and Financial Code),
+0 Geographical area,
+0 Sector‘
+The investment in undertakings for collective investment in transferable securities (“UCITS) compliant with theDirective 2009/65/EC is limited to 10% of the assets of the MF. As part of these investments, the MF can subscribe to
+units or equities of UCITS managed by the management company, or a company with which it is linked. The managerwill not invest in units or equities of AIF 01' other investment funds established on the basis of foreign laws.
+When the MF receives securities as guarantee under the conditions and limits of this section’s paragraph 8 below, theywill also constitute balance sheet assets received in full ownership by the MF, given that they are received by the MF infull ownership.
+
+935828 4 Annual report — Fiscal year ending on: 31.03.2017
+===================================================
+30.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+3.8 Commitments given and received
+3.8.] Description of guarantees received by the CIU with indication of the capital guarantees ............................. None3.8.2 Description of the other commitments received and/or given .......................................................................... None
+3.9 Other information
+3.9.1 Current Value of the financial instruments that are the subject of temporary acquisition:- Financial instruments sold under forward repurchase agreements -
+
+- Other temporary operations -
+
+3.9.2 Current value of the financial instruments comprising security deposits:Financial instruments received as guarantees and not included in the balance sheet:- equities 7,690,422.81
+
+- bonds -
+
+- debt securities -
+
+- other financial instruments .
+
+Financial estimates given as guarantees and maintained in their original item:- equities -
+
+- bonds _
+
+- debt securities -
+
+- other financial instruments .
+
+3.9.3 Financial instruments held in the portfolio, issued by entities linked to the management company (fund) or to theﬁnancial managers (MF) and CIU managed by these entities:- Equities
+
+- Swaps 3,839,472.19
+
+
+935828 31 Annual report — Fiscal year ending on: 31.03.2017
+===================================================
+31.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+3.10 Allocation of the earnings table ( in the CIU currency ufaccoum)
+Advances paid during the ﬁscal year
+Date Unit Overall Unit Total tax Unit taxcategory amount amount credits credits
+
+
+
+
+
+Total advances _ _ . .
+
+
+935828 32 Annual report — Fiscal year ending on: 31.03.2017
+===================================================
+32.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+31.03.2017 31.03.2016
+
+
+Allocation of the rofitllossAmounts still to be allocated
+Carried forward
+Proﬁt and loss
+Total
+
+UNIT USD / FR0010372185CurrencAllocation
+31.03.2017 31.03.2016
+
+Disiribuu'onCarried forward for the ﬁscal yearCapitalisation
+Total
+
+Information relative to the units and resulting in a distribution rightNumber of units
+Unit distribution
+
+
+Tax credits linked to the allocation of the profit/loss
+
+
+UNIT C»EUR / FR0010312124Currency
+31.03.2017 31.03.2016
+
+
+Allocation
+Distribution
+Carried forward for the ﬁscal yearCapitalisation
+Total
+
+Information relative to the units and resulting in a distribution rightNumber of units
+Unit distﬁbution
+
+
+Tax credits linked to the allocation of the profit/loss
+
+
+935828 33 Annual report — Fiscal year ending on: 31.03.2017
+===================================================
+33.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+UNIT C-USD / FR0010581439 31.03.2017 31.03.2016
+
+Currency
+
+Allocation
+Disu'ibution
+Carried forward for the ﬁscal year
+Capitalisation
+Total
+Information relative to the units and resulting in a distribution rightNumber of units
+Unit distribution
+
+Tax credits linked to the allocation of the proﬁt/loss
+
+
+
+935828 34 Annual report — Fiscal year ending on: 31.03.2017
+===================================================
+34.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+3.11. Allocation table of the amounts available for distribution related to the net capital gains and losses(in the CIU'S currency ofaccount)
+Advances on net capital gains and losses paid for the ﬁscal year
+
+
+
+
+
+
+Overall UnitDate
+amount amountTotaladvances
+
+
+935828 35 Annual report — Fiscal year ending on: 31.03.2017
+===================================================
+35.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+31.03.2017 31.03.2016
+
+
+Allocation of the net capital gains and losses
+
+Amounts still to be allocated
+Nondistributed prior net capital gains and losses
+Net capital gains and losses of the ﬁscal year
+Advances paid on net capital gains and losses of the ﬁscal year
+Total
+
+
+
+UNIT USD / FR0010372185 31.03.2017 31.03.2016
+
+
+Currenc
+Allocation
+Disu'ibution
+Non—disuibuted net capital gains and lossesCapimlisation
+Total
+
+Information relative to the units and resulting in a distribution rightNumber of units
+Distribution per unit
+
+
+
+UNIT C—EUR / FR0010312124 31.03.2017 31.03.2016
+
+
+Cun'ency
+
+Allocation
+Dishibution
+Non—disttibuted net capital gains and losses
+Capimlisation
+Total
+Information relative to the units and resulting in a distribution rightNumber of units
+Distribution per unit
+
+
+935828 36 Annual report — Fiscal year ending on: 31.03.2017
+===================================================
+36.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+UNIT C-USD / FR0010581439 31.03.2017 31.03.2016
+
+Currency
+Allocation
+Distribution
+Nondistributed net capital gains and losses
+Capitalisation
+Total
+Information relative to the units and resulting in a distribution rightNumber of units
+Disu'ibution per unit
+
+
+
+935828 37 Annual report — Fiscal year ending on: 31.03.2017
+===================================================
+37.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+3.12 Table of the earnings and other characteristic elements of the MF during the last 5 ﬁscal yearsFund creation date: 26 April 2006.
+
+CurrencyEUR 31.03.2017 31.03.2016 31.03.2015 31.03.2014 29.03.2013Net assets 352,592,556.32 285.186.482.89 438,687,80621 32254251031 57607933231
+
+UNIT USD / FR0010372185 Currenc OfIhe unit and 0f the NAV: USD31.03.2017 31.03.2016 31.03.2015 31.03.2014 29.03.20] 3
+
+Number of circulatingunits 3,741,918 3,741,918 5,147,437 6,747,437 12,861,559
+Net asset value 5.305 4.5279 5.1697 4.9042 4.8294Unit distribution on netcapital gains and losses
+
+(including advances) - — . _ _Unit distribution(including advances)* - — . _ _
+Unit tax credit transferredto unit holders
+(natural persons) (1) . . _ _ _
+Unit capitalisation * 0.46 0.20 2.52 0.45 —0.08* The amounts of the unit distribution. the unit capitalisation and the tax credits are indicated in the accounting currency of the CIU.The unit capitalisation L'arrespamls to the sum afprufit and loss and net capital gain: or losses on the number afcirwlating units.This calculation methad is applied since 1 January 2013.
+(I) In pursuant to the Fiscal Instruction Qf 4 March 1993 (If the Directorate Generalfor taxes. the unit tax credit will be determinedon the ex-tlividend date by tlixtributian Ufthe total amount Ufthe tax credits between the circulating units on that (late.
+
+
+UNIT C—EUR / FR0010312124 Currenc 0f the unit and 0f the NAV: EUR31.03.2017 31.03.2016 31.03.2015 31.03.2014 29.03.2013
+
+Number of circulatingunits 5,832,756 6,347,462 8,036,530 7,486,072 12,867,572
+Net asset value 49.6009 39.7347 48.1361 35.5836 376098Unit distribution on netcapital gains and losses(including advances) - - - - -
+
+Unit distribution(including advances)* - - . _ _
+Unit tax credit transferredto unit holders(natural persons) (1) . . _ _ _
+Unit capitalisation * 8.55 -4.29 6.40 -1.84 4.01* The amounts ofthe Imit distribution. the Ami! capitalisation and the tax credits are indicated in the accounting currency thhe CIU.The unit capitalisation correspond? to the SM! ()fprofit and 1055 and net capital guinx or losses on the number (gfcireuluting unity.Thls calculation method ls applied since 1 January 2013.
+W In pursuant to the F iu'al Instruction (gf 4 March I 993 of the Directorate General for taxes, the unit tax credit will be tletermirtetlan the ex-divideml date by distribution ufthe total amount vf'the tax credits between the circulating units on that date.
+
+
+
+935828 38 Annual report — Fiscal year ending on: 31.03.2017
+===================================================
+38.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+UNIT C-USD / FR0010581439
+Currenc 0f the unit and 0f the NAV: USD
+Number of circulatingunits
+Net asset value
+Unit distribution on netcapital gains and losses(including advances)
+Unit distribution(including advances)*
+Unit tax credit transferredto unit holders(natural persons) (1)
+Unit capitalisation *
+31.03.2017
+901,609
+53.0523
+-21.94
+31.03.2016
+31.03.2015 31.03.2014 29.03.2013
+455,588 562,199 903,500 1,163,500
+4512811 51.6997 49.0447 48.2948
+-1.23 32.76 —10.03 1.74
+The amounts ofthe unit distribution, the unit capitalisation and the tax credits are indicated in the accounting currency ofthe CIU.The unit capitalisation corresponds to the sum afprufit and loss and net capital gain: or losses on the number afL'irL'ulating units.
+This calculation method is applied since 1 January 2013.
+m In pursuant to the F iscal Instruction Qf 4 March 1993 of the Directorate General for taxes, the unit tax credit will be determinedon the ex-dividend date by distribution ufthe total amount ufthe tax credits between the circulating units on that date
+
+
+935828
+39
+Annual report — Fiscal year ending on: 31.03.2017
+===================================================
+39.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+4. In entory of 31.03.2017
+Listing % Net
+Seculity code Name of the security Security status Quantity Market value currency AssetsInvestment Securities
+Equity
+DE0008404005 ALLIANZ SE-NOM OWN SPECIFIC 97,726.00 16,970,] 19.90 EUR 4.81U502079K3059 ALPHABET INC OWN SPECIFIC 905.00 717,366.18 USD 0.201180231351067 AMAZON.COM OWN SPECIFIC 20,262.00 16.794,982.45 USD 4,76U50304201033 AMERICAN WATER WORKS OWN SPECIFIC 59,856.00 4,352,298.74 USD 1.23BE0974293251 ANHEUSER BUSCH INBEV SA/NV OWN SPECIFIC 45,371.00 4,668,675.90 EUR 1.32FR0010313833 ARKEMA PGARAN 2,982.00 275,775.36 EUR 0.08JP3112000009 ASAHI GLASS CO LTD OWN SPECIFIC 39,162.00 296,393.05 JPY 0.08DEOOOBASFI 11 BASF SE OWN SPECIFIC 302,998.00 28,154,574.16 EUR 7.99DE0003AY0017 BAYER AG OWN SPECIFIC 95,747.00 10,345,463.35 EUR 2.93U50846707026 BERKSHIRE HATAW B OWN SPECIFIC 48,391.00 7,541,313.52 USD 2.14FR0000120503 BOUYGUES PGARAN 1,831.00 69,861.81 EUR 0.02JP3830800003 BRIDGESTONE CORP OWN SPECIFIC 58,303.00 2,202,873.04 JPY 0.62USIS98641074 CHARLES RIVER LABORATORIES OWN SPECIFIC 39,983.00 3,362,601.89 USD 0.95FR0000125007 COMPAGNIE DE SAINT-GOBAIN SA PGARAN 75,666.00 3,642,182.91 EUR 1.03FR0000125007 COMPAGNIE DE SAINT-GOBAIN SA OWN SPECIFIC 254,233.00 12,237,505.46 EUR 3.47DE0005439004 CONTINENTAL AG OWN SPECIFIC 1,696.00 348,528.00 EUR 0.10FR0000130650 DASSAULT SYSTEMES PGARAN 2,868.00 232,709.52 EUR 0.07DE0005557508 DEUTSCHE TELEKOM AGiNOM OWN SPECIFIC 522,386.00 8,580,190.05 EUR 2.43US26441C2044 DUKE ENERGY OWN SPECIFIC 10,901.00 835,857.15 USD 0.24US2786421030 EBAY INC PGARAN 34,859.00 1,094,120.55 USD 0.31US2786421030 EBAY INC OWN SPECIFIC 637,751.00 20,017,111.00 USD 5.68DE000ENAGQ99 EON SE OWN SPECIFIC 761,438.00 5,673,474.54 EUR 1.61FR0000121667 ESSILOR INTERNATIONAL PGARAN 4,166.00 474,507.40 EUR 0.13US30303M1027 FACEBOOK A OWN SPECIFIC 61,355.00 8,148,733.35 USD 2.31JP3802300008 FAST RETAILLNG OWN SPECIFIC 38,027.00 1 1,141,993.96 JPY 3.16
+
+935828 40 Annual report — Fiscal year ending on: 31.03.2017
+===================================================
+4.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+As part of a future optimisation of the MF’s management, the manager reserves the right to use other instruments withinthe limits of the regulations in order to achieve the management objective.
+3. Off-balance sheet assets gderivative instruments[
+The MP will use Index-linked swaps traded over the counter, thereby swapping the value of the MF’s assets (or of anyother ﬁnancial instrument or asset held by the MF, where appropriate) against the value of the Benchmark Indicator (incompliance with the description contained in this section’s paragraph 1 above).
+As part of a future optimisation of the MF management, the manager reserves the right to use other instruments withinthe limits of the regulations, such as to achieve the management objective, for example including future financialinstruments other than index-linked swaps.
+In compliance with its best execution policy, the management company considers that the Société Générale is thecounterparty that generally makes it possible to obtain the best possible result with these future ﬁnancial instruments,These future ﬁnancial instruments (including index-linked swaps) can therefore be traded with the Société Générale,without prior open competition involving several counterparties.
+The counterparty 0f the aforesaid future ﬁnancial instruments (the “Counterparty”) will have no discretionary powerregarding the composition of the MF’s investment portfolio, nor regarding the underlying assets of the future ﬁnancialinstruments,
+4. Securities with integrated derivativesNone‘
+5. DepositsUp to a maximum of 20% of its net assets, the MF may have recourse to deposits with lending institutions belonging tothe same group as the depositary in order to optimise its cash management,
+6. Cash borrowingUp to a maximum of 10% of its net assets, the MF may temporarily have recourse to borrowing.
+7. Temporagy securities acguisition and sale operationsNone‘ The manager will not have recourse to temporary securities acquisition and/or sale operation,
+W
+In all cases in which the MF is subject to a counterparty risk as a result of the deployed investment strategy, notably inthe event of the MF’s use of forward swap contracts traded over the counter, the MF can receive securities that areconsidered as guarantees in order to reduce the counterparty risk related to these operations. The portfolio of receivedguarantees can be adjusted each day in order for its value to be greater than or equal to the level of the counterparty riskborne by the MF in most cases, The objective of this adjustment will be to ensure that the level of counterparty riskborne by the MF is totally neutralized,
+Any financial guarantee received by the MF will be provided to the MF in full ownership and listed in the MF’s accountopened in the books of its depositary. As such, the received ﬁnancial guarantees will be listed amongst the MF's assets,
+Any ﬁnancial guarantee received by the MF within this framework must comply with the criteria defined by theprevailing laws and regulations, notably in terms of liquidity, valuation, credit quality of the issuers, correlation, risksrelated to the management of securities, and applicability. The received guarantees must, in particular, comply with thefollowing conditions:
+(a) Any received guarantee must be of high quality, very liquid and traded on a regulated market or in a multilateraltrading system with transparent pricing, in order to be sold quickly at a price close to the prior valuation;
+(b) They must be valued at the mark-to-market price at least on a daily basis and assets showing strong price volatilitymust not be accepted as guarantee except in case of the application of a sufﬁciently cautious discount;
+(c) They must be issued by an entity that is independent of the counterparty and must not be highly correlated with thecounterparty’s performances;
+(d) They must be sufficiently diversified in terms of countries, markets and issuers, with a maximum exposure perissuer of 20% of the MF’s net asset value;
+(e) The MF’s Management Company must be able to fully realise them at any time, without consultation with thecounterparty nor approval of the latteri
+Notwithstanding the condition speciﬁed in (d) above, the Fund may receive a basket of ﬁnancial guarantees with anexposure to a single issuer corresponding to more than 20% of its net asset value provided that: such received ﬁnancialguarantees are issued by (i) a Member State, (ii) one or more of a Member State’s local authorities, (iii) a country that isnot a Member State (iv) a public international organization to which one or more Member States belong; and suchﬁnancial guarantees consists of at least six different issues of which none exceeds 30% of the MF’s assets.
+In compliance with the aforesaid conditions, the guarantees received by the MF can include:(i) Liquid assets or equivalents, notably including short-term bank assets and money market instruments;
+
+935828 5 Annual report — Fiscal year ending on: 31.03.2017
+===================================================
+40.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+Seculity code Name of the security Security status Quantity Market value c3553?! 105::0500vo22225 FREENET OWN SPECIFIC 11,152.00 340,024.48 EUR 0.10DE0005785604 FRESENIUS 513 & co KGAA OWN SPECIFIC 220,724.00 16,627,13892 EUR 4.721153682872078 GAZPROM 9150513011 ADR REG OWN SPECIFIC 1,567,711.00 6,551,978.09 USD 1.86DE000A13SX22 HELLA KG HUECK OWN SPECIFIC 1,587.00 65,900.18 EUR 0.02JP3046300004 ICHIGO REIT OWN SPECIFIC 269.00 157,996.31 JPY 0.0411545 168D1046 IDEXX LABS OWN 5915c11=1c 2,405.00 347,657.47 USD 0.10JP3726800000 JAPAN TOBACCO INC OWN SPECIFIC 204,477.00 6,207,398.77 JPY 1.761P3205800000 KAO CORP OWN SPECIFIC 6,270.00 321,128.38 JPY 0.09NL0000009827 KONINKLIJKE DSM NV OWN SPECIFIC 25,623.00 1,624,754.43 EUR 0.4611550540R4092 LABORATORY CORP OWN SPECLFIC 745.00 99,934.69 USD 0.03DE0006483001 LINDE AG OWN SPECIFIC 41,425.00 6,466,442,50 EUR 1.83FR0000120321 L‘OREAL SA PRLME DE FLDELITE PGARAN 2,496.00 449,654.40 EUR 0.13FR0000121014 ‘L/Eﬁggfgg HENNESSY LOUIS OWN SPECIFIC 114,599.00 23,590,20415 EUR 6.6911555953132021 MAGNIT SP GDR SPONSORED OWN SPECIFIC 93,888.00 3,353,299.61 USD 0.95DBOOO6599905 MERCK KGAA OWN SPECIFIC 18,379.00 1,962,877.20 EUR 0.561155926881054 KETTLER TOLEDO INTERNATIONAL OWN SPECIFIC 1 19.00 53,284.36 1151) 0.02U562886E1082 NCR CORP OWN SPECIFIC 37,302,00 1,593,151.66 USD 0,45NL0010773842 NN GROUP NV OWN SPECIFIC 47,122.00 1,436,514.17 EUR 0.41U56698881090 NOVATEK OAO-SPONS GDR REG 5 OWN SPECIFIC 1,240,00 144,341.08 USD 0,04USG9343P1057 OlL COMPANY LUKOIL ADR 1 51-1 OWN SPECIFIC 84,092.00 4,163,912.22 1151) 1.180150001304000 OSRAM LICHT OWN SPECIFIC 13,267,00 779,436.25 EUR 0221157170811035 PFIZER INC OWN SPECIFIC 483,429.00 15,462,67691 1151) 4.39FR0000131906 RENAULT SA OWN SPECIFIC 243,986,00 19,867,779.98 EUR 563GBOOBO3MM408 ROYAL DUTCH SHELL 13 SHARES PGARAN 41,806.00 1,067,756.42 08? 0.300150007 164600 SAP SE OWN SPECIFIC 179,590,00 16,518,68820 EUR 4681158181503025 SEVERSTAL PAO GDR OWN SPECIFIC 15,468.00 208,399.68 USD 0.06DEOOO7236101 SIEMENS AG-NOM OWN SPECIFIC 134,998.00 17,333,74320 EUR 4.921158688612048 SURGUTNEFTEGAZVSP ADR OWN SPECIFIC 187,152.00 895,907.85 USD 0.25FR0000121329 THALES SA PGARAN 4,234.00 383,854.44 EUR 0.1 11154278661081 THE HERSHEY co OWN SPECIFIC 2,070.00 211,441.73 USD 0.06
+
+935828 41 Annual report — Fiscal year ending on: 31.03.2017
+===================================================
+41.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+
+Security code Name of lhe security Security status Quantity Market value 6:33; 21::JP3582600007 TOKYO TATEMONO OWN SPECIFIC 18,903.00 232,837.76 JPY 0.07FR0000120271 TOTAL OWN SPECIFIC 500,000.00 23,707,50000 EUR 6.72FR0000125486 VINCI SA OWN SPECIFIC 127,142.00 9,446,650.60 EUR 2.68US9285634021 VMWARE CLASS A OWN SPECIFIC 8,566.00 737,947.02 USD 0.21NDOOOO395903 WOLTERS KLUWER CVA OWN SPECIFIC 12,717.00 495,517.91 EUR 0.14US98387E2054 X 5 RETAIL GROUP NV REGS ADR OWN SPECIFIC 3,516.00 110.619.79 USD 0.03US9843321061 YAHOO INC OWN SPECIFIC 124,978.00 5,423,055.47 USD 1.54Total Equity 356,620,619.52 101.14Total Investment Securities 356,620,619.52 101.14Interest rate swapSWAP03547762 FEES LEG C EUR LYX E OWN SPECIFIC 1.00 145,256.78 EUR 0.04SWAP03547800 FEES LEG C USD LYX E OWN SPECIFIC 1.00 22,534.80 EUR 0.01SWAP03547833 FEES LEG USD LYX ETF OWN SPECIFIC 1.00 9,321.84 EUR 0.00SWAPO3547684 INDEX LEG C EUR LYX OWN SPECIFIC 9,954,608.48 28931032554 EUR 82.05SWAP03547732 INDEX LEG C USD LYX OWN SPECIFIC 154,159.741.08 44.722.042.98 EUR 12.68SWAP03547659 INDEX LEG USD LYX ET OWN SPECIFIC 24,020,39604 [8,560,186.94 EUR 5.26SWAP03547763 VRAC LEG LYX ETF MSC OWN SPECIFIC 188.134.745.60 348.930.196.72 EUR 798.96Total Interest rate swap 3,839,472.16 1.09CashA T BANK 0R PENDING
+PAYABLE ON SWAP OWN SPECIFIC 0.00 305,000.00 EUR 70.09
+EUR SGP BANK OWN SPECIFIC 0.00 0.75 EUR 0.00
+USD SGP BANK OWN SPECIFIC 0.00 -0.02 USD -0.00Total AT BANK 0R PENDING 604,999.27 -0.09MANAGEMENT FEES
+PRCOMGESTADM OWN,SPEC1.F1C 0.00 —177,1 13.28 EUR -0.05Total MANAGEMENT FEES -I 77,113.28 -0. 05Total Cash 482,112.55 -0.14F ilesADI REME: Deposit 0fCullateral (File)PDC-01702915 PDC LYXOFR0000120321 PGARI 449,654.40 -449,654.40 EUR -0.13PDC—01702899 PDC LYXOFR0000120503 PGARI 69,861.81 69,861.81 EUR -0.02935828 42 Annual report — Fiscal year ending on: 31.03.2017
+===================================================
+42.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+PDC-01702921 PDC LYXOFROOOOIZ 1329 PGARI -3 $3,854.44 -333,854.44 EUR -0.11PDC-01702912 PDC LYXOFR0000121667 PGARl 474,507.40 474,507.40 EUR -0.13PDC-01702902 PDC LYXOFR0000125007 PGARI 3,642,132.91 -3,642,182.91 EUR -1.03PDC-01702905 PDC LYXOFR0000130650 PGARl -232,709.52 -232,709.52 EUR -0.07PDC-01702896 PDC LYXOFR0010313833 PGARl -275,775.36 -275,775.36 EUR -0.08PDC-01702918 PDC LYXOGBOOBO3NHVI408 PGARl 313,252.07 -1,067,756.42 GBP -0.30PDC-01702908 PDC LYXOUSZ786421030 PGARl - l ,170,216.63 -1,094,120.55 USD -0.31Tam! ADI REME: Depasit 0f Collateral (File) 4,690,422.81 -2.18Total Files 4,690,422.81 -2.18Coupons
+Equity
+FR0000120271 TOTAL SA ACHLIG 500,000,00 305,000.00 EUR 0.09TamlEquity 305,000.00 0.09Tom! Coupons 305,000.00 0.09
+
+935628 43 Annual report — Fiscal year ending on: 31.03.2017
+===================================================
+43.hocr: 
+LYXOR UCITS ETF MSCI AC ASlA-PACIFIC EX JAPANFiscal year closing on 31/03/2017
+
+APPENDIX TO THE REPORTintended for Swiss subscribers
+This appendix makes the annual report with the FINMA requirements for the marketing in Switzerland. It has not beencertiﬁed by the accountants.
+Country of origin of the FundFrance.
+Representative of the Swiss FundSociété Générale, Paris, Zurich Branch, has been authorised by the FINMA as the Fund’s representative in Switzerland
+while also assuming the payment service. The prospectus, articles of association, annual and semiannual reports of theFund, the KIIDs as well as the list of purchases and sales made by the Fund during the fiscal year can be obtained onrequest and at no cost from the representative’s head office in Switzerland, Société Générale Paris, Zurich Branch,Talacker 50, PO. Box 5070, 8021 Zurich.
+Calculation of the Total Expense Ratio (in compliance with the recommendations of the Swiss Funds & AssetManagement Association SFAMA)
+
+
+
+Annual closing of the collective investment: 31 March
+
+Fund management commission:
+
+
+
+
+
+
+
+USD 0.60%C-EUR 0.60%C-USD 0.60%Unit USDAverage assets of the fund for the periodfrom 01/04/16 to 31/03/17: 16,374,09743Excerpt from the income statementExpenses in euros Annual report Half—yearly report Annual report31/03/2016 30/09/2016 31/03/2017Fund management commission 97,299.74 46,631.58 98,272.60
+
+Performance fee to be paid to the manager of
+
+
+
+
+
+
+
+
+
+collective investments ofcapital 0'00 0'00 0'00Depository bank commission 0.00 0.00 0.00Other expenses 0,00 0,00 0,00Taxes 0,00 0,00 0.00Total operating expenses 97,299.74 46,631.58 98,272.60
+
+Calculation of the TER for 12 months, from 01/04/16 to 31/03/17:
+TER including performance fee
+(98,272160/ 16,374,097.43) * 100
+
+0.60 %
+
+Performance fee as a share in percentage of the net average assets:
+
+
+
+0.00
+
+
+44
+===================================================
+44.hocr: 
+LYXOR UCITS ETF MSCI AC ASlA-PACIFIC EX JAPANFiscal year closing on 31/03/2017
+
+
+
+Unit C-EUR
+
+
+Average assets of the fund for the period
+from 01/04/16 to 31/03/17: 263,377,14255
+Excerpt from the income statement
+
+
+
+
+
+
+
+
+
+Expenses in euros Annual report Half—yearly report Annual report31/03/2016 30/09/2016 31/03/2017Fund management commission 1,645,438.41 757,830.79 1,580,634.09Depository bank commission 0.00 0.00 0.00Other expenses 0.00 0.00 0.00Taxes 0.00 0.00 0.00Total operating expenses 1,645,438.41 757,830.79 1,580,634.09
+
+
+
+
+
+Calculation of the TER for 12 months, from 01/04/16 to 31/03/17:
+TER, including performance fee
+(1,580,634.09 / 263,377,14255) * 100
+
+0.60 %
+
+Performance fee as a share in percentage of the net average assets:
+
+
+
+0.00
+
+
+45
+===================================================
+45.hocr: 
+LYXOR UCITS ETF MSCI AC ASlA-PACIFIC EX JAPANFiscal year closing on 31/03/2017
+
+
+
+Unit C-USD
+
+
+Average assets of the fund for the period
+from 01/04/16 to 31/03/17: 31,499,23367
+Excerpt from the income statement
+
+
+
+
+
+
+
+
+
+Expenses in euros Annual report Half—yearly report Annual report31/03/2016 30/09/2016 31/03/2017Fund management commission 169,326.65 64,417.43 189,055.49Depository bank commission 0.00 0.00 0.00Other expenses 0.00 0.00 0.00Taxes 0.00 0.00 0.00Total operating expenses 169,326.65 64,417.43 189,055.49
+
+
+
+
+
+Calculation of the TER for 12 months, from 01/04/16 to 31/03/17:
+TER, including performance fee
+(189,055.49 / 31,499,23367) * 100
+
+0.60 %
+
+Performance fee as a share in percentage of the net average assets:
+
+
+
+0.00
+
+
+46
+===================================================
+46.hocr: 
+LYXOR UCITS ETF MSCI AC ASlA-PACIFIC EX JAPANFiscal year closing on 31/03/2017
+
+Performance of the fundThe details of the performances of the Fund’s units calculated in compliance with the principles of the Swiss FundAssociation are given below:
+Annual Annual Annualperformance performance performancefrom 31/03/2016 from 31/03/2015 from 31/03/2014to 31/03/2017 to 31/03/2016 to 31/03/2015
+LYXOR MSCI AC ASIA PACIFIC EX
+JAPAN UCITS ETF
+Unit C—EUR +24.83% -l7.45% +35.28%UnitUSD +17.16% -12.42% +5.41%UnitC—USD +17.16% -12.41% +5.41%
+MSCI AC (ALL COUNTRY) ASIA-PACIFICEX JAPAN1M (USD)
+Unit C—EUR +18,19% —11,58% +6333%Unit USD +18,19% —11,58% +6333%Unit C—USD +18,19% —11,58% +6333%
+Past performances are no indicator of future performances The performances indicated here do not take into accountthe impact of possible subscription and redemption commissions and costs of Fund units‘
+
+47
+===================================================
+5.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+(ii) Bonds issued or guaranteed by an OECD Member State, by its local public authorities or by institutions andsupranational bodies of a Community, regional or worldwide nature, or by any other country, provided that conditions(a) to (e) (above) have been fully met;
+(iii) Equities or units issued by money market funds that calculate a daily net asset value and that have a rating of AAAor equivalent;
+(iv) Equities or units issued by UCITS investing primarily in bonds/equities as indicated in points (V) and (Vi) below;(V) Bonds issued or guaranteed by first-class issuers, offering suitable liquidity;
+(Vi) Equities admitted to trading or traded on a regulated market of an EU Member State, on a stock market of an OECDMember State or on a stock market of another country provided that conditions (a) to (e) (above) have been fully metand that these equities are included within a first-class indexi
+Policy related to discounts:The MF's management company will apply a margin to the financial guarantees received by the MF, The appliedmargins will notably depend on the following criteria:
+- Nature of the asset received as guarantee;
+- Maturity 0f the asset received as guarantee (if applicable);
+- Rating of the issuer of the asset received as guarantee (if applicable).
+Reinvestment of received guarantees.
+Financial guarantees received in a non-cash form shall not be sold, reinvested 0r pledged.
+Guarantees received in cash shall, at the discretion of the manager, be either:
+(i) deposited with an enabled institution;
+(ii) invested in high-quality State bonds;
+(iii) used for reverse repurchase transactions, on the condition that such transactions are performed with creditinstitutions which are subject to prudential regulation and on the condition that the UCITS may at any time withdrawthe total amount of the liquidity, taking into account accrued interest;
+(iv) invested in short-term money mutual funds, as they are deﬁned in the guidelines for a common definition ofEuropean money mutual funds,
+Reinvested cash financial guarantees must be diversified, in compliance with the applicable requirements for non-cashﬁnancial guarantees.
+Risk proﬁle:
+The bearer’s money will primarily be invested in financial instruments selected by the management company. Theseinstruments will be subject to the vagaries of the markets, Through the MF, the bearer is primarily exposed to thefollowing risks:
+- Equity risk
+An equity price can vary upward or downward, and it notably reﬂects the changing risks related to the issuing company
+or the economic situation of the corresponding market. The equity markets are more volatile than the rate markets, inwhich it is possible, over a given period and with equal macroeconomic conditions, to estimate the incomes,
+- Capital loss risk
+The invested capital is not guaranteed. The investor consequently runs the risk of capital loss. The entire 01' part of theinvested amount may not be recovered, notably should the performance of the Benchmark Indicator be negative overthe investment period.
+- Liguidity risk [grimary market!
+Should the MF (or one of its counterparties for future financial instrument (“FFI)) adjust its exposure and the marketsrelated to this exposure are then limited, closed or subject to significant purchase / sale price discrepancies, the valueand/or liquidity of the MF could be negatively affected. Should low volumes of exchanges result in an inability to carryout transactions linked to the replication of the Benchmark Indicator, this can also have consequences on the processesrelated to the subscription, conversion 01' redemption of units.
+- Liguidity risk on a Qlace of listingThe MF’s share price can deviate from its indicative net asset value. The liquidity ofthe MF’s units on a place oflistingcan be affected by any suspension that could notably be due to:
+1) Suspension or stoppage of the calculation of the Benchmark Indicator, and/orii) Suspension of the market(s) 0f the underlyings used by the Benchmark Indicator, and/oriii) The impossibility for a given place of listing to obtain or calculate the MF’s indicative net asset value, and/or
+iv) A market maker’s Violation of the rules applicable to this marketplace, and/or
+
+935828 6 Annual report — Fiscal year ending on: 31.03.2017
+===================================================
+6.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+V) A failure of this marketplace‘s IT or electronic systems.
+M&y—risk
+The MF is exposed to the risk of bankruptcy, payment default or any other type of default of every counterparty withwhich it has entered into a contract or transaction. It is particularly exposed to the counterparty risk resulting from itsuse of FFI traded over-the-counter with Société Generale or with any other counterparty. In compliance with the UCITSregulations, the counterparty risk (whether this counterparty is the Société Generale or any other entity) cannot exceed10% of the total value of the MF’s assets per counterpartyi
+In case of a Counterparty’s default, the contract relating to FFIs can be terminated early. The MF will then make everyeffort to achieve its management objective by signing, if relevant, another contract relating to FFIs with a third partycounterparty, under the market conditions prevailing at the time of the occurrence of this event.
+The realisation of this risk can notably have impacts on the MF’s ability to achieve its management objective, inparticular the replication of the Benchmark Indicator.
+When Société Générale is involved as a counterparty 0f the FFIs, conﬂicts of interest can arise between the MF’sManagement Company and the FFI's counterparty. The Management Company manages these conﬂict of interest risksby setting up procedures intended to identify and limit them, and to ensure their equitable resolution, if relevant,
+- Risk related to the exposure to Emerging markets
+The MF’s exposure to emerging markets results in a greater risk of loss that would exist in the event of investmentscarried out within traditional developed markets‘ In particular, the operating and supervision rules in an emergingmarket may differ from the standards applicable to developed markets. The exposure to emerging markets notablyresults in: increased volatility of the markets, lower transaction volumes, the risk of economic and/or politicalinstability, an unstable or uncertain ﬁscal and/or regulatory regime, risks of closing of the markets, of governmentrestrictions on foreign investments, and interruption or restriction of the convertibility 0r transferability of any of thecurrencies comprising the Benchmark Indicator.
+- Risk that the management objective may only be gartially achieved
+Nothing guarantees that the management objective will be achieved. Indeed, n0 asset or financial instrument will allowan automatic and continuous replication of the Benchmark Indicator, notably should one or more of the following risksarise:
+- Risk related to the use of derivative instruments
+
+In order to achieve its investment objective, the MF uses FFI traded over-the-counter, that can notably take the form ofswap contracts that will allow it to obtain the performance of the Benchmark Indicator, These FFIs can result in a seriesof risks on the level of the FFIs that notably include: counterpart)! risk, event affecting the hedging, event affecting theBenc mark Indicator, risk related to the tax regime, risk related to the regulations, operational risk and liquidity risk,These risks can directly affect a FFI and can result in the adjustment or early termination of the FFI transaction, whichcoulc affect the MF's net asset value.
+- Risk relatec to a change of the tax regime
+Any change to the tax legislation in any of the countries in which the MF is established, authorised for marketing orlistec can affect the tax treatment of the investors. In this case, the MF’s manager assumes no liability relative toinvestors wit regard to the payments having to be made to any competent tax authority.
+- Ris relatec to a change of the tax regime affecting the underlyings
+
+Any change of the tax legislation applicable to the MF’s underlyings can affect the MF’s tax treatment, Consequently,in case of divergence between the anticipated tax treatment and the one actually applied to the MF (and/or to itscounterparty in the FFI), the MF’s net asset value may be affected.
+—Ris relate to regulations
+In case of change of the regulations in any country in which the MF is established, authorised for marketing or listed,the processes for the subscription, conversion and redemption of the units may be affected.
+- Ris relatec t0 the regulations agplicable to the underlyings
+In case of change of the regulations applicable to the MF's underlyings, the MF's net asset value can be affected, as canthe processes for the subscription, conversion and redemption of the units.
+- Ris relatec to events affecting the Benchmark Indicator
+In case of events affecting the Benchmark Indicator, the manager may, under the conditions and limits of the applicablelegis ation, have to suspend the subscription and redemption of MF units. The calculation of the MF’s net asset valuecan also be a fected‘
+
+
+If the event persists, the MF’s manager will decide on measures having to be adopted, which can have an impact on theMF’s net asset value.
+“Events affecting the Benchmark Indicator are understood to mean the following situations:1) The Benchmark Indicator is considered to be incorrect or not reﬂective of the market’s actual evolution,
+
+935828 7 Annual report — Fiscal year ending on: 31.03.2017
+===================================================
+7.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+ii) The Benchmark Indicator is definitively discontinued by the supplier of the index,iii) The supplier of the index is incapable of providing the level or value of the said Benchmark Indicator,
+iv) The supplier of the index makes a significant change to the formula or calculation method of [he BenchmarkIndicator (other than a minor modiﬁcation such as the adjustment of [he underlyings used with [his BenchmarkIndicator or of the respective weightings between its various components), that cannot be effectively replicated by theMF at a reasonable cost.
+V) One or more components of the Benchmark Indicator becomes non-liquid, with the listing being suspended on anorganised market, or components traded over-the-counter (such as bonds, for example) become non-liquid.
+Vi) The Benchmark Indicator's components are impacted by transaction fees relative to the execution, delivery versuspayment or specific ﬁscal constraints, without these fees being reﬂected in the Benchmark Indicator’s performance,
+— Securities transaction risk
+Should the issuer of a security underlying the Benchmark Indicator undertake an unanticipated review of a securitiestransaction (“ST), that contradicts a prior and ofﬁcial announcement that had resulted in a valuation of the ST by theMF (and/or in a valuation of the ST by the MF’s counterparty in a future ﬁnancial instrument), the MF’s net asset value
+may be affected, notably should the actual treatment of the ST by the MF differ from the ST’s treatment in themethodology used by the Benchmark Indicators
+- Exchange risk linked to the Benchmark Indicator
+The MF is exposed to the exchange risk insofar as the underlying securities making up the Benchmark Indicator may belisted in a currency other than the currency of the Benchmark Indicator or be derived from securities listed in a currencyother than the currency of the Benchmark Indicator, The fluctuations of exchange rates could therefore negatively affectthe Benchmark Indicator followed by the MF.
+- MF’s exposure to exchange risk to the class of units C»EUR (EUR/USD)
+The abovementioned class of units is exposed to an exchange risk to the extent that it is listed in a currency other thanthat of the Benchmark Indicator. The net asset value of the abovementioned class of units can therefore decrease due toﬂuctuating exchange rates even though the value of the Benchmark Indicator has increased,
+- Legal riskThe mutual fund may bear a legal risk related to the conclusion of any Total Return Swap contract (TRS) as laid downin Regulation (EU) 2015/2365.
+Subscribers concerned and typical investor proﬁle:The MF is “open to any subscriber?An investor subscribing to this MF wishes to obtain an exposure to the Asia Pacific zone equities market.
+The amount that it is reasonable to invest in this MF depends on your personal situation. To determine this amount, youmust take into account your personal wealth and/or estate, cash requirements at the present and for five years, but alsoyour desire to take risks or, on the contrary, to prefer a cautious investment. It is also highly recommended tosufﬁciently diversify one's investments so as to avoid an exposure only to this MF's risks.
+Investors are therefore recommended to study their individual situations with their usual estate management advisers,The minimum recommended investment term is greater than 5 years.
+Indications on the tax treatment:
+Investors should take note that the following information constitutes only a general summary of the tax regimeapplicable to an investment in a French MF, under the current French tax legislation, Investors are therefore requestedto study their personal situations with their usual tax advisers.
+France:The MF can serve as the support for a life insurance contract listed in units of account.1. On the level of the MF
+In France, the co-ownership status of MFs means that they are automatically exempt from corporate tax; by nature, theytherefore benefit from a certain degree of transparency, As such, the incomes collected and generated by the MFthrough its management are not taxable at the level of the MF itself.
+Abroad (in countries in which the MF is invested), capital gains on the sale of foreign transferable securities and foreignincome received by the MF as part of its management may, if relevant, be subject to tax (generally in the form of awithholding tax), In certain limited cases, the foreign taxation can be reduced or cancelled in the presence of taxagreements that may be applicable
+
+935828 8 Annual report — Fiscal year ending on: 31.03.2017
+===================================================
+8.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+2. On the level of the bearers of MF units
+2.1 Bearers residing in France
+The sums distributed by the MF [0 French residents as well as the capital gains or losses on transferable securities aresubject to the applicable taxation. Investors are invited to study their personal situations with their usual tax advisers.
+2.2 Bearers not residing in France
+Subject to any applicable tax agreements, the amounts distributed by the MF may, in certain circumstances, be subjectto a levy or withholding tax in France.
+Moreover, the capital gains realised 0n the purchase/sale 0f the MF's units are generally tax exempt, Bearers residingoutside of France will be subject to the provisions of the tax legislation applicable in their country of residence,
+Information on obligatory and automatic exchange of tax information
+The management company is liable to collect and transmit information on subscribers to shares in the mutual fund tothe competent tax authorities, for the sole purpose of compliance with article 1649 AC of the General Tax Code andCouncil Directive 2014/lO7/EU 0f 9 December 2014, amending Directive 2011/16/EU concerning automatic andobligatory exchange of tax information.
+In this regard, subscribers have the right to access, rectify and delete information held concerning them bycommunicating with the ﬁnancial institution in compliance with the IT and liberties [Data Processing] Act of 06January 1978, but are also obliged to provide the necessary information for declarations, at the request of the ﬁnancialinstitution.
+Information relative to the “FATCA” law
+France and the United States have signed a Model I intergovernmental agreement (“IGA”) for the implementation inFrance 0f the American law known as the “FATCA law that targets tax evasion amongst American taxpayers holdingﬁnancial assets abroad. The expression “American taxpayers refers to a natural person who is an American citizen orresident, a partnership or company created in the United States or by virtue of American federal law 0r 0f the laws ofone of the American States, or a trust if (i) a court located in the United States has, pursuant to the law, the power toissue orders or decisions substantially relating to all questions relative to the trust’s administration and if (ii) one ormore American taxpayers has a right of control over all of the trust’s substantial decisions, or over the estate of adeceased person who was a citizen or resident of the United States.
+The MP has been registered as a “reporting ﬁnancial institution with the American tax authorities. As such, the MP isrequired to provide the French tax authorities, for 2014 and subsequent years, with information regarding certainholdings 0r sums paid to certain American taxpayers or to non-American financial institutions considered asnon-participants in the FATCA that will be the subject of an automatic information exchange between the French andAmerican tax authorities. Investors will be required to certify their FATCA status to their financial intermediary or tothe management company, as relevant.
+As a result of the MF’s application of its obligations under the IGA as implemented in France, the MF will beconsidered as complying with the FATCA and should be exempt from the withholding tax established by the FATCAon certain revenues or proceeds from American sources.
+For investors whose units are held through an account holder located in ajurisdiction that has not signed an IGA, it isrecommended that they should consult this account holder in order to be informed of its intentions with regard to theFATCA. Moreover, certain account holders may be required to collect additional information from investors in order tocomply with their obligations under the FATCA or of the country in which the account is held. Also, the scope of theobligations under the FATCA or an IGA can vary according to the account holder’s jurisdiction. Investors shouldtherefore Check with their usual tax advisers.
+For more details, the complete prospectus can be obtained by requesting it from the management company.
+0 The net asset value is available from the head aﬁice afLYXOR LNTERNATIONAL ASSET MANAGEMENT. The CIU's wmpleteprospectus and the latest annual and periodic documents are sent within one week of the bearer's written requext, submitted toLYXOR LNTERNATIONALASSET MANAGEMENT, 17, caurs Valmy - 92800 Puteaux - France.
+0 Approval date by the Financial Markets Authority: 12 April 2006.
+0 Fund creation date: 26 April 2006.
+
+935828 9 Annual report — Fiscal year ending on: 31.03.2017
+===================================================
+9.hocr: 
+LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF
+
+Activityreport
+T16 net asset value of the unit C-EUR of the LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF MF showsan evolution of 24.83%* over the fiscal year and stands at EUR 496009 on 31/03/2017, meaning a fund performance of96.67% since inception.
+T'ie net asset value of the unit C-USD of the LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF MF showsan evolution of 17,16%* over the fiscal year and stands at USD 53.0523 on 31/03/2017, meaning a fund performance of38.87% since inception.
+T'ie net asset value of the unit USD 0f the LYXOR MSCI AC ASIA PACIFIC EX JAPAN UCITS ETF MF shows anevolution of 17.16%* over the ﬁscal year and stands at USD 5.305 on 31/03/2017, meaning a fund performance of69.51% since inception,
+T'ie fund replicates the performance of the MSCI Daily TR Net AC Asia Paci index, listed in US dollars (USD),representative of equities of listed companies in the 10th developed and emerging countries of the MSCI All CountryAsia eX-Japan region.
+T‘llS index has shown an evolution of 18.19% over the ﬁscal year, The C-EUR class not being valued to the indexcurrency, the evolution of its net asset value is subject to the exchange risk, Over the fiscal year, the EUR has decreasedby 614% against the USD,
+T is gap between the annual performance of the UCITS and that of its Benchmark Index can be explained by the resultof the various parameters listed below:
+
+- The operating and management fees as well as the external management fees,- The costs for accessing the local markets of the securities of the replicated indexing,- The costs or gains related to the instruments used as part of the replication of the indexing.
+In pursuit of the greatest possible correlation with the performance of the MSCI Daily TR Net AC Asia Paci index, theMF will reach its management objective using the indirect replication method which means that it will enter into one ormore OTC swap contracts enabling it to reach its investment objective. The objective of these swap contracts will be toexchange (i) the value of the MF‘s assets, which will consist of balance sheet assets (excluding any securities receivedas guarantees), for (ii) the value of the securities that underlie the MSCI Daily TR Net AC Asia Paci index.
+The equities in the MF’s assets will notably be equities making up the MSCI Daily TR Net AC Asia Paci index, as wellas other international equities, from all economic sectors, listed on all markets, including the small caps markets.
+The fund’s risk and yield profile has been classed as category 5 given its exposure to the Benchmark Index.
+On 31/03/2017, the tracking error reached the level of 0.0300% for the MF, The level of the tracking error for theperiod was of 0.08%.
+The discrepancy between the target tracking error and the actual tracking error was not signiﬁcant which shows acompliance with the TB objective set at the beginning of the year.
+The counterparty for the Index-Linked Swaps obtained by the fund is: Société Generale,* Thefigures referring to past performance relate to past periods and are not a reliable indicator offuture results.Regulatory information
+Transfer commission (not audited by the auditor)
+None.
+Provisions for providing the investors with the various documents and reports relative to the managementcompany’s voting policy and its implementation.
+The “voting policy document, the report from the management company on the conditions whereby it exercised thevoting rights of the CIU that it manages and the information relative to the vote on each resolution can, pursuant toarticle 322-75, 322-76 and 322-77 of the Financial Markets Authority General Regulations, be consulted either on themanagement company’s website or at its head office (upon request).
+Overall risk of the CIU
+The management company’s method for measuring the overall risk of the CIU: the method chosen is the commitmentmethod.
+ESG criteria
+In accordance with Articles L. 533-22-1 and D. 533-16-1 of the [French] Monetary and Financial Code, subscribers areinformed of the fact that the CIU does not simultaneously take into account the social, environmental and governancequality criteria in its investment policy.
+
+935828 10 Annual report — Fiscal year ending on: 31.03.2017
+===================================================

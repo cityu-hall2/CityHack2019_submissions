@@ -1,0 +1,36 @@
+Page: 0
+Entity Name: _I<XOE CO_._.m m._._n _<_mO_ maOUm 
+Page: 15
+Audit Period: Fiscal year closing on 31 January 2017 
+Entity Name: LYXOR UCITS ETF MSCI EUROPE 
+Auditor Opinion: We certify that, in accordance with French accounting rules and principles, the annual ﬁnancial statements are truthful and in order, and present a fair picture of the operating proﬁts and losses for the past ﬁscal year, as well as the UCITS created in the form of a mutual fund at the end of said ﬁscal yearl 
+Audit Period: report relative to the ﬁscal year closing on 31 January 2017 concerning: 
+Entity Name: LYXOR UCITS ETF MSCI EUROPE 
+Entity Name: — the veriﬁcation of the annual accounts of UCITS incorporated in the form of a mutual fund LYXOR UCITS ETF 
+Entity Name: MSCI EUROPE, as they are attached to this report; 
+Audit Period: 935824 16 Annual report — Fiscal year ending on: 31.01.2017 
+Page: 16
+Name of auditor: PricewaterhouseCoopers Audit 
+Entity Name: LYXOR UCITS ETF MSCI EUROPE 
+Entity Name: LYXOR UCITS ETF MSCI EUROPE 
+Audit Period: 935824 17 Annual report — Fiscal year ending on: 31.01.2017 
+Page: 19
+Year: 31.01.2017 29.01.2016  
+Year: 31.01.2017 29.01.2016  
+Currency: Currency   
+Currency: Currency  
+Total Equity: Total shareholders’ equity 
+Total Equity: Total shareholders’ equity 
+Entity Name: LYXOR UCITS ETF MSCI EUROPE 
+Page: 21
+Total Income: Total (I)  
+Total Income: Total (I)  
+Net Profit: Net proﬁt and loss of the ﬁscal year (L.214-17-l) (I - II + III - IV) 
+Net Profit: Net proﬁt and loss of the ﬁscal year (L.214-17-l) (I - II + III - IV) 
+Year: 31.01.2017 29.01.2016  
+Currency: Currency   
+Year: 31.01.2017 29.01.2016  
+Currency: Currency  
+Entity Name: LYXOR UCITS ETF MSCI EUROPE 
+
+

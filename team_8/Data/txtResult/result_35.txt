@@ -1,0 +1,1406 @@
+0.hocr: 
+r<XOm _Z._.mmz>._._Oz>_u >wmm._. §>Z>sz=mz._. 2.5—5
+r<XOm _<_m0_ _Z_u_>CO_._.m m._._n
+SmC1NAHFW0HDEDPCF.TNEMEmPEDNUMMOCNOF
+m_wOZ. <m>m mz_u_zQ OZ” mmbmbo:
+
+===================================================
+1.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+Contents
+Information on the investments and management .......................................... 3Activity report .................................................................................................... 10Auditor’s report ................................................................................................. 1 7Annual accounts ............................................................................................... 19Balance sheet ................................................................................................ 20Assets ....................................................................................................... 20Liabilities ................................................................................................... 21Off—balance sheet commitments .................................................................... 22
+.. 23
+
+Proﬁt and loss account
+Appendix ........................................................................................................ 24Accounting rules and methods ................................................................. 24Evolution of the net assets ........................................................................ 27Information supplements .......................................................................... 28
+Inventory ............................................................................................................ 38
+
+935854
+2 Annual Iepon‘ — Fiscal year ending on: 28.02.2017
+===================================================
+10.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+1. Description of the Environmental, Social and Governance criteria (ESG) (reference 11-2”)The Lyxor SRI policy is available on the Internet site Lyxortcomt It is revised each year.For this fund, the responsible investment policy includes the following points:
+Exclusions:
+a) Description of the nature of the ESG criteria taken into account (reference III-l°-a)
+
+Exclusion of issuers associated with serious and repeated Violations of the Principles of the United Nations globalcompact and/or of the regulatory requirements linked to controversial sectors and products.
+On the basis of the SG Group’s General environmental and social principles, and more speciﬁcally the criteria of theDefence Sector Policy, Lyxor applies an exclusion filter to this fund and refrains from investing in companies listed inan internal exclusion list (“E&S Exclusion List”).
+This E&S exclusion list includes companies identified as being involved in activities linked to a prohibited orcontroversial weapons such as anti-personnel landmines, cluster bombs and depleted uranium weapons.
+b) Information used for the analysis devoted to ESG criteria (reference III-2°)
+
+Lyxor uses the services of ISS»Ethix in order to identify companies considered to be violating its Defence policy.
+0) Methodology and implementation of this analysis (reference III-3°a)
+
+More than 80 marketable securities, some listed on the Stock Exchange and some not, from nearly 20 countriesworldwide, are the subject of an exclusion.
+Speciﬁc oversight 0n the level of the funds is carried out within the risk teams, in total independence from theoperational teams. The frequency of this oversight is based on that of the publication of this same fund’s net asset value.
+Any violation involving this list is indicated to the managers for immediate resolution,
+In the specific case of a synthetic structure, the previously indicated exclusion is applied to the assets held directly bythe fund, The ﬁnancial exposure acquired by the derivative product is reported on a monthly basis.
+d) Presentation of the integration of the analysis results into the investment policv (II»2°»d)
+
+ESG approach % Outstandings
+
+
+Exclusions 100%
+
+
+
+2. Description of how the results of the analysis performed on the ESG criteria are integrated, notably theexposure to climate risks, into the investment policy (reference II-2°)
+In 2016, Lyxor will not report any information relative to this fund’s exposure to climate risks
+Information on the compensation policy:
+The management company has established a compensation policy in compliance with the regulations in force, Thispolicy complies with the economic strategy, the objectives, and the values and interests of the management companyand the Funds which it manages, as well as those of the investors in these Funds, and includes measures designed toavoid conﬂicts of interest.
+The compensation policy of the management company implements a balanced system whereby the compensation of theemployees concerned is based on the below principles, in particular:
+— the compensation policy of the management company is compatible with efﬁcient and healthy risk management,encouraging such an approach, and discouraging any risk-taking which would be incompatible with the risk proﬁles, thepresent brochure, or the other governing documents of the Funds managed by the management company;
+- the compensation policy was adopted by the Supervisory Board of the management company, which adopts and re-examines the general principles of such policy at least once a year;
+- personnel engaged in monitoring functions are compensated in accordance with the achievement of the objectiveslinked to their position, regardless of the performance of the sectors that they monitor;
+- when the compensation varies according to performances, its amount is established by combining the evaluation of theperformance of the person concerned and the valuation of the business unit or the Funds, and with regard to their risksand the results of the entirety of the management company during the evaluation of individual performances, takingﬁnancial and non-financial criteria into account;
+- an appropriate balance is established between the fixed and variable components of the overall compensation;
+- above a certain threshold, at large portion (which in all cases is at least 50% of the entire variable component of thecompensation) consists of exposure to an index the components and the operational rules of which guarantee thealignment of the interests of the personnel concerned and those of the investors;
+
+935854 1 1 Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+11.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+- above a certain threshold, a substantial portion (and in all cases at least 40%) 0f the variable component of thecompensation is delayed for an appropriate period;- variable compensation, including the delayed part, is only paid or acquired if it is compatible with the overall
+ﬁnancial situation of the management company and if it is justified by the performances of the business unit, the Fundsand the person concerned.
+The updated details of the compensation policy are available on the following website: http://www.1yx0ricom/fr/menu-corporate/nous-connaitre/mentions-reglementaires/
+
+935854 12 Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+12.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+Transparency of securities financing operations and reuse of financial instruments SFTR regulation(Accounting currency of the C/U)1. General information.
+1.1. Amount of securities and raw materials loaned in proportion with the total assets that can be loaned,defined as excluding the cash and cash equivalents.
+Securitieslending
+
+
+% of assets thatcan be loaned
+
+
+
+1.2. Amount of the assets committed to each type of securities financing operation and total return swap,expressed in absolute value (in the currency of the collective investment undertaking) and in proportion with theassets under management of the collective investment undertaking.
+
+
+
+Securities Securities Repo Reverselending borrowing operations repo operations TRSAbsolute value - - - - 768,114,200°/o of assets undermanagement ' ' ' ' 58'80
+
+
+
+
+
+
+2. Concentration data
+2.1. The ten biggest issuers of guarantees for all types of securities financing operations and total return swaps(breakdown of the volumes of guarantees and raw materials received, with the names of the issuers).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name BNP PARIBAS1 Amount 5,017,988Name EDF ELECTRICITE DE FRANCE2 Amount 4,931,998Name SAFRAN3 Amount 4,920,276Name GDF SUEZ4 Amount 3,722,458Name ATOS5 Amount 3,263,159Name ZODIAC AEROSPACE6 Amount 3,018,781Name LVMH - MOET HENNESSY7 Amount 2,752,330Name THALES8 Amount 1,555,332Name RENAULT SA9 Amount 1,516,156Name ARKEMA SA10 Amount 1,324,097
+
+
+935854 13 Annual report — Fiscal year ending on: 28.02.2017
+
+===================================================
+13.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+2.2. The ten main counterparties for each type of securities financing operation and total return swap separately(name of the counterpany and gross volume of operations in progress).
+
+
+
+Securities Securities Repo Reverselending borrowing operations repo operations TRSSOCIETE1 Name ' ‘ ‘ - GENERALEAmount - - - - 768,114,200
+
+
+
+
+
+
+
+3. Aggregated operation data for each type of securities financing operation and total return swap separately,broken down according to the following categories.
+3.1. Type and quality of the guarantees.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Securities Securities Repo Reverselending borrowing operations repo operations TRSCash - - - - -Security - - - - 33,745,877Rating or literary Not applicable3.2. Guarantee maturity.Securities Securities Repo Reverselending borrowing operations repo operations TRSUnder 1 day - - - - -1 day to 1 week - - - - -1 week 101 month - - - - —1 to 3 months - - - - -8 months 101 year - — — — -More than 1 year - - - - —Open - - - - 33,745,8773.3. Guarantee currency.Securities Securities Repo Reverselendin borrowing operations repo operations TRSCurrency — - - - EUR1Amount - - - - 33,745,877935854 14 Annual report — Fiscal year ending on: 28.02.2017
+
+
+
+
+===================================================
+14.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+3.4. Maturity ot the securities financing operations and total return swaps.
+Securities Securities Repo Reverselending borrowing operations repo operations TRS
+
+Under 1 day - - - - -
+
+1 day to 1 week - - - - -
+
+1 week to 1 month - - . . _
+
+1 to 3 months - - - - -
+
+3 monthsto1 year - - - - 768,114,200
+
+More than 1 year A . _ _ _
+
+
+
+
+
+
+
+Open - - - - -
+
+3.5. Countries where the counterparties are established.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Securities Securities Repo Reverselending borrowing operations repo operations TRSCountry - - - - FRANCE
+1Amount - - - - 768,114,2003.6. Settlement and clearing.
+Securities Securities Repo Reverselending borrowing operations repo operations TRSTripartite - - - - -Central counterparty - - - - -Bilateral - - - - 768,114,200
+
+
+
+
+
+
+4. Data on the reuse of guarantees (collateral).Financial guarantees received in a non-cash form shall not be sold, reinvested or pledged.
+5. Retention of the guarantees received by the collective investment undertaking in connection with securitiesfinancing operations and total return swaps.
+
+
+
+
+
+
+Number of custodians 11 Name SOCIETE GENERALEAmount 33,745,877
+
+
+
+6. Retention of the guarantees provided by the collective investment undertaking in connection with securitiesfinancing operations and total return swaps.
+The custodian, Societé Generale S.A., exercises three types of responsibility; respectively, the monitoring of theregularity of the decisions of the management company, the monitoring of cash flows of the UCITS and the custody ofthe assets of the UCITS.
+Société Générale StA also works with a limited number of sub-custodians, selected according to the most rigorousquality standards, including the management of possible conflicts of interest which may arise from these appointments.The Custodian has established an effective policy for identification, prevention and management of conflicts of interest, incompliance with national and international regulations as well as international norms.
+
+935854 15 Annual report — Fiscal year ending on: 28.02.2017
+
+===================================================
+15.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+7. Data on the earnings and costs for each type of securities financing operation and total return swap.
+The Fund shall utilise over-the-counter index-Iinked swaps trading the value of the Fund‘s assets (or, as the case maybe, any other asset held by the Fund) against the value of the Benchmark Indicator.
+The revenue and costs linked to these Total Return Swaps (TRS) are included in the assessment of the instruments aswell as in the result presented in the statement of net assets and the statement of net asset values.
+
+935854 16 Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+16.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+Auditor’sreport
+
+pwc
+AUDITOR’S REPORTON THE ANNUAL ACCOUNTSFiscal year closing on 28 February 2017
+LYXOR MSCI INDIA UCITS ETFUCITS INCORPORATED IN THE FORM OF A MUTUAL FUNDMonetary and Financial Code
+Management ComganyLYXOR INTERNATIONAL ASSET MANAGEMENT
+17, cours Valmy92800 Puteaux
+Ladies, Gentlemen,
+As part of the mission entrusted to us by the management company’s management bodies, we hereby present ourreport relative to the ﬁscal year closing on 28 February 2017 concerning:
+— the veriﬁcation of the annual accounts of UCITS incorporated in the form of a mutual fund LYXOR MSCI INDIAUCITS ETF, as they are attached to this repon;
+7 the bases of our assessments;
+— the speciﬁc veriﬁcations and information required by law.
+The annual accounts have been Closed under the responsibility of the funds management company. It is our duty toexpress an opinion on these accounts based on our audit,
+1. OPINION ON THE ANNUAL ACCOUNTS
+We have conducted our audit in accordance with the applicable professional standards in France These standardsrequire that we apply the procedures necessary to obtain reasonable assurance that the annual ﬁnancial statements donot include any signiﬁcant misstatements, An audit involves verifying, by sampling and other selection methods, theelements underlying the amounts and information contained in the annual ﬁnancial statements, It also involvesassessing the implemented accounting principles, the signiﬁcant estimates that have been used, and assessing theoverall presentation of the ﬁnancial statements We feel that the collected evidence is sufﬁcient and appropriate forthe basis of our opinions
+We certify that, in accordance with French accounting rules and principles, the annual ﬁnancial statements aretruthful and in order, and present a fair picture of the operating proﬁts and losses for the past ﬁscal year, as well asthe UCITS created in the form of a mutual fund at the end of said ﬁscal yeaix
+2. JUSTIFICATION OF THE ASSESSMENTS
+In application of the provisions of article L,823-9 of the Commercial Code relative to the justiﬁcation of ourassessments, we inform you of the fact that the assessments we made concerned the appropriateness of theimplemented accounting principles and the reasonable nature of the signiﬁcant estimates that have been used,
+The assessments so made are in line with our approach for the audit of the annual accounts taken as a whole andtherefore contributed to the formation of our opinion as it is expressed in the ﬁrst part of the report,
+
+P) tcewaterhuuseCoopcrs Audit, 63, rue de Vil iers, 92208 NeuiIly-stu'-Seine CedexT: +33 (0) 1 56 575859, F: +33 (0) 1 56 5758 60. www.pwcfr
+Socélé usxpsnme eamptabla Insults an tabaau me l'nrdre dz Pa'ls , up. 62 France Samélé as oommlssarml aux cnmptes memb'e de la campagme raglonale daVersailles Svciété pa- Acuans Slmpliﬁéa au capital 49 2 5m 460 e. Srége 50cm 63‘ we as vmms 92200 Neuuw-sur- Salns RCS Nantevre 572 ms 453 TVAn' FR 75 672 005 Am Sire! 572 one 453 00352 Code APE 6920 2 Bureaux Bovdsaux Grenoble, UHe Lyon Marse We, Met; Nantes. NlCE; Paris Pot‘evs‘ Rennes,Raaen. Strasboulg Toulouse.
+
+935854 17 Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+17.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+
+LYXOR MSCI INDIA UCITS ETF
+3. SPECIFIC INFORMATION AND AUDIT PROCEDURES
+We have also conducted the auditing procedures required by law in accordance with the applicable professionalstandards in France.
+We have no observations to report regarding the truthfulness or consistency with the annual accounts of theinformation included in the annual report and in the documents sent to the shareholders concerning the company‘ssituation and annual accounts.
+Neuilly sur Seine, date of the electronic signature2017.05.23 18:03:56+0200
+
+Document authenticated via electronic signatureThe auditorPricewaterhouseCoopers Audit
+Marie-Christine Jetil
+
+
+
+
+935854 18 Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+18.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+ANNUALACCOUNTS
+
+935854 19 Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+19.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+28.02.2017 29.02.2016
+Currency
+
+Net fixed assetsDepositsFinancial instruments
+0 EQUITIES AND SIMILAR SECURITIESTraded on a regulated 01' similar marketNot traded on a regulaned or similar market
+0 BONDS AND SIMILAR SECURITIESTraded on a regulated or similar marketNot traded on a regulated or similar market
+0 DEBT SECURITIESTraded on a regulated or similar marketNegotiated debt securitiesOther debt securitiesNot traded on a regulated or similar market
+0 COLLECTIVE INVESTMENT UNDERTAKINGSGeneral UCITS and AIF intended for non-professionals and equivalent,of other countriesOther Funds inwnded for non»professionals and equivalent, of other EUmember statesGeneral professional Funds and equivalent, of other EU member statesand listed securitisation entitiesOther professional investment Funds and equivalent of other EU memberstates and non-listed securitisation entitiesOther non-European entities
+0 TEMPORARY SECURITIES TRANSACTIONSReceivables representing ﬁnancial securities under reverse repurchaseagreementsReceivables representing loaned ﬁnancial securitiesFinancial securities borrowedFinancial secuﬁties under repurchase agreementsOther temporary transactions
+0 FINANCIAL CONTRACTSOperations on a regulated or similar marketOther operations
+0 OTHER FINANCIAL INSTRUMENTS
+ReceivablesFuture foreign exchange operationsOther
+Financial accountsLiquidities
+Other AssetsTotal assets
+
+
+935854 20 Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+2.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+Management company LYXOR INTERNATIONAL ASSET MANAGEMENT17, cours Valmy 7 92987 Paris La Defense Cedexi
+Depository and Custodian SOCIETE GENERALE75886 Paris Cedex 18‘
+Underwriter SOCIETE GENERALE75886 Paris Cedex 18‘
+Statutory auditor PRICEWATERHOUSECOOPERS AUDIT63, rue de Villiers » 92208 Neuilly-sur-Seiue Cedex,
+INFORMATION ON THE INVESTMENTS AND MANAGEMENT
+Classiﬁcation:International equities.
+At all times, the UCITS is 60% exposed to at least one foreign equity market or to the equity markets of severalcountries, possibly including the French market,
+The MF is index-based fund of the UCITS ETF type‘
+Terms of determination and allocation of amounts available for distribution:Class of units C-EUR and C-USD: Capitalisation of all the amounts available for distribution.
+Management objective:
+T'te MF’s management objective is to replicate the MSCI India Net Total Return index (the “Benchmark Indicator”),listed in US Dollars (USD), regardless of its evolution, while insofar as possible minimizing the tracking error betweenthe MF’s performances and those of the Benchmark Indicator.
+T16 anticipated level of the ex-post tracking error under normal market conditions is 01%
+Benchmark indicator:
+T e benchmark indicator is the MSCI India Net Total Return index (net dividends reinvested), listed in US Dollars(USD) (the “Benchmark Indicator”). The Benchmark Indicator is an equity index calculated and published by thesupplier of international indices, MSCI.
+T e Benchmark Indicator is made up exclusively of Indian equities (India) and retains the fundamental characteristicsof the MSCI indices, i,e.: Adjustment of the stock market capitalization of the securities in the Benchmark Indicator 0nthe basis of the float, and sector classiﬁcation according to the GICS (Global Industry Classification Standard)classification.
+T'te objective of the Benchmark Indicator is to represent 85% of the capitalization adjusted on the basis of the float, ofeach group of industries of the Indian market.
+By targeting 85% of the representativeness of each industry group, the Benchmark Indicator measures 85% of themarket capitalization of the Indian market, while also reﬂecting the market’s economic diversity.
+
+T18 MSCI methodology and its calculation method entail the Benchmark Indicator being made up ofa variable numberof companies.
+An exhaustive description and the complete methodology for the construction of the Benchmark Indicator as well as theinformation on the composition and on the respective importance of components of the Benchmark Indicator will beavailable on MSCI website: www.mscibarra.com.
+The monitored performance is that of the Closing prices of the Benchmark Indicatorl The Benchmark Indicator isweighted by market capitalisation.
+
+935854 3 Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+20.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+28.02.2017 29.02.2016
+Currency
+
+Shareholders’ equities
+0 Capital
+0 Non—distributed prior net capital gains and losses0 Carried forward
+0 Net capital gains and losses of the ﬁscal year
+0 Result of the fiscal year
+Total shareholders’ equity(amount representing the net assets)
+Financial instruments0 SALE OPERATIONS 0N FINANCIAL INSTRUMENTS
+O TEMPORARY F mANCIAL SECURITIES TRANSACTIONSDebts representing ﬁnancial securities under repurchase agreementsDebts representing borrowed ﬁnancial securitiesOther temporary transactions
+0 FINANCIAL CONTRACTSOperations on a regulated or similar marketOther operations
+DebtsFuture foreign exchange operationsOther
+Financial accountsBank loans and overdraftsLoans
+
+
+Total liabilities
+
+
+935854 21 Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+21.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+28.02.2017 29.02.2016
+Currency
+
+Hedgingo Commitments on regulated or similar markets- Futures market- Options market— Credit derivatives— Swaps— Contracts for Differences (CFD)
+0 Over-the—counter commitments— Futures market— Options market- Credit derivatives— Swaps— Contracts for Differences (CFD)
+0 Other commitments— Futures market- Options market— Credit derivatives— Swaps- Contracts for Differences (CFD)
+Other operations0 Commitments on regulated or similar markets— Futures market- Options market- Credit deﬁvatives— Swaps- Contracts for Differences (CFD)
+0 Ovet-the-counter commitments- Futures market- Options market— Credit derivatives- Performance swaps- Contracts for Differences (CFD)
+0 Other commitments- Futures market— Options market- Credit derivatives- Swaps— Contracts for Differences (CFD)
+
+
+
+935854 22
+Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+22.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+28.02.2017 29.02.2016
+Currency
+
+Earnings on ﬁnancial transactions
+0 Earnings on deposits and ﬁnancial accounts
+0 Earnings on equities and similar securities
+0 Earnings on bonds and similar securities
+0 Earnings on debt securities
+0 Earnings on temporary ﬁnancial securiiies acquisitions and sales0 Earnings on ﬁnancial contracts
+0 Other ﬁnancial products
+Total (I)
+
+Charges on ﬁnancial operations
+0 Charges on temporary ﬁnancial securities acquisitions and sales0 Charges on ﬁnancial contracts
+0 Charges on ﬁnancial debts
+o Other ﬁnancial charges
+Total (II)
+
+Proﬁt and loss on ﬁnancial operations (I - II)
+
+Other earnings (III)
+Management fees and depreciation charges (IV)
+Net proﬁt and loss of the ﬁscal year (L.214-17-l) (I - II + III - IV)Adjustment of the ﬁscal year’s incomes (V)
+Advances on result paid for the ﬁscal year (VI)
+
+
+Earnings (I - II + [H - IV +/- V - VI):
+
+
+935854 23 Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+23.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+appendix
+1 Accounting rules and methods
+The annual accounts are presented in the form required by Regulation ANC 2014-01 that repealedthe amended CRC Regulation 2003-02.
+Assessment rules
+The MF's assets are assessed in compliance with the applicable laws and regulations, and moreparticularly with the rules deﬁned in regulation [10. 201401 of the Accounting RegulatoryCommittee dated 14 January 2014 relative to the chart of accounts of UCITS.
+The ﬁnancial instruments traded on a regulated market are assessed at the closing price on the daybefore the calculation day of the net asset value, When these financial instruments are traded onseveral regulated markets at the same time, the chosen closing price is the one of the regulatedmarket in which they are primarily traded.
+However, in the absence of signiﬁcant transactions on a regulated market, the following financialinstruments are assessed using the following speciﬁc methods:
+- Negotiable debt securities (“NDS”) having a residual life upon acquisition that is less than orequal to 3 months are assessed with a linear distribution, over the residual lifespan, of thedifference between the acquisition value and the redemption value, The management companynevertheless reserves the possibility of assessing these securities at the current value in case ofparticular sensitivity to market risks (rates, etc.). The chosen rate is that of the equivalentsecurity issues allocated to the risk margin related to the issuer;
+- NDS, of which the residual lifespan at acquisition is greater than 3 months but of which theresidual lifespan 0n the net asset value closing date is equal to or less than 3 months, are assessedby means of a linear distribution, over the residual lifespan, of the difference between the lastadopted current value and the reimbursement value. The management company neverthelessreserves the possibility of assessing these securities at the current value in case of particularsensitivity to market risks (rates, etc.). The chosen rate is that of the equivalent security issuesallocated to the risk margin related to the issuer;
+— NDS, of which the residual lifespan 0n the net asset value closing date is greater than 3 months,are assessed at their current values The chosen rate is that of the equivalent security issuesallocated to the risk margin related to the issuer,
+- Firm future ﬁnancial instruments traded an organised markets are assessed at the clearing priceon the day before the calculation day of the net asset value. Conditional future financialinstruments traded on organised markets are assessed at the market value on the day of the netasset value. Over-the-counter ﬁrm or conditional future ﬁnancial instruments are assessed at theprice given by the ﬁnancial instrument‘s counterparty. They are presented in the off—balancesheet on the basis of the nominal value defined in the contract.
+In the event of the holding of an EMTN, it will be valued on the basis of a market price given by
+the financial instrument’s counterparty,
+The management company independently carries out a verification of this assessment.
+- Deposits are assessed at their nominal value, plus any related interest that has accrued.
+- Subscription warrants, cash certiﬁcates, promissory notes and mortgage notes are assessed attheir probable market value, under the management company‘s responsibility.
+— Units and equities in undertakings for collective investment in transferable securities operatingunder French law are assessed at the last net asset value known on the calculation date of theMF’s net asset value
+— Units and equities of UCITSating under foreign law are assessed at the last unit net asset valueknown on the calculation date of the MF’s net asset value.
+Financial instruments traded on a regulated market for which the price has not been determined orfor which the price has been corrected are assessed at their probable market value, under themanagement company’s responsibility
+
+935854
+24 Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+24.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+appendix
+The exchange rates used for the assessment of ﬁnancial instruments listed in a currency other thanthe MF’s reference currency are the exchange rates disseminated by the WM Reuters on the sameday of the MF’s net asset value date.
+Posting method for the trading feesThe chosen method is that of included fees‘
+Posting method of incomes from ﬁxed income securitiesThe chosen method is that of the collected coupon.
+Assessment methods for off-balance sheet commitmentsOff-balance sheet operations are assessed at the commitment value.
+The commitment value for firm futures contracts is equal to the price (in the currency of the CIU)multiplied by the number of contracts multiplied by the face value.
+The commitment value for conditional operations is equal to the price of the underlying security(in the currency of the CIU) multiplied by the number of contracts multiplied by the deltamultiplied by the underlying face value,
+The commitment value for the swap contracts is equal to the contract’s nominal amount (in thecurrency of the CIU).
+Operation and management fees
+These fees include all of the fees invoiced directly to the MF, except for the transaction fees. Thetransaction fees include intermediation fees (brokerage, stock market tax, etc) and the transfercommission which, if relevant, may notably be collected by the custodian and managementcompany,
+For this MF, the following fees can be added to the operation and management fees (see summaryTable hereinafter):
+- Outperformance commissions: these commissions reward the management company when theMF has exceeded its objectives and are therefore invoiced t0 the MF;
+- Transfer commissions invoiced t0 the MF.
+For more details on the fees actually invoiced to the MF, refer to the Statistical Part of the KeyInvestor Information Document “KIID”.
+
+Fees invoiced t0 the CIU Basis Schedule rate
+
+Financial management fees and administrative fees
+external to the portfolio management company maximum 0.85% per
+
+
+
+. i i i i . T Net asset(Auditor, Deposnory, distribution, lawyers) including yeartax <1)Outperformance commission Net asset None‘ ‘ Collection on eachTransfer commissions None
+
+
+transaction
+
+(I) including all fees excluding transaction fees, outperformance commissions and fees related to
+investments in UCITS
+Accounting currencyThe MP accounting is carried out in euros,
+Indication of accountancy changes declared to each of the bearers individually- Occurred change: None.- Future change: None.
+
+935854
+25 Annual report — Fiscal year ending on: 28.02.2017
+
+===================================================
+25.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+appendix
+Indication of other changes declared to each of the bearers individually (Not certified by theauditor)
+- Occurred change: None.- Future change: None.
+Indication and justiﬁcation of the changes to estimates and application provisionsNone.
+Indication of the nature of the errors corrected during the ﬁscal yearNone‘
+Indication of the rights and conditions attached to each category of units
+Class of units C-EUR and Units C-USD: Capitalisation of all the amounts available fordistribution
+
+
+LYXOR MSCI INDIA UCITS ETF (the “‘Fund”) is in no way sponsored, endorsed, sold or promoted byMSCI Inc, (MSCI), or by any MSCI subsidiary, or by any of the entities involved in the preparation of theMSCI indices, The MSCI indices are the exclusive property of MSCI and the MSCI indices are trademarksbelonging to MSCI or its subsidiaries and have been the subject of a licence granted, for certain requirements,to Lyxor Asset Management Neither MSCI, nor any MSCI subsidiary, nor any of the entities involved in thepreparation or calculation of the MSCI indices makes any declaration or issues any express or implicitguarantee relative to holders of the Fund’s units or more generally to the public, with regard to the timelinessof a transaction involving mutual fund units in general or the Fund’s units in patticular, or regarding theability of any MSCI index to replicate the performance of the overall equity market. MSCI or its subsidiariesare the owners of certain names, registered trademarks and 0f the MSCI indices that are determined,composed and calculated by MSCI without discussion with Lyxor Intemational Asset Management or theFund. Neither MSCI, nor any MSCI subsidiary, nor any of the entities involved in the preparation of theMSCI indices is required to take into account the needs of Lyxor Intemational Asset Management or of theholders of the Fund’s units when determining, composing 0r calculating the MSCI indices. Neither MSCI,nor any MSCI subsidiary, nor any of the entities involved in the preparation of the MSCI indices makes anydecision regarding the launch date, the price, the quantity of the Fund’s units, or even the determination andcalculation of the formula used to establish the Fund’s net asset value. Neither MSCI, nor any MSCIsubsidiary, nor any of the entities involved in the preparation of the MSCI indices assumes any liability orobligation with regard to the Fund’s administration, management or marketing.
+THOUGH MSCI OBTAINS INFORMATION FOR INTEGRATION OR USE IN THE CALCULATIONOF THE INDICES FROM SOURCES THAT MSCI CONSIDERS TO BE RELIABLE, NEITHER MSCINOR ANY OTHER PARTY INVOLVED IN THE CREATION OR CALCULATION OF THE MSCIINDICES GUARANTEES THE EXACTNESS AND/OR EXHAUSTIVE NATURE OF THE INDICES OROF ANY INCLUDED DATA‘ NEITHER MSCI NOR ANY OTHER PARTY INVOLVED IN THECREATION OF A CALCULATION FOR THE MSCI INDICES GIVES ANY EXPRESS OR IMPLICITGUARANTEE AS TO THE RESULTS THAT MAY BE OBTAINED BY THE HOLDER OF A MSCILICENCE, THE CUSTOMERS OF THE SAID LICENSEE AS WELL AS THE COUNTERPARTIES,UNIT HOLDERS IN THE FUND OR ANY OTHER PERSON OR ENTITY, BASED ON THE USAGE OFTHE INDICES OR OF ANY DATA INCLUDED WITH REGARD TO THE RIGHTS GRANTED BYLICENCE OR FOR ANY OTHER USAGE, NEITHER MSCI NOR ANY OTHER PARTY GIVESEXPRESS OR IMPLICIT GUARANTEES AND MSCI RFJECTS ALL GUARANTEES REGARDINGTHE COMMERCIAL VALUE OR ADEQUACY FOR A SPECIFIC USAGE OF THE INDICES ORINCLUDED DATA, NOTWITHSTANDING THE ABOVE, UNDER NO CIRCUMSTANCES MAY THELIABILITY OF MSCI OR OF ANY OTHER PARTY BE SOUGHT WITH REGARD TO ANYDAMAGES, WHETHER DIRECT, INDIRECT OR OTHER (INCLUDING THE LOSS OF EARNINGS),EVEN IN CASE OF KNOWLEDGE OF THE POSSIBILITY OF SUCH DAMAGES
+
+
+935854
+26 Annual report — Fiscal year ending on: 28.02.2017
+
+===================================================
+26.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+2. Evolution of the net assets
+
+
+28.02.2017 29.02.2016Currency EUR EURNet assets at the start of the ﬁscal year 976,662,60538 1,580,781,884.45Subscriptions (including subscriptioncommission acquired by the UCITS) 369,364,526.43 460,118,37858Redemptions (less the redemptioncommission acquired by the UCITS) -301,233,012.43 -677,239,486.53Capital gains generated on deposits and ﬁnancial instruments 153,628,439.99 275,721,419.29Capital losses generated on deposits and ﬁnancial instruments -81,436,346.23 -294,397,928.23Capital gains generated on financial contracts 2,760,918,853.26 3,574,817,36128
+Capital losses generated on ﬁnancial contracts
+Transaction fees
+Exchange rate differentials
+Changes to the estimate difference ofthe deposits and ﬁnancial instruments:- Estimate diﬁerenceﬁscal year N- Estimate diﬁcrenceﬁscal year N-I
+Changes to the estimate difference of
+ﬁnancial contracts:
+- Estimate diﬂerencefiscal year N- Estimate diﬁerenceﬁscal year N-1
+Previous ﬁscal year distribution of net capital gains and lossesPrevious ﬁscal year distribution on profitsNet profit and loss of the ﬁscal year before adjustment account
+Advance(s) paid during the ﬁscal year on net capital gains and losses
+Advance(s) on proﬁts paid during the fiscal year
+Other elements
+-2,708,041,562.53-0.025,777,789.2591,907,722.12
+149,747,560.33$7,839,838.21
+32,125,382.4028,259,367J9-3,866,015.21
+6,625,984.88
+-3,761,895,100.47202,624.491,916,997.00-187,200,621.68
+57,839,838.21245,040,459.89
+3,172,811.23-3,866,015.217,038, 826.44
+1,069,514.95
+
+Net assets at the end of the ﬁscal year
+1,306,300,38250
+
+”6,662,605.38
+
+
+935854
+27
+Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+27.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+3. Information supplements
+3.1 Financial instruments: breakdown by the instrument’s legal or economic type3‘ 1 .1 Breakdown of the “Bonds and similar securities” item by type of instrument
+Traded on a regulated Not traded on a regulatedor similar market or similar market
+
+Index»linked bonds - »
+
+Convertible bonds — _
+
+Fixed—rale bonds » ~
+
+Variable-rate bonds - »
+
+Zero-coupon bonds - '
+
+Participating securities ~ -
+
+Other instruments - »
+
+11.2 Breakdown of the “Debt securities” item by legal or economic type
+Traded on a regulated Not traded on a regulatedor similar market or similar market
+
+Treasury Bills ' '
+
+Commercial papers — -
+
+Certificates of deposit - »
+
+Medium-term notes (“BMTN”) . _
+
+Other instruments — -
+
+3. I .3 Breakdown of the “Sale operations on financial instruments” item by instrument type
+
+
+Securities under Securities borrowed Securities acquired Short sales
+reverse repurchase sold with redemption
+agreement sold right soldEquities - - - -Bonds - - - —
+
+Debt securities - _ _ _
+
+Other investments — . _ _
+
+
+935854 28 Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+28.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+3.1.4 Breakdown of the off—balance sheet headings by market type (notably rates, equities)
+Rate Equities Exchange Other
+
+HedgingCommitments on regulated - _ _ _or similar markets
+
+Over-thc-counter commitments - _ . _
+
+Other commitments - . _ _
+
+Other operationsCommitments on regulated - — _ _or similar markets
+
+Over»the-counter commitments 784,153,68250 - -
+
+Other commitments . . _ _
+
+3.2 Breakdown by rate types of the asset, liability and off-balance sheet items
+Fixed rate Variable rate Revisable rate Other
+
+AssetsDeposits
+
+Bonds and similar securities — . _ _
+
+Debt securities — . . _
+
+Temporary ﬁnancial securities operations - - - -
+
+Financial accounts - - - 0.72
+
+LiabilitiesTemporary ﬁnancial securities operations
+
+Financial accounts - - - 0.42
+
+Off-balance sheetHedging
+
+Other operations — . _ _
+
+3.3 Breakdown by residual maturity of the asset, liability and off—balance sheet items
+0-3 months 3 months - 1-3 years 3-5 years >5 years1 year
+
+AssetsDeposits — - - — —
+
+Bonds and similar securities - — . _ _
+
+Debt securities — . . _ _
+
+Temporary ﬁnancial securitiesoperations — . . _ _
+
+Financial accounts 0.72 - — _ _
+
+LiabilitiesTemporary ﬁnancial securitiesoperations — . . _ _
+
+Financial accounts 0.42 - — . _
+
+Off-balance sheetHedging - ‘ ‘ ‘
+
+Other operations - 784,153,68250 - - -
+
+
+935854 29 Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+29.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+3.4 Breakdown by listing or assessment currency of the asset, liability and off—balance sheet itemsThis breakdown is givenfor the main listing or assessment currencies, with the exception 0fthe currency for thekeeping of the accounts.
+
+
+By main currency JPY USD CHF Othercurrencies
+AssetsDeposits - - _ -Equities and similar securities 218,406,71090 131,260,34488 [5,225,582.78 20,503,66486
+
+Bonds and similar securities - . _ _
+
+Debt securities — . . .
+
+CIU » - - -
+
+Temporary ﬁnancial securities operations - - - -
+
+Receivables - ~ - ~
+
+Financial accounts » 0.72 - -
+
+Other assets . . _ _
+
+LiabilitiesSale operations on financial instruments
+
+Temporary ﬁnancial securities operations - — . _
+
+Debts . . _ _
+
+Financial accounts — . . _
+
+Off-balance sheetHedging
+
+Other operations _ . _ _
+
+3.5 Receivables and Debts: breakdown by typeDetails of the elements comprising the “other receivables and “other debts items,nutably breakduwn 0fthefuturef0reign exchange operations by type ofoperation (purchase/sale).
+
+Receivables
+. 1,134,735.80Future currency exchange operatlons:
+
+Future purchases of currency —
+
+Total traded amount of future Sales of currencies -
+
+Other receivables:Deferred settlement sales 1,134,735.80
+
+
+
+
+
+Other operations -
+
+Debts . 1,954,733.64Future currency exchange operatlons:
+
+Future sales of currencies _
+
+Total traded amount of future Purchases of currencies —
+
+Other debts:Account payable 1,134,735.80
+
+Accrued expenses 819,997.84
+
+
+
+
+Other operations _
+
+
+935854 30 Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+3.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+Benchmark indicator revision
+The Benchmark indicator is reviewed quatterly, in order to take into account changes affecting a stock’s marketcapitalisation (number of securities and free ﬂoat) or its classiﬁcation by sectori The principal changes in a company’scapital structure may be implemented in real time (merger or acquisition, large rights issues or IPOs).
+The MSCI rules for Benchmark indicator revision are published by MSCI and are available on MSCI website:www.mscibarraicomi
+The rebalancing frequency indicated above does not affect the cost of implementing the Investment strategy.
+Benchmark Indicator Qublication
+The ofﬁcial MSCI indices are calculated on a daily basis at closing prices using the official closing stock market pricesfor the constituent stocks The Benchmark Indicator is also calculated in real time every banking day‘
+The Benchmark Indicator is available in real time Via Reuters and Bloomberg.
+Reuters code: .dMIINOOOONUS
+Bloomberg code: NDEUSIA
+The Benchmark Indicator‘s closing price is available on MSCI website: www.mscibarra.com.
+Investment strategy:
+1. Strategy emgloyedThe MF will comply with the investment rules dictated by the European directive no‘ 2009/65/EC dated 13 July 2009‘
+In pursuit of the greatest possible correlation with the performance of the Benchmark Indicator, the MF will reach itsmanagement objective using the indirect replication method which means that it will enter into one or more OTC swapcontracts enabling it to reach its investment objective. The objective of these swap contracts will be to exchange (i) thevalue of the MF’s assets, which will consist of balance sheet assets (excluding any securities received as guarantees),for (ii) the value of the securities that underlie the Benchmark Indicator,
+The securities in the MF’s assets will notably be securities making up the Benchmark Indicator, as well as otherinternational equities, from all economic sectors, listed on all markets, including the small caps markets,
+The securities basket held may be adjusted daily so that its value will be superior or equal to 100% of the Fund's netassets in most cases. Where necessary, the aim of this adjustment will be the neutralisation of the counterparty riskresulting from the future exchange contract described above,
+As part of the management of its exposure, the MF can use up to 20% of its assets to acquire equities from a singleissuing entity. This 20% limit will be checked on each rebalancing date of the Benchmark Indicator, in application ofthe Benchmark Indicator’s calculation method that limits the exposure to each of equities of a single issuing entity to20%, and for which the calculation is carried out by the sponsor or the calculation agent of the Benchmark Indicator.This 20% limit can be increased to 35% for a single issuing entity when this proves to be justified by exceptionalconditions within the market, notably when certain securities are heavily dominant and/or in the event of high volatilityof a ﬁnancial instrument and of securities from an economic sector represented by the Benchmark Indicator, inparticular in the event of a public offering affecting one of the securities making up the Benchmark Indicator or in theevent of a signiﬁcant restriction of liquidity affecting one or more ﬁnancial instruments making up the BenchmarkIndicator.
+2. Balance sheet assets {excluding integrated derivatives[
+The MF may hold, in compliance with the ratios contained in the regulation, international equities (from all economicsectors, listed on all markets), including within the small cap markets,
+The aforementioned equities will be chosen on the basis of criteria:
+- of eligibility, in particular:
+0 Subordination to the main market indices or to the Benchmark Indicator,
+0 Liquidity (minimal thresholds applied to mean daily volumes of transactions and t0 the equity market capitalisation),0 Rating of the country of the issuer’s head office (requirement of a minimal threshold in S&P rating or equivalent),
+- of diversification, notably:
+o Issuer (application of ratios applicable to the eligible assets of a UCITS, as speciﬁed in Art. R214-21 of the [French]Monetaly and Financial Code),
+0 Geographical area,
+0 Sector.
+The investment in undertakings for collective investment in transferable securities (“UCITS) compliant with the
+Directive 2009/65/EC is limited to 10% of the assets of the MF. As part of these investments, the MF can subscribe to
+units or equities of UCITS managed by the management company, or a company with which it is linked. The managerwill not invest in units or equities of AIF or other investment funds established on the basis of foreign laws.
+
+935854 4 Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+30.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+3.6 Shareholders’ equity
+
+
+
+SubscriEtions RedemptionsNumber of units issued/redeemed Number of units Amount Number of units Amountduring the fiscal year:UNIT C-EUR / FR0010361683 20,591,728 291,012,02352 15,058,000 205,317,11454UNIT C-USD / FR0010375766 5,692,533 78,352,502.9l 7,0] 1,003 95,915,897.89Subscription / redemption commission byunit category: Amount Amount
+
+UNIT C-EUR / FR0010361683 - -UNIT C-USD / FR0010375766 - -Remittances by unit category: Amount AmountUNIT C-EUR / FR0010361683 - -UNIT C-USD / FR0010375766 - -Commissions acquired by the CIU by unit
+category: Amount AmountUNIT C-EUR / FR0010361683 - -UNIT C—USD / FR0010375766 — —
+
+
+
+
+
+
+
+
+3.7 Management fees
+
+
+02erating and management fees (ﬁxed fees) as % of the average net assets %Unit category:
+UNIT C-EUR / FR0010361683 0.85UNIT C—USD / FR0010375766 0.85Performance commissions (variable fees): amount of costs for the year Amount
+Unit category:UNIT C-EUR / FR0010361683 -UNIT C—USD / FR0010375766 -Retrocession of management fees:- Total amount of fees retroceded to the CIU -- Breakdown by “target CIU:— CIU 1 —- CIU 2 -- CIU 3 -— CIU 4 —
+
+
+
+
+
+
+
+935854 31 Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+31.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+3.8 Commitments given and received
+38.1 Description of guarantees received by the CIU with indication of the capital guarantees ............................. None3.82 Description of the other commitments received and/or given ‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘ None
+3.9 Other information
+3.91 Current value of the financial instruments that are the subject of temporary acquisition:- Financial instruments sold under forward repurchase agreements -
+
+- Other temporary operations .
+
+39.2 Current value of the financial instruments comprising security deposits:Financial instruments received as guarantees and not included in the balance sheet:- equities 33,745,876.65
+
+- bonds .
+
+- debt securities -
+
+- other financial instruments -
+
+Financial estimates given as guarantees and maintained in their original item:- equities -
+
+- bonds .
+
+- debt securities -
+
+- other financial instruments -
+
+3.9.3 Financial instruments held in the portfolio, issued by entities linked to the management company (fund) or to theﬁnancial managers (MF) and CIU managed by these entities:- CIU securities
+
+- Swaps 28,259,367.19
+
+
+935854 32 Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+32.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+3.10 Allocation of the earnings table ( in the CIU currency afaccount)
+Advances paid during the ﬁscal year
+Date Unit Overall Unit Total [ax Unit [axcategory amount amount credits credits
+
+
+
+
+
+Total advances — — . _
+
+
+935854 33 Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+33.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+28.02.2017 29.02.2016
+
+Allocation of the profit/loss
+
+Amounts still to be allocated
+Carried forward
+Proﬁt and loss
+Total
+
+
+
+UNIT C-EUR / FR0010361683 28.02.2017 29.02.2016
+
+
+Currency
+
+Allocation
+Distdbution
+Carded forward for the ﬁscal year
+Capitalisation
+Total
+Information relative to the units and resulting in a distribution rightNumber of units
+Unit distribution
+
+
+Tax credits linked to the allocation of the profit/loss
+
+
+UNIT C-USD / FR0010375766 28.02.2017 29.02.2016
+
+
+Cun'encAllocation
+DisttibutionCarried forward for the ﬁscal yearCapitalisation
+Total
+
+Information relative to the units and resulting in a distribution rightNumber of units
+Unit distributionTax credits linked to the allocation of the profit/loss
+
+
+
+935854 34 Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+34.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+3.11. Allocation table of the amounts available for distribution related to the net capital gains and losses(in the ClU‘s currency ofaccount)
+Advances on net capital gains and losses paid for the ﬁscal year
+
+
+
+
+
+
+Overall UnitDale
+amount amountTotaladvances
+
+
+935854 35 Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+35.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+28.02.2017 29.02.2016
+
+
+Allocation of the net capital gains and losses
+
+Amounts still to be allocated
+Nondistributed prior net capital gains and losses
+Net capital gains and losses of the ﬁscal year
+Advances paid on net capital gains and losses of the ﬁscal year
+Total
+
+
+
+UNIT C-EUR / FR0010361683 28.02.2017 29.02.2016
+
+
+Currenc
+Allocation
+Disu'ibution
+Non—disuibuted net capital gains and lossesCapimlisation
+Total
+
+Information relative to the units and resulting in a distribution rightNumber of units
+Distribution per unit
+
+
+
+UNIT C—USD / FR0010375766 28.02.2017 29.02.2016
+
+
+Cun'ency
+
+Allocation
+Dishibution
+Non—disttibuted net capital gains and losses
+Capimlisation
+Total
+Information relative to the units and resulting in a distribution rightNumber of units
+Distribution per unit
+
+
+935854 36 Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+36.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+3.12 Table of the earnings and other characteristic elements of the MF during the last 5 ﬁscal yearsFund creation date: 25 October 2006.
+
+
+Currency
+EUR 28.02.2017 29.02.2016 27.02.2015 28.02.2014 28.02.2013Net assets 1,306,300,382.50 976,662,60538 1,580,781,88445 861,460,10300 969,181,67172UNIT C—EUR / FR0010361683 Currency of the unit and 0f the NAV: EUR
+28.02.2017 29.02.2016 27.02.2015 28.02.2014 28.02.2013
+
+Number of circulatingunits 73,411,038 67,877,310 89,359,888 79,760,888 81,954,888
+Net asset value 15.1718 11.9272 15.9934 9.6053 104495Unit distribution on netcapital gains and losses(including advances) - - - - -
+
+Unit distribution(including advances)* - — . _ _
+Unit tax credit transferredto unit holders(natural persons) (1) . _ _ _ _
+Unit capitalisation * 1.22 089 4.45 -1.25 0.08* The amounts 0fthe unit distribution, the unit mpitalisatian and the tax credits are indicated in the accounting currency 0fthe CIU.The unit capitalisation corresponds t0 the sum afpraﬁ't and loss and net capital gains at losses on the number afcirculzzting units,This calculation method is applied since 1 January 2013.
+(I) In pursuant to the Fiscal Inxtruetian 0f 4 March 1993 Ufthe Directorate Generalfar taxes, the unit tax credit will be determinedon the ex-dividend date by distribution 0f the total amount 0f the tax credits between the Circulating units on that date.
+
+
+UNIT C-USD / FR0010375766 Currency 0f the unit and 0f the NAV: USD28.02.2017 29.02.2016 27.02.2015 28.02.2014 28.02.2013
+
+Number of circulatingunits 12,688,829 14,007,299 9,478,974 9,923,986 10,793,986
+Net asset value 16.1221 12.96 17.9397 13.2669 136611Unit distribution on netcapital gains and losses(including advances) - — — — -
+
+Unit distribution(including advances)* - — . _ _
+Unit tax credit transferredto unit holders(natural persons) (1) . . _ _ _
+Unit capitalisation * 3.95 -10.46 6.87 -0.67 0.08* The amounts of the unit distribution, the unit capitalisation arid the tax credits are indicated in the accounting currency of the CIU.The unit capitalisation corresponds ta the sum afpruﬁt and loss and net capital gains at losses on the number afcirculatirtg units,ThiS calculation method is applied since 1 January 2013.
+(I) In pursuant ta the F iscal Instruction 0f 4 March 1993 0f the Directorate General for twces, the unit tax credit will be determinedon the ex-dividehd date by distribution of the total amount of the tax credits between the circulating units on that date.
+
+
+
+935854 37 Annual report — Fiscal year ending on: 28. 02.201 7
+===================================================
+37.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+4. In entory of 28.02.2017
+Listing % Net
+Seculity code Name of the security Security status Quantity Market value currency AssetsInvestment Securities
+Equity
+CH001222171S ABB N STOCKHOLM OWN SPECIFIC 21,943.00 468,209.05 SEK 0.04U50028241000 ABBOTT LABORATORIES OWN SPECIFIC 3,626.00 153,830.30 USD 0.01NL0011540547 ABN AMRO GROUP N,V. OWN SPECIFIC 20852300 450409680 EUR 0.34E50125220311 ACCIONA SA OWN SPECIFIC 2,390.00 168,901.30 EUR 0.01CH0010532478 ACTELION N OWN SPECIFIC 17,434.00 4,428,332.66 CHF 0.34DBIDAIEWWWO ADIDAS NOM OWN SPECIFIC 192,354.00 30,468,87360 EUR 2.33E80105046009 AENA SA OWN SPECIFIC 9,065.00 1,223,775.00 EUR 0.09NL0000235190 AIRBUS GROUP OWN SPECIFIC 443,322.00 30,731,081.04 EUR 2.35DE0008404005 ALLIANZ SE-NOM OWN SPECIFIC 361,707.00 59,392,289.40 EUR 4.55USO2079K3059 ALPHABET LNC OWN SPECIFIC 5,520.00 4,389,246.75 USD 0.34USO231351067 AMAZON.COM OWN SPECIFIC 10,814.00 8,599,908.30 USD 0.66BE0974293251 ANHEUSER BUSCH INBEV SA/NV OWN SPECIFIC 100,364.00 10,362,58300 EUR 0.79US$318652091 A.O.SMITH CORP OWN SPECIFIC 49,144.00 2,329,090.76 USD 0.18FR0010313833 ARKEMA PGARAN 14,471.00 1,324,096.50 EUR 0.10FR0010313833 ARKEMA OWN SPECIFIC 3,669.00 335,713.50 EUR 0.03FR0000051732 ATOS SE PGARAN 29,266.00 3,263,159.00 EUR 0.25E80113211835 BANCO BILBAO VIZCAYA ARGENTA OWN SPECIFIC 3,589,976.00 22,178,871.73 EUR 1.70DEOOOBASFI 11 BASF SE OWN SPECIFIC 84,787.00 7,452,777.30 EUR 0.57DEOOOBAY0017 BAYER AG OWN SPECIFIC 1 17,386.00 12,184,66680 EUR 0.93US0846707026 BERKSHIRE HATAW B OWN SPECIFIC 117,524.00 18,959,122.98 USD 1.45FR0000131104 BNP PARLBAS PGARAN 91,021.00 5,017,987.73 EUR 0.38FR0000131104 BNP PARIBAS OWN SPECIFIC 900,000.00 49,617,000.00 EUR 3.80JP3242800005 CANON INC OWN SPECIFIC 465,510.00 12,846,75883 JPY 0.98FR0000125338 CAP GEMINI SA OWN SPECIFIC 100,945.00 8,145,252.05 EUR 0.62DK0010181759 CARLSBERG B OWN SPECIFIC 495.00 41,056.59 DKK 0.00
+
+935854 38 Annual report — Fiscal year ending on: 28. 02.201 7
+===================================================
+38.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+Seculity code Name of the security Security status Quantity Market value egg: 105::FR0000120172 CARREFOUR SA OWN SPECIFIC 870,141.00 19.612.978.14 EUR 1.50USI6119P1084 CHARTER COMMUNICATIONS INC OWN SPECIFIC 2,163.00 657,612.25 USD 0.05FR0000130403 CHRISTIAN DIOR SE PGARAN 6,268.00 1,252,973.20 EUR 0.10FR0000120222 CNP ASSURANCES OWN SPECIFIC 19,215.00 335,974.28 EUR 0.03SE0005999778 COM HEM HOLDING AB OWN SPECIFIC 322,71 1.00 3,412,576.09 SEK 0.26FR0000125007 COMPAGNIE DE SAINT-GOBAIN SA OWN SPECIFIC 976,931.00 44,186,589.l3 EUR 3.38US2058871029 CONAGRA BRANDS INC OWN SPECIFIC 15,351.00 595,346.05 USD 0.05US20605P1012 CONCHO RESOURCES OWN SPECIFIC 575.00 71,672.08 USD 0.01US22282E1029 COVANTA HOLDING OWN SPECIFIC 31,418.00 478,987.01 USD 0.04JP3481800005 DAIKLN INDUSTRIES LTD OWN SPECIFIC 209,328.00 18,777,877.85 JPY 1.44DE0007100000 DAIMLER OWN SPECIFIC 437,262.00 30.013.663.68 EUR 2.30FR0000120644 DANONE OWN SPECIFIC 1,616,449.00 101,125,049.44 EUR 7.74US2371941053 DARDEN RESTAURANTS INC OWN SPECIFIC 16,106.00 1,131,936.83 USD 0.09US239 181(1088 DAVlTA INC OWN SPECIFIC 3,711.00 242,405.90 USD 0.02N10009294552 DELTA LLOYD OWN SPECIFIC 54,883.00 294,172.88 EUR 0.02DE0007480204 DEUTSCHE EUROSHOP AG OWN SPECIFIC 35,815.00 1,400,903.73 EUR 0.1 1DF0005557508 DEUTSCHE TELEKOM AG-NOM OWN SPECIFIC 945,192.00 15,416,08152 EUR 1.18US25278X1090 DIAMONDBACK ENG OWN SPECIFIC 15,860.00 1,505,401.47 USD 0.12JP3783600004 EAST JAPAN RAILWAY CO OWN SPECIFIC 124,166.00 10,605,73922 JPY 0.81FR001024251 l ELECTRICITE DE FRANCE SA PGARAN 533,189.00 4,931,998.25 EUR 0.38FR001024251 1 ELECTRICFFE DE FRANCE SA OWN SPECIFIC 173,132.00 1,601,471.00 EUR 0.12F10009007884 ELISA OYJ OWN SPECIFIC 1,839.00 57,873.33 EUR 0.00E80130960018 ENAGAS OWN SPECIFIC 365,969.00 8,488,650.96 EUR 0.65FR0010208488 ENGIE SA PGARAN 322,570.00 3,722,457.80 EUR 0.28FR0010208488 ENGIE SA OWN SPECIFIC 187,839.00 2,167,662.06 EUR 0.17AT000065201C ERSTE GROUP BANK CZK OWN SPECIFIC 49,959.00 1,379,301.42 CZK 0.11FR0000121667 ESSIIDR INTERNATIONAL OWN SPECIFIC 25,733.00 2,783,023.95 EUR 0.21US30303M 1027 FACEBOOK A OWN SPECIFIC 307,433.00 39.214.632.81 USD 3.00US3364331070 FIRST SOLAR INC OWN SPECIFIC 5,543.00 188,783.33 USD 0.01US34354P1057 FLOWSERVE CORP OWN SPECIFIC 44,608.00 1,949,973.27 USD 0.15
+
+935854 39 Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+39.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+Security code Name of the security Security status Quantity Market value 033:; 20881::050005785604 FRESENIUS s13 & c0 KGAA OWN s95€11=1c 229,219.00 17,196,00938 5119 1.325801434161 15 ?QgIEngOCC'CI’gigl/‘AACION OWN SPECIFIC 47,778.00 998,560.20 13119 0.08U83682872078 GAZPROM PJSC-SPON ADR REG OWN SPECIFIC 1,883,988.00 7,908,458.94 USD 0.6101100301 70408 GEBERIT AG-NOM OWN SPECIFIC 4,249.00 1,735,296.15 CH9 0.13c110001752309 GEORG FISCHER AG NAMEN OWN s95011=1c 2,495.00 2,040,969.32 cm: 0.16D50008402215 HANNOVER RUECK 85 OWN SPECIFIC 47,319,00 5,044,205.40 509 0.39193768600003 HASEKO c099 OWN SPECIFIC 369,61 1.00 4,134,803.30 JPY 0.32010012214055 HOLUM LTD-NOM 5119 OWN SPECIFIC 27,436,00 1,473,038.84 5119 0.1 1850000109290 HOLMEN B OWN SPECIFIC 19,849.00 725,100.36 SEK 0.06084364401012 HOLOGIC INC OWN SPECIFIC 3,949.00 150,809.73 USD 0.01193854600008 HONDA MOTOR co LTD OWN SPECIFIC 336,100.00 9,863,426.39 1911 0.76084448591028 HUMANA OWN SPECIFIC 975.00 193,834.70 USD 0.01990004035913 ILIAD PGARAN 948.00 185,286.60 5119 0.01911.001 1821202 ING 090119 NV OWN SPECIFIC 114,289.00 1,487,471.34 5119 0.11US46120E6023 INTUITIVE SURGICAL OWN SPECIFIC 472.00 327,370.60 USD 0.03850000107401 INVESTOR A OWN SPECIFIC 1,605.00 59,235.74 SEK 0.00100011794037 KONINKLIJKE AHOLD DELHAIZE OWN SPECIFIC 418,683.00 8,398,780.98 5119 0.64N10000009538 KONINKLIJKE PHILIPS N.V. OWN s95c11=1c 27,880.00 795,555.80 EUR 0.06193249600002 KYOCERA c099 OWN SPECIFIC 194,500.00 10,107,08308 1911 0.771350005501 1 10 LEG IMMOBILIEN OWN s95c11=1c 98,574.00 7,668,071.46 EUR 0.59FR0010307819 LEGRAND OWN SPECIFIC 148,835.00 7,920,998.70 5119 0.61010010570759 LINDT & SPRUENGLI AG-NOM OWN SPECIFIC 5.00 305,854.44 c1113 0.02C1-10013841017 LJONZA 090119 AG N OWN SPECIFIC 3,624.00 630,023.96 CHF 0.05590000120321 L‘OREAL SA 9911/15 135 FIDELITE OWN SPECIFIC 23,771.00 4,172,999.05 EUR 0.32590000121014 bgﬁggﬂig HENNESSY LOUIS PGARAN 14,528.00 2,752,329.60 5119 0.21590000121014 50%};8481051: ”ENNESSY LOUIS OWN SPECIFIC 18,822.00 3,565,827.90 EUR 0.27US55953Q2021 MAGNIT 89 GDR SPONSORED OWN SPECIFIC 410,969.00 14,101 ,194.94 USD 1.08580152503035 ?EDIASET ESPANA COMUNICACION OWN SPECIFIC 225,234.00 2,495,592.72 EUR 0.19580176252718 MELIA HOTEL INTL OWN SPECIFIC 14.41 1.00 177,543.52 5119 0.011380105025003 MERLLN PROPERTIES OWN s95c11=1c 487,397.00 5,222,458.86 5119 0.40
+
+935854 40 Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+4.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+When the MF receives securities as guarantee under the conditions and limits of this section’s paragraph 8 below, theywill also constitute balance sheet assets received in full ownership by the MF, given that they are received by the MF infull ownership.
+As part ofa future optimisation of the MF’s management, the manager reserves the right to use other instruments withinthe limits of the regulations in order to achieve the management objective.
+3. Off—balance sheet assets gderivative instruments!
+The MP will use Index-linked swaps traded over the counter, thereby swapping the value of the MF’s assets (or of anyother ﬁnancial instrument or asset held by the MF, where appropriate) against the value of the Benchmark Indicator (incompliance with the description contained in this section’s paragraph 1 above).
+As part of a future optimisation of the MF management, the manager reserves the right to use other instruments withinthe limits of the regulations, such as to achieve the management objective, for example including future financialinstruments other than index-linked swaps.
+In compliance with its best execution policy, the management company considers that the Société Générale is thecounterparty that generally makes it possible to obtain the best possible result with these future ﬁnancial instruments,These future ﬁnancial instruments (including index-linked swaps) can therefore be traded with the Société Générale,without prior open competition involving several counterparties,
+The counterparty 0f the aforesaid future ﬁnancial instruments (the “Counterparty”) will have no discretionary powerregarding the composition of the MF's portfolio, nor regarding the underlying assets of the future ﬁnancial instruments.
+4. Securities with integrated derivativesNone.
+5. DepositsUp to a maximum of 20% of its net assets, the MF may have recourse to deposits with lending institutions belonging tothe same group as the depositary in order to optimise its cash management.
+6. Cash borrowingUp to a maximum of 10% of its net assets, the MF may temporarily have recourse to borrowing.
+7. Temgorag securities acguisition and sale operationsNone‘ The manager will not have recourse to temporary securities acquisition and/or sale operation,
+Maw
+In all cases in which the MF is subject to a counterparty risk as a result of the deployed investment strategy, notably inthe event of the MF’s use of forward swap contracts traded over the counter, the MF can receive securities that areconsidered as guarantees in order to reduce the counterparty risk related to these operations. The portfolio of receivedguarantees can be adjusted each day in order for its value to be greater than or equal to the level of the counterparty riskborne by the MF in most cases, The objective of this adjustment will be to ensure that the level of counterparty riskborne by the MF is totally neutralized,
+Any ﬁnancial guarantee received by the MF will be provided to the MP in full ownership and listed in the MF’s accountopened in the books of its depositary. As such, the received ﬁnancial guarantees will be listed amongst the MF'S assets,
+Any ﬁnancial guarantee received by the MF within this framework must comply with the criteria defined by theprevailing laws and regulations, notably in terms of liquidity, valuation, credit quality of the issuers, correlation, risksrelated to the management of securities, and applicability. The received guarantees must, in particular, comply with thefollowing conditions:
+(a) Any received guarantee must be of high quality, very liquid and traded on a regulated market or in a multilateraltrading system with transparent pricing, in order to be sold quickly at a price close to the prior valuation;
+(b) They must be valued at the mark-to-market price at least on a daily basis and assets showing strong price volatilitymust not be accepted as guarantee except in case of the application of a sufﬁciently cautious discount;
+(c) They must be issued by an entity that is independent of the counterparty and must not be highly correlated with thecounterparty’s performances;
+(d) They must be sufficiently diversified in terms of countries, markets and issuers, with a maximum exposure perissuer of 20% of the MF’s net asset value;
+(e) The MF’s Management Company must be able to fully realise them at any time, without consultation with thecounterparty nor approval of the latter.
+Notwithstanding the condition speciﬁed in (d) above, the Fund may receive a basket of financial guarantees with anexposure to a single issuer corresponding to more than 20% of its net asset value provided that:
+0 such received ﬁnancial guarantees are issued by (i) a Member State, (ii) one or more of a Member State’s localauthorities, (iii) a country that is not a Member State (iv) a public international organization to which one or moreMember States belong; and
+' such financial guarantees consists of at least six different issues of which none exceeds 30% 0f the MF’s assets‘
+
+935854 5 Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+40.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+Security code Name of the security Security status Quantity Market value 033:; 27551::FR0000121261 MICHELIN (CGDE)-SA OWN SPECIFIC 31,895.00 3,382,464.75 EUR 0.26JP3898400001 MITSUBISHI CORPORATION OWN SPECIFIC 452,277.00 9,641,733.52 JPY 0.74JP3902900004 MITSUBISHI UFJ FlNANCIAL GROUP OWN SPECIFIC 3,369,412.00 20,926,863.05 JPY 1.60NL0010773842 NN GROUP NV OWN SPECIFIC 34,433.00 1,009,747.73 EUR 0.08SE000042736D NORDEA BANK AB DKK OWN SPECIFIC 399,065.00 4,407,896.90 DKK 0.341186698881090 NOVATEK OAO-SPONS GDR REG S OWN SPECIFIC 6.818.00 830,915.68 USD 0.06US6821891057 ON SEMICONDUCTOR OWN SPECIFIC 9,884.00 140,734.91 USD 0.01FR0000133308 ORANGE OWN SPECIFIC 152.612.00 2.177,010.18 EUR 017JP3180400008 OSAKA GAS CO LTD OWN SPECIFIC 1,536,187.00 5,597,458.20 JPY 0.43CH0021783391 PARGESA HOLDING OWN SPECIFIC 11,512.00 716,694.08 CHF 0.05CH0024608827 PARTNERS GROUP HOLDING N OWN SPECIFIC 3,412.00 1,684,918.48 CHF 0.13US70338P1003 PATTERN ENERGY OWN SPECIFIC 9,233.00 180,645.65 USD 0.01FR0000120693 PERNOD RICARD OWN SPECIFIC 77,384.00 8,349,733.60 EUR 0.64FR0000121501 PEUGEOT SA OWN SPECIFIC 88,501.00 1,589,477.96 EUR 0.12US69331C1080 PG&E CORP OWN SPECIFIC 9,259.00 581,628.32 USD 0.04057237871071 PIONEER NATURAL RES OWN SPECIFIC 23,720.00 4,151,334.84 USD 0.32DE000PAH0038 PORSCHE AUTOMOBIL HOLDING SE OWN SPECIFIC 450,890.00 23,513,913.50 EUR 1.80US7427181091 PROCTER AND GAMBLE CO OWN SPECIFIC 5,683.00 487,060.80 USD 0.04FR0000130577 PUBLICIS GROUPE OWN SPECIFIC 13,746.00 874,657.98 EUR 0.07US74834L1008 QUEST DIAGNOSTICS INC OWN SPECIFIC 27,089.00 2,484,050.59 USD 0.19N1.)0000379121 RANDSTAD HOLDING NV OWN SPECIFIC 18,567.00 1,019,513.97 EUR 0.08US7587501039 REGAL BELOIT CORP OWN SPECIFIC 18,270.00 1,280,069.17 USD 0.10FR0000131906 RENAULT SA PGARAN 18,112.00 1,516,155.52 EUR 0.12FR0000131906 RENAULT SA OWN SPECIFIC 205,860.00 17,232,540.60 EUR 1.32FR0010451203 REXEL PGARAN 18,673.00 285,043.35 EUR 0.02U867812M2070 ROSNEFT OIL COMPANY OWN SPECIFIC 183,847.00 981,001.78 USD 0.08DK0060634707 ROYAL UNIBREW SHS OWN SPECIFIC 128,121.00 4,712,631.28 DKK 0.36FR0000073Z72 SAFRAN PGARAN 73,262.00 4,920,275.92 EUR 0.38FR0000073272 SAFRAN OWN SPECIFIC 60,480.00 4,061,836.80 EUR 0.31FR0000120578 SANOFI OWN SPECIFIC 698,207.00 56,785,17531 EUR 4.35
+
+935854 41 Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+41.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+Security code
+CH0024638196FR0000121972FR001041 1983DE0007236101FR0000121220JP3436100006JP3435000009[188520711 1051FR0010613471JP3890350006JP3409000001US$688612048CH0014852781CH0008038389CH0126881561USS716071076US8766292051DK0060228559JP3538800008GBOOBDSFG982US88160R1014FR0000121329FR0000121329JP3104890003JP3571400005US$894781033FR0000120271FR0013176526US92220P1057
+FR0000124141
+Name of the security
+SCHINDLER HOLDING PSSCHNEIDER ELECTRIC SASCOR SE ACT PROVSIEMENS AG-NOMSODEXO
+SOFTBANK GROUP CORPSONY CORP
+SPRINT CORP W/l
+SUEZ SA ACT
+SUMITOMO MITSUI FINANCIAL GRP
+SUMITOMO REALTY & DEVELOPMENT
+SURGUTNEFTEGAZSP ADR
+SWISS LIFE HOLDING NOM
+SWISS PRIME SITE
+SWISS RE AG
+SYNOPSYS INC
+TATNEFT PJSC SHS AMERICAN
+DEPOSITORY RECElPT REPR 6 SHS ADR
+TDC
+TDK CORPORATION
+TECHNIPFMC PLC
+TESLA INC
+THALES SA
+THALES SA
+TIS INC
+TOKYO ELECTRON LTD
+TOLL BROTHERS INC
+TOTAL
+VALEO SA
+VARIAN MEDICAL SYSTEMS INC
+VEOLIA ENVLRONNEMENT
+Security status
+OWN SPECIFICOWN SPECIFICOWN SPECIFICOWN SPECIFICOWN SPECIFICOWN SPECIFICOWN SPECIFICOWN SPECIFICOWN SPECIFICOWN SPECIFICOWN SPECIFICOWN SPECIFICOWN SPECIFICOWN SPECIFICOWN SPECIFICOWN SPECIFICOWN SPECIFICOWN SPECIFICOWN SPECIFICOWN SPECIFICOWN SPECIFICPGARANOWN SPECIFICOWN SPECIFICOWN SPECIFICOWN SPECIFICOWN SPECIFICOWN SPECIFICOWN SPECIFIC
+OWN SPECIFIC
+Quantity9,072.00605,297.0077,292.00158,532.0038,896.00658,938.00657,380.0019,057.00300,000.00183,588.00269,011.00622,553.00142.0018,700.005,373.0014,339.00120,991.00829,363.00157,800.00131,796.002,253.0016,724.0017,988.00251 ,63400218,921.007,009.001,042,590.00283,974.0016,187.00
+608,320.00
+Market value
+1,655,577.13
+38,672,425.33
+2,634,884.28
+19,467,72960
+4,027,680.80
+46.346.083.79
+19,231,111.71
+158.001.29
+4,246,500.00
+6,758,948.90
+7,016,655.12
+2,952,820.55
+42,166.99
+1,532,340.37
+45 3,409.20
+964,029.89
+3,994,319.86
+4,213,289.23
+10,140,483.98
+4,012,529.22
+530,046.56
+1,555,332.00
+1,672,884.00
+5,769,703 .54
+20,641 ,980.42
+225,190.34
+49,053,85950
+16,473,331.74
+1,277 ,929.07
+9,398,544.00
+Listing
+currency
+Cl-H:EUREUREUREUR
+JPY
+JPYUSDEUR
+JPY
+JPYUSDCHFCHFCHFUSDUSDDKK
+JPYEURUSDEUREUR
+JPY
+JPYUSDEUREURUSD
+EUR
+% NetAssets
+0.13
+2.96
+0.20
+1.49
+0.31
+3.55
+1.47
+0.01
+0.33
+0.52
+0.54
+0.23
+0.00
+0.12
+0.03
+0.07
+0.31
+0.32
+0.78
+0.31
+0.04
+0.12
+0.13
+0.44
+1,58
+0.02
+3.76
+1.26
+0.10
+0.72
+
+935854
+42
+Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+42.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+Security code Name of lhe security Seuu'ity status Quantity Market value c3182? $2:US92343V1044 VERIZON COMMUNICATIONS INC OWN SPECIFIC 22,606.00 1,055,840.18 USD 0.08DK0010268606 VESTAS WIND SYSTEMS A/S OWN SPECIFIC 8,384.00 587,106.16 DKK 0.04FR0000125486 VINCI SA OWN SPECIFIC 433,865.00 29,507,158.65 EUR 2.26DE0007664039 VOLKSWAGEN AG—PFD OWN SPECIFIC 341,985.00 47,775,304.50 EUR 3.66SE00001 15446 VOLVO AB-B SHS OWN SPECIFIC 40,363.00 497,262.04 SEK 0.04DE000A1ML7.11 VONOVIA SE NAMEN AKT OWN SPECIFIC 371,169.00 12,207,748.41 EUR 0.93Nm000395903 WOLTERS KLUWER CVA OWN SPECIFIC 89,253.00 3,450,967.25 EUR 0.26089841211033 XEROX CORPORATION OWN SPECIFIC 47,321.00 331,327.16 USD 0.03US9843321061 YAHOO INC OWN SPECIFIC 125,557.00 5,395,193.51 USD 0.41FR0000125684 ZODIAC AEROSPACE PGARAN 108,883.00 3,018,781.18 EUR 0.23U588554D2053 3—D SYSTEMS OWN SPECIFIC 7,591.00 108,585.73 USD 0.01Total Equity 1,312,606,889.50 100.48Tara! Investment Securities 1,312,606,88950 100.48Interest rate swapSWAP03547788 FEES LEG C EUR LYX E OWN SPECIFIC 1.00 697,215.18 EUR 0.05SWAP03547711 FEES LEG C USD LYX E OWN SPECIFIC 1.00 122,782.95 EUR 0.01SWAP03547777 INDEX LEG C EUR LYX OWN SPECIFIC 659,771.862.87 l,l 13.780.333.02 EUR 85.26SWAP03547749 INDEX LEG C USD LYX OWN SPECIFIC 120,349,024.80 192,520,04886 EUR 14.74SWAP03547723 VRAC LEG LYX ETF MSC OWN SPECIFIC 768,1 14,199.69 71.278.861.01282 EUR 797.90Total Interest rate swap 28,259,367.19 2.16CashA T BANK 0R PENDING
+PAYABLE ON SWAP OWN SPECIFIC 0.00 —l,l34,735.80 EUR -0.09
+EUR SGP BANK OWN SPECWIC 000 0.42 EUR 0.00
+USD SGP BANK OWN SPECIFIC 0.00 0.72 USD 0.00
+DEF. SALES EUR SECURITIES OWN SPECIFIC 0.00 1,134,735.80 EUR 0.09Tutu] AT BANK 0R PENDING 0.30 0.00MANAGEMENT FEES
+PRCOMGESTADM OWN SPECIFIC 0.00 -819,997.84 EUR -0.06Total MANAGEMENT FEES -819,997.84 -0.06Total Cash -819,997.54 -0.06
+
+935854 43 Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+43.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+Files
+
+ADI REME: Deposit of Collateral (File)
+PDC-01664488 PDC LYXOFR0000051732 PGARI -3,263,159.00 -3,263,159.00 EUR -0.25PDC-01664505 PDC LYXOFR0000073272 PGARl 4,920,275.92 4,920,275.92 EUR -0.38PDC-01664499 PDC LYXOFR0000121014 PGAR] -2,752,329.60 -2,752,329.60 EUR -0.21PDC-01664507 PDC LYXOFR0000121329 PGARl -1,555,332.00 -1,555,332.00 EUR -0.12PDC-01664509 PDC LYXOFR0000125684 PGARI -3,0 18,78 1 . 18 -3,018,781.18 EUR -0.23PDC-01664491 PDC LYXOFR0000130403 PGARl -1,252,973.20 -1,252,973.20 EUR -0.10PDC-01664489 PDC LYXOFR0000131104 PGAR] 6,017,987.73 -5,017,987.73 EUR -0.38PDC-01664501 PDC LYXOFR0000131906 PGARl -1 ,5 16,155.52 -1 ,5 16,155.52 EUR -0.12PDC-01664497 PDC LYXOFR0004035913 PGARI 485,286.60 485,286.60 EUR -0.01PDC-01664495 PDC LYXOFR0010208488 PGARl -3,722,457.80 -3,722,457.80 EUR -0.28PDC-01664493 PDC LYXOFR0010242511 PGARI -4,931,998.25 4,931,998.25 EUR -0.38PDC-01664486 PDC LYXOFR0010313833 PGARl 4,324,096.50 4,324,096.50 EUR -0.10PDC-01664503 PDC LYXOFR0010451203 PGARI -285,043.35 -285,043.35 EUR -0.02Tom! ADI REME: Deposit of Collateral (File) -33, 745,876. 65 -2.58Total Files -33,745,876.65 -2.58
+
+935854 44 Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+44.hocr: 
+LYXOR MSCI INDIA UCITS ETFFiscal year closing on 28/02/2017
+
+APPENDIX TO THE REPORTintended for Swiss subscribers
+This appendix makes the annual report with the FINMA requirements for the marketing in Switzerland. It has not beencertiﬁed by the accountants.
+Country of origin of the FundFrance.
+Representative of the Swiss FundSociété Générale, Paris, Zurich Branch, has been authorised by the FINMA as the Fund’s representative in Switzerland
+while also assuming the payment service. The prospectus, articles of association, annual and semiannual reports of theFund, the KIIDs as well as the list of purchases and sales made by the Fund during the fiscal year can be obtained onrequest and at no cost from the representative’s head office in Switzerland, Société Generale Paris, Zurich Branch,Talacker 50, PO, Box 5070, 8021 Zurich.
+Calculation of the Total Expense Ratio (in compliance with the recommendations of the Swiss Funds & AssetManagement Association SFAMA)
+Annual closing of the collective investment: 28-Feb,
+UCITS management commission: 0,85 % tax included
+
+Average assets of the fund for the period
+from 01/03/16 to 28/02/17: 1’145’124‘664'47
+
+
+
+Excerpt from the income statement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Expenses in thousands of euros Annual report Half—yearly report Annual report29/02/2016 31/08/2016 28/02/2017
+Fund management commission 12,182,41973 4,810,025.29 9,734,747.87Performanee fee to be paid tg the manager of 0'00 0'00 000collectlve Investments ofcapttalCustodian bank fee 0.00 0.00 0.00Other expenses 0,00 0,00 0,00Taxes 0,00 0,00 000Total operating expenses 12,182,41973 4,810,025.29 9,734,747.87Calculation of the TER for 12 months, from 01/03/16 to 28/02/17:TER, including performance fee
+9,734,747.87/ 1,145,124,664 .47
+0.85 %
+Performance fee as a share in percentage of the net average assets:
+
+
+
+0.00
+
+
+
+45
+
+===================================================
+45.hocr: 
+LYXOR MSCI INDIA UCITS ETFFiscal year closing on 28/02/2017
+
+Performance of the fund
+The details of the performances of the Fund’s units calculated in compliance with the principles of the Swiss FundAssociation are given below:
+Annual Annual Annualperformance performance performancefrom 29/02/2016 from 27/02/2015 from 28/02/2014to 28/02/2017 to 29/02/2016 to 27/02/2015
+LYXOR MSCI INDIA UCITS ETF
+Unit C-EUR +27.20% -25.42% +66.51%Unit C-USD +24.40% -27.76% +35.22%MSCI India Net Total Return (USD)
+Unit C-EUR +26.33% 26.38% +36.88%Unit C-USD +26.33% 26.38% +36.88%
+Past performances are no indicator of future performances. The performances indicated herein do not take into accountthe subscription and redemption commissions and costs of Fund units,
+
+46
+===================================================
+5.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+In compliance with the aforesaid conditions, the guarantees received by the MF can include:(i) Liquid assets or equivalents, notably including short-term bank assets and money market instruments;
+(ii) Bonds issued or guaranteed by an OECD Member State, by its local public authorities or by institutions andsupranational bodies of a Community, regional or worldwide nature, or by any other country, provided that conditions(a) to (e) (above) have been fully met;
+(iii) Equities or units issued by money market funds that calculate a daily net asset value and that have a rating of AAAor equivalent;
+(iv) Equities or units issued by UCITS investing primarily in bonds/equities as indicated in points (V) and (Vi) below;(V) Bonds issued or guaranteed by ﬁrst-class issuers, offering suitable liquidity;
+(Vi) Equities admitted to trading or traded on a regulated market of an EU Member State, on a stock market of an OECDMember State or on a stock market of another country provided that conditions (a) to (e) (above) have been fully metand that these equities are included within a firstvclass index‘
+Policy related to discounts:
+The MF’s management company will apply a margin to the financial guarantees received by the MF. The appliedmargins will notably depend on the following criteria:
+- Nature of the asset received as guarantee;- Maturity of the asset received as guarantee (if applicable);- Rating of the issuer of the asset received as guarantee (if applicable).
+Reinvestment of received guarantees
+Financial guarantees received in a non—cash form shall not be sold, reinvested or pledged, Guarantees received in cashshall, at the discretion of the manager, be either:
+(i) deposited with an enabled institution;
+(ii) invested in high-quality State bonds;
+(iii) used for reverse repurchase transactions, on the condition that such transactions are performed with creditinstitutions which are subject to prudential regulation and on the condition that the UCITS may at any time withdrawthe total amount of the liquidity, taking into account accrued interest;
+(iv) invested in short-term money mutual funds, as they are deﬁned in the guidelines for a common definition ofEuropean money mutual funds.
+Reinvested cash financial guarantees must be diversified, in compliance with the applicable requirements for non-cashﬁnancial guarantees.
+Risk proﬁle:
+The bearer’s money will primarily be invested in financial instruments selected by the management company. Theseinstruments will be subject to the vagaries of the markets.
+Through the MF, the bearer is primarily exposed to the following risks:
+- Eguity risk
+An equity price can vary upward or downward, and it notably reﬂects the changing risks related to the issuing company01' the economic situation of the corresponding market. The equity markets are more volatile than the rate markets, inwhich it is possible, over a given period and with equal macroeconomic conditions, to estimate the incomes,
+- Capital loss risk
+The invested capital is not guaranteed. The investor consequently runs the risk of capital loss. The entire or part of theinvested amount may not be recovered, notably should the performance of the Benchmark Indicator be negative overthe investment period.
+- Risk related to low diversiﬁcation of the Benchmark Indicator
+The Benchmark Indicator to which the investors are exposed covers a given region, area or strategy and therefore doesnot necessarily allow for as broad a diversiﬁcation of the assets as would be the ease of an index that is exposed toseveral regions, sectors or strategies. The exposure to an index with such low diversiﬁcation can result in greatervolatility than in more diversiﬁed markets. Nevertheless, the diversiﬁcation rules resulting from the UCITS standardsalways apply to the MF’s underlyings.
+- Liquidity risk {primary market!
+Should the MF (or one of its counterparties for future financial instrument (“FFI”)) adjust its exposure and the marketsrelated to this exposure are then limited, closed or subject to significant purchase / sale price discrepancies, the valueand/or liquidity of the MF could be negatively affected
+
+935854 6 Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+6.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+Should low volumes of exchanges result in an inability to can)! out transactions linked to the replication of theBenchmark Indicator, this can also have consequences on the processes related to the subscription, conversion orredemption of units.
+- Liquidity risk on a place of listing
+The MF’s share price can deviate from its indicative net asset value The liquidity ofthe MF’s units on a place oflistingcan be affected by any suspension that could notably be due to:
+i) Suspension or stoppage of the calculation of the Benchmark Indicator, and/or
+ii) Suspension of the market(s) 0f the underlyings used by the Benchmark Indicator, and/or
+iii) The impossibility for a given place of listing to obtain or calculate the MF’s indicative net asset value, and/oriv) A market maker’s Violation of the rules applicable to this marketplace, and/or
+V) A failure of this marketplace's IT or electronic systems.
+mm
+The MF is exposed to the risk of bankruptcy, payment default or any other type of default of every counterparty withwhich it has entered into a contract or transaction. It is particularly exposed to the counterparty risk resulting from itsuse of FFI traded over-the-counter with Societe Générale or with any other counterparty. In compliance with the UCITSregulations, the counterparty risk (whether this counterparty is the Societe Generale or any other entity) cannot exceed10% of the total value of the MF‘s assets per counterparty.
+In case of a Counterparty’s default, the contract relating to FFIs can be terminated early. The MF will then make everyeffort to achieve its management objective by signing, if relevant, another contract relating to FFIs with a third partycounterparty, under the market conditions prevailing at the time of the occurrence of this event.
+The realisation of this risk can notably have impacts on the MF’s ability to achieve its management objective, inparticular the replication of the Benchmark Indicator.
+When Société Générale is involved as a counterparty 0f the FFIs, conﬂicts of interest can arise between the MF’sManagement Company and the FFI‘s counterparty. The Management Company manages these conﬂict of interest risksby setting up procedures intended to identify and limit them, and to ensure their equitable resolution, if relevant.
+W
+The MF’s exposure to emerging markets results in a greater risk of loss that would exist in the event of investmentscarried out within traditional developed markets‘ In particular, the operating and supervision rules in an emergingmarket may differ from the standards applicable to developed markets. The exposure to emerging markets notablyresults in: increased volatility of the markets, lower transaction volumes, the risk of economic and/or politicalinstability, an unstable or uncertain ﬁscal and/or regulatory regime, risks of closing of the markets, of governmentrestrictions on foreign investments, and interruption or restriction of the convertibility 0r transferability of any of thecurrencies comprising the Benchmark Indicator.
+- Risk that the management objective may only be partially achieved
+Nothing guarantees that the management objective will be achieved. Indeed, n0 asset or financial instrument will allowan automatic and continuous replication of the Benchmark Indicator, notably should one or more of the following risksarise:
+- Ris related to the use of derivative instruments
+
+In order to achieve its investment objective, the MF uses FFI traded over-the-counter, that can notably take the form ofswap contracts that will allow it to obtain the performance of the Benchmark Indicator, These FFIs can result in a seriesof risks on the level of the FFIs that notably include: counterparty risk, event affecting the hedging, event affecting theBenc mark Indicator, risk related to the tax regime, risk related to the regulations, operational risk and liquidity risk,These risks can directly affect a FFI and can result in the adjustment or early termination of the FFI transaction, whichcoulc affect the MF'S net asset value.
+- Ris related to a change of the tax regime
+Any change to the tax legislation in any of the countries in which the MF is established, authorised for marketing orlisted can affect the tax treatment of the investors. In this case, the MF’S manager assumes no liability relative toinvestors with regard to the payments having to be made to any competent tax authority.
+- Ris related to a change of the tax regime affecting the underlying
+
+Any change of the tax legislation applicable to the MF’s underlyings can affect the MF‘s tax treatment. Consequently,in case of divergence between the anticipated tax treatment and the one actually applied to the MF (and/or to itscounterparty in the FFI), the MF’s net asset value may be affected.
+- Ris related to regulations
+In case of change of the regulations in any country in which the MP is established, authorised for marketing or listed,the processes for the subscription, conversion and redemption of the units may be affected
+
+
+935854 7 Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+7.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+- Risk related to the regulations agplicable t0 the underlyings
+
+In case of change of the regulations applicable to the MF’s underlyings, the MF’s net asset value can be affected, as canthe processes for the subscription, conversion and redemption of the units.
+- Risk related to events affecting the Benchmark Indicator
+
+In case of events affecting the Benchmark Indicator, the manager may, under the conditions and limits of the applicablelegislation, have to suspend the subscription and redemption of MF units. The calculation of the MF’s net asset valuecan also be affected.
+If the event persists, the MF's manager will decide on measures having to be adopted, which can have an impact on theMF’s net asset value.
+“Events affecting the Benchmark Indicator” are understood to mean the following situations:i) The Benchmark Indicator is considered to be incorrect or not reﬂective of the market’s actual evolution,ii) The Benchmark Indicator is definitively discontinued by the supplier of the index,
+iii) The supplier of the Benchmark Indicator is incapable of providing the level or value of the said BenchmarkIndicator,
+iv) The supplier of the index makes a signiﬁcant change to the formula or calculation method of the BenchmarkIndicator (other than a minor modiﬁcation such as the adjustment of the underlyings used with this BenchmarkIndicator or of the respective weightings between its various components), that cannot be effectively replicated by theMF at a reasonable cost,
+v) One or more components of the Benchmark Indicator becomes non-liquid, with the listing being suspended on anorganised market, or components traded over-the-counter (such as bonds, for example) become non-liquid.
+- Securities transaction risk
+Should the issuer of a security underlying the Benchmark Indicator undertake an unanticipated review of a securitiestransaction (“ST”), that contradicts a prior and ofﬁcial announcement that had resulted in a valuation of the ST by theMF (and/or in a valuation of the ST by the MF’s counterparty in a future ﬁnancial instrument), the MF’s net asset valuemay be affected, notably should the actual treatment of the ST by the MF differ from the ST’s treatment in themethodology used by the Benchmark Indicator.
+— Exchange risk linked to the class of units C- (EUR/USD)
+The abovementioned class of units is exposed to an exchange risk to the extent that it is listed in a currency other thanthat of the Benchmark Indicators The net asset value of the abovementioned class of units can therefore decrease due toﬂuctuating exchange rates even though the value of the Benchmark Indicator has increased,
+— Exchange risk linked to the Benchmark Indicator
+
+The MF is exposed to the exchange risk insofar as the underlying securities making up the Benchmark Indicator may belisted in a currency other than the currency of the Benchmark Indicator or be derived from securities listed in a currencyother than the currency of the Benchmark Indicator, The ﬂuctuations of exchange rates could therefore negatively affectthe Benchmark Indicator followed by the MF.
+- Legal risk
+The mutual fund may bear a legal risk related to the conclusion of any Total Return Swap contract (TRS) as laid downin Regulation (EU) 2015/2365.
+Subscribers concerned and typical investor proﬁle:The MF is “open to any subscriber”.An investor subscribing to this MF wishes to obtain an exposure to the Indian equities market.
+The amount that it is reasonable to invest in this MF depends on your personal situation. To determine this amount, youmust take into account your personal wealth and/or estate, cash requirements at the present and for five years, but alsoyour desire to take risks or, on the contrary, to prefer a cautious investment. It is also highly recommended tosufﬁciently diversify one’s investments so as to avoid an exposure only to this MF’s risks.
+Investors are therefore recommended to study their individual situations with their usual estate management advisers,The minimum recommended investment term is greater than 5 years.
+Indications on the tax treatment:
+Investors should take note that the following information constitutes only a general summary of the tax regimeapplicable to an investment in a French MF, under the current French tax legislation, Investors are therefore requestedto study their personal situations with their usual tax advisers,
+France:The MF can serve as the support for a life insurance contract listed in units of account.
+
+935854 8 Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+8.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+1. On the level of the MF
+In France, the co-ownership status of MFs means that they are automatically exempt from corporate tax; by nature, theytherefore benefit from a certain degree of transparency. As such, the incomes collected and generated by the MFthrough its management are not taxable at the level of the MF itself.
+Abroad (in countries in which the MF is invested), capital gains on the sale of foreign transferable securities and foreignincome received by the MF as part of its management may, if relevant, be subject to tax (generally in the form of awithholding tax). In certain limited cases, the foreign taxation can be reduced or cancelled in the presence of taxagreements that may be applicable.
+2. On the level of the bearers 0f MF units
+211 Bearers residing in France
+The sums distributed by the MF to French residents as well as the capital gains or losses on transferable securities aresubject to the applicable taxation, Investors are invited to study their personal situations with their usual tax advisers.
+212 Bearers not residing in France
+Subject to any applicable tax agreements, the amounts distributed by the MF may, in certain circumstances, be subjectto a levy or withholding tax in France.
+Moreover, the capital gains realised 0n the purchase/sale 0f the MF's units are generally tax exempt. Bearers residingoutside of France will be subject to the provisions of the tax legislation applicable in their country of residence,
+Information on 0in ator and automatic exchan e of tax information
+The management company is liable to collect and transmit information on subscribers to shares in the mutual fund tothe competent tax authorities, for the sole purpose of compliance with article 1649 AC of the General Tax Code andCouncil Directive 2014/107/EU of 9 December 2014, amending Directive 2011/16/EU concerning automatic andobligatory exchange of tax information.
+In this regard, subscribers have the right to access, rectify and delete information held concerning them bycommunicating with the ﬁnancial institution in compliance with the IT and liberties [Data Processing] Act of 06J anuary 1978, but are also obliged to provide the necessary information for declarations, at the request of the ﬁnancialinstitution.
+Information relative to the “FATCA” law
+France and the United States have signed a Model I intergovernmental agreement (“IGA”) for the implementation inFrance 0f the American law known as the “FATCA” law that targets tax evasion amongst American taxpayers holdingﬁnancial assets abroad. The expression “American taxpayers refers to a natural person who is an American citizen orresident, a partnership or company created in the United States or by virtue of American federal law or of the laws ofone of the American States, or a trust if (i) a court located in the United States has, pursuant to the law, the power toissue orders or decisions substantially relating to all questions relative to the trust’s administration and if (ii) one ormore American taxpayers has a right of control over all of the trust’s substantial decisions, or over the estate of adeceased person who was a citizen or resident of the United States.
+The MF has been registered as a “reporting ﬁnancial institution with the American tax authorities. As such, the MF isrequired to provide the French tax authorities, for 2014 and subsequent years, with information regarding certainholdings or sums paid to certain American taxpayers or to non-American ﬁnancial institutions considered asnon-participants in the FATCA that will be the subject of an automatic information exchange between the French andAmerican tax authorities. Investors will be required to certify their FATCA status to their financial intermediary or tothe management company, as relevant.
+As a result of the MF’s application of its obligations under the IGA as implemented in France, the MF will beconsidered as complying with the FATCA and should be exempt from the withholding tax established by the FATCAon certain revenues or proceeds from American sources.
+For investors whose units are held through an account holder located in a jurisdiction that has not signed an IGA, it isrecommended that they should consult this account holder in order to be informed of its intentions with regard to theFATCA. Moreover, certain account holders may be required to collect additional information from investors in order tocomply with their obligations under the FATCA or of the country in which the account is held. Also, the scope of theobligations under the FATCA or an IGA can vary according to the account holder’s jurisdiction. Investors shouldtherefore check with their usual tax advisers.
+For more details, the complete prospectus can be obtained by requesting it from the management company.
+0 The net asset value is availablefrom the head office ofLYXOR INTERNATIONAL ASSET MANAGEMENT. The CIU complete
+prospectus and the latest annual and periodic ducuments are sent within one week of the bearer's written request, submitted toLYXOR INTERNATIONAL ASSET MANAGEMENT, 17, cours Vulmy - 92800 Puleuux - F rance' Approval date bytheAMF(Frenc/1 Financial Markets Authority): 1 September 2006.
+0 Fund creation date: 25 October 2006.
+
+935854 9 Annual report — Fiscal year ending on: 28.02.2017
+===================================================
+9.hocr: 
+LYXOR MSCI INDIA UCITS ETF
+
+Activityreport
+The net asset value of the unit C-EUR 0f the LYXOR MSCI INDIA UCITS ETF MF shows an evolution of 27.20%?over the fiscal year and was equal to EUR 151718 on 28/02/2017, resulting in the fund’s performance being equal to68.95% since inception.
+The net asset value of the unit C-USD 0f the LYXOR MSCI INDIA UCITS ETF MF shows an evolution of 24.40%*over the ﬁscal year and was equal to USD 161221 on 28/02/2017, resulting in the fund’s performance being equal to33.90% since inception.
+The fund replicates the performance of the MSCI Emerging Markets India Ne index, listed in US dollars (USD),representative of the performance of market of large and midvcaps, listed in India,
+This index has shown an evolution of 26.33% over the fiscal year, As the C~EUR class is not valued in the indexcurrency, the evolution of its net asset value is subject to an exchange risk. Over the fiscal year, the EUR has fallen by220% against the USD.
+This gap between the annual performance of the UCITS and that of its Benchmark Index can be explained by the resultof the various parameters listed below:
+- The operating and management fees as well as the external management fees of the management company,- The costs for accessing the local markets of the securities of the replicated indexing,- The costs or gains related to the instruments used as part of the replication of the indexing.
+In pursuit of the greatest possible correlation with the performance of the MSCI Emerging Markets India Ne index, theMF will reach its management objective using the indirect replication method which means that it will enter into one ormore OTC swap contracts enabling it to reach its investment objective. The objective of these swap contracts will be toexchange (1) the value of the MF‘s assets, which will consist of balance sheet assets (excluding any securities receivedas guarantees), for (11) the value of the securities that underlie the MSCI Emerging Markets India Ne index.
+The equities in the MF’s assets will notably be securities making up the MSCI Emerging Markets India Ne index, aswell as other European equities, from all economic sectors, listed on all markets, including the small caps markets.
+The fund’s risk and yield profile has been classed as category 6 given its exposure to the Benchmark Index.
+On 28/02/2017, the tracking error reached the level of 0,0437% for the MF. The level of the target tracking error for theperiod was 0f0,1%.
+The discrepancy between the target tracking error and the actual tracking error was not signiﬁcant which shows acompliance with the TB objective set at the beginning of the year.
+The counterparty for the Index-Linked Swaps obtained by the fund is: Société Generale.
+* Theﬁgures referring to past performance relate to past periods and are not a reliable indicator offuture results.
+Regulatory informationTransfer commission (nut audited by the auditor)
+None.
+Provisions for providing the investors with the various documents and reports relative to the managementcompany’s voting policy and its implementation.
+The “voting policy” document, the report from the management company on the conditions whereby it exercised thevoting rights of the CIU that it manages and the information relative to the vote on each resolution can, pursuant toarticle 322—75, 322—76 and 322-77 of the Financial Markets Authority General Regulations, be consulted either on themanagement company’s website or at its head office (upon request),
+Overall risk of the CIU
+The management company's method for measuring the overall risk of the CIU: the method chosen is the commitmentmethod.
+ESG criteria
+According to Implementation Decree no, 2015-1850 of 29 December 2015 enacted in application of Article L,533-22-lof the [French] Monetary and Financial Code and of Article 173 of Law n0. 2015-992 0f 17 August 2015 concerningthe energy transition for an environmentally sustainable growth, paragraph VI.
+
+935854 10 Annual report — Fiscal year ending on: 28.02.2017
+===================================================

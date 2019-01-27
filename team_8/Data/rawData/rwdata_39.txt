@@ -1,0 +1,36 @@
+Page: 0
+Entity Name: LYXOR MSCI WORLD UCITS ETF 
+Page: 15
+Entity Name: LYXOR MSCI WORLD UCITS ETF 
+Audit Period: Fiscal year closing on 31 March 2017 
+Entity Name: LYXOR MSCI WORLD UCITS ETF 
+Audit Period: report relative to the ﬁscal year closing on 31 March 2017 concerning: 
+Entity Name: — the veriﬁcation of the annual accounts of UCITS incorporated in the form of a mutual fund LYXOR MSCI WORLD 
+Entity Name: UCITS ETF, as they are attached to this repon; 
+Auditor Opinion: We certify that, in accordance with French accounting rules and principles, the annual ﬁnancial statements are truthful and in order, and present a fair picture of the operating proﬁts and losses for the past ﬁscal year, as well as the UCITS created in the form of a mutual fund at the end of said ﬁscal yeat: 
+Audit Period:  935829 16 Annual report - Fiscal year ending on: 31.03.2017 
+Page: 16
+Entity Name: LYXOR MSCI WORLD UCITS ETF 
+Entity Name: LYXOR MSCI WORLD UCITS ETF 
+Name of auditor: PricewaterhouseCoopers Audit 
+Audit Period: 935829 17 Annual report - Fiscal year ending on: 31.03.2017 
+Page: 19
+Entity Name: LYXOR MSCI WORLD UCITS ETF 
+Year: 31.03.2017 31.03.2016  
+Year: 31.03.2017 31.03.2016  
+Currency: Currency  
+Currency: Currency  
+Total Equity: Total shareholders’ equity 
+Total Equity: Total shareholders’ equity 
+Page: 21
+Entity Name: LYXOR MSCI WORLD UCITS ETF 
+Year: 31.03.2017 31.03.2016  
+Year: 31.03.2017 31.03.2016  
+Currency: Currency  
+Currency: Currency  
+Total Income: Total (I)  
+Total Income: Total (I)  
+Net Profit: Net proﬁt and loss of the ﬁscal year (L.214-17-l) (I - II + III - IV) 
+Net Profit: Net proﬁt and loss of the ﬁscal year (L.214-17-l) (I - II + III - IV) 
+
+

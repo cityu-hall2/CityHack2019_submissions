@@ -1,0 +1,1392 @@
+0.hocr: 
+LYXOR COMMODITIESTHOMSONREUTERS/CORECOMMODITY CRB TRUCITS ETF
+U]3CF2iI:H.tOI:Gu]Dn.0II.II—2I.I.lEIIIgD.|.I.lD22|EEOU20LI.
+FISCAL YEAR ENDING ON: 31.01.2017
+
+===================================================
+1.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+Contents
+
+
+Information on the in vestments and management ............................ 3Activity report ..................................................................................... 12Auditor’s report .................................................................................. 17Annual accounts ................................................................................ 19Balance sheet ................... 20Assets ......................................................................................... 20Liabilities ..................................................................................... 21Off—ba/ance sheet ............................................................................. 22Profit and loss account ..................................................................... 23Appendix .......................... 24Accounting rules and methods .................................................... 24Evolution of the net assets .......................................................... 27Information supplements ............................................................. 28Inventory ............................................................................................. 41
+
+935826
+2 Annual Iepon‘ — Fiscal year ending on: 31.01.2017
+===================================================
+10.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+Abroad (in countries in which the MF is invested), capital gains on the sale of foreign transferable securities and foreignincome received by the MF as part of its management may, if relevant, be subject to tax (generally in the form of awithholding tax). In certain limited cases, the foreign taxation can be reduced or cancelled in the presence of taxagreements that may be applicable.
+2. On the level of the bearers of MF units
+2.1 Bearers residing in FranceThe amounts distributed by the MF to French residents as well as the capital gains or losses on transferable securitiesare subject to the applicable taxation. Investors are invited to study their personal situations with their usual tax adviser.
+2.2 Bearers not residing in FranceSubject to any applicable tax agreements, the amounts available for distribution by the MF may, in certain
+circumstances, be subject to a levy or withholding tax in France. Moreover, the capital gains realised 0n the purchase /sale of the MF’s units are generally tax exempt.
+Bearers residing outside of France will be subject to the provisions of the tax legislation applicable in their country ofresidence.
+W
+The management company is liable to collect and transmit information on subscribers to shares in the mutual fund tothe competent tax authorities, for the sole purpose of compliance with article 1649 AC of the General Tax Code andCouncil Directive 2014/107/EU 0f 9 December 2014, amending Directive 2011/16/EU concerning automatic andobligatory exchange of tax information.
+In this regard, subscribers have the right to access, rectify and delete information held concerning them bycommunicating with the ﬁnancial institution in compliance with the IT and liberties [Data Processing] Act of 06January 1978, but are also obliged to provide the necessary information for declarations, at the request of the ﬁnancialinstitution.
+Information relative to the “FATCA” law
+France and the United States have signed a Model I intergovernmental agreement (“IGA”) for the implementation inFrance 0f the American law known as the “FATCA law that targets tax evasion amongst American taxpayers holdingﬁnancial assets abroad. The expression “American taxpayers” refers to a natural person who is an American citizen orresident, a partnership or company created in the United States or by virtue of American federal law 0r 0f the laws ofone of the American States, or a trust if (i) a court located in the United States has, pursuant to the law, the power toissue orders or decisions substantially relating to all questions relative to the trust’s administration and if (ii) one ormore American taxpayers has a right of control over all of the trust’s substantial decisions, or over the estate of adeceased person who was a citizen or resident of the United States.
+The MF has been registered as a “reporting ﬁnancial institution” with the American tax authorities. As such, the MF isrequired to provide the French tax authorities, for 2014 and subsequent years, with information regarding certainholdings or sums paid to certain American taxpayers or to non-American ﬁnancial institutions considered asnon-participants in the FATCA that will be the subject of an automatic information exchange between the French andAmerican tax authorities. Investors will be required to certify their FATCA status to their financial intermediary or tothe management company, as relevant.
+As a result of the MF’s application of its obligations under the IGA as implemented in France, the MF will beconsidered as complying with the FATCA and should be exempt from the withholding tax established by the FATCAon certain revenues or proceeds from American sources.
+For investors whose units are held through an account holder located in ajurisdiction that has not signed an IGA, it isrecommended that they should consult this account holder in order to be informed of its intentions with regard to theFATCA. Moreover, certain account holders may be required to collect additional information from investors in order tocomply with their obligations under the FATCA or of the country in which the account is held. Also, the scope of theobligations under the FATCA or an IGA can vary according to the account holder’s jurisdiction. Investors shouldtherefore check with their usual tax advisers.
+For more details, the complete prospectus can be obtained by requesting it from the management company.
+I The net asset value is available from the head ofﬁce ofLyxor International Asset Management. The CIU‘s completeprospectus and the latest annual and periodic documents are sent within one week of the bearer’s written request,submitted to Lyxor International Asset Management, 17, cours Valmy - 92800 Puteaux - F rance.
+0 Approval date by the AMF (Financial Markets Authority): 10 January 2006.0 Funds creation date: 26 January 2006.
+
+935826 1 1 Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+11.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+Activityreport
+T e net asset value of the unit C-EUR 0f the Lyxor Commodities Thomson Reuters/CoreCommodity CRB TR UCITSETF MF shows an evolution of 14.83% over the fiscal year and stands at EUR 16.3554 on 31/01/2017, meaning a fundperformance of 34.58% since inception.T1e net asset value of the unit C-USD 0f the Lyxor Commodities Thomson Reuters/CoreCommodin CRB TR UCITSETF MF shows an evolution of 14.69% over the fiscal year and stands at USD 17.6753 011 31/01/2017, meaning a fundperformance of 45.36% since inception.
+T1e net asset value of the unit USD 0f the Lyxor Commodities Thomson Reuters/CoreCommodity CRB TR UCITSETF MF shows an evolution of [4.68% over the ﬁscal year and stands at USD 1.7675 on 31/01/2017, meaning a fundperformance of -35.26% since inception.
+T1e fund replicates the performance of the RJ/CRB TOTAL RETURN INDX index, listed in US dollar (USD),representative of the gross total yield of an investment in a diversified basket of futures commodities contracts, asenergy, metals and agricultural products (softs).
+Ttis index has an evolution of 15.57% over the fiscal year. As the USD, C-EUR, D-EUR, C-EUR class has not anincrease value in the index currency, the evolution of the net asset value is subject to the exchange risk. Over the year,the USD increased by 0.13% compared to the EUR, the EUR decreased by 0.12% compared to the USD.
+T‘tis gap between the annual performance of the UCITS and that of its Benchmark Index can be explained by the resultof the various parameters listed below:
+
+— The operating and management fees as well as the management fees external of the management company,— The costs for accessing the local markets of the securities of the replicated indexing,- The costs or gains related to the instruments used as part of the replication of the indexing.
+In pursuit of the greatest possible correlation with the performance of the RJ/CRB TOTAL RETURN INDX index, theMF will employ an indirect replication method, which means that it will enter into one or more OTC swap contractsenabling it to achieve its investment objective. These swap contracts will serve to exchange (i) the value of the MF’s
+assets, which will consist of cash and/or balance sheet assets (excluding any securities received as collateral), for (ii) thevalue of the securities that underlie the RJ/CRB TOTAL RETURN INDX index.
+The equities in the MF’s assets will notably be equities that make up the RJ/CRB TOTAL RETURN INDX index, aswell as other international equities, from all economic sectors, listed on all markets, including the small capitalisationmarkets,
+The fund’s risk and yield proﬁle has been classed as categow 5 given its exposure to the Benchmark Index,
+On 31/01/2017, the tracking error reached the level of 0.0224% for the MF. The level of the target tracking error for theperiod was of 0.08%.
+The discrepancy between the target tracking error and the actual tracking error was not significant which shows acompliance with the TE objective set at the beginning of the fiscal year.
+The counterparty for the Index Linked Swap obtained by the fund is: Société Générale,
+The ﬁgures referring to past performance relate to past periods and are not a reliable indicator affuture results“.
+Regulatory information
+Transfer commission (not audited by the auditor)
+None.
+Provisions for providing the investors with the various documents and reports relative to the managementcompany’s voting policy and its implementation.
+The “voting policy document, the report from the management company on the conditions whereby it exercised thevoting rights of the CIU that it manages and the information relative to the vote on each resolution can, pursuant toarticle 322-75, 322-76 and 322-77 of the Financial Markets Authority General Regulations, be consulted either on themanagement company’s website or at its head ofﬁce (upon request).
+Overall risk of the CIU
+The management company’s method for measuring the overall risk of the CIU: the method chosen is the commitmentmethod.
+
+935826 12 Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+12.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+ESG criteria
+In accordance with Articles Li533-22-l and D. 533-16-1 of the [French] Monetary and Financial Code, subscribers areinformed of the fact that the CIU does not simultaneously take into account the social, environmental and governancequality criteria in its investment policy.
+Information on the compensation policy:
+The management company has established a compensation policy in compliance with the regulations in force. Thispolicy complies with the economic strategy, the objectives, and the values and interests of the management companyand the Funds which it manages, as well as those of the investors in these Funds, and includes measures designed toavoid conﬂicts ofinteresti
+The compensation policy of the management company implements a balanced system whereby the compensation of theemployees concerned is based on the below principles, in particular:
+- the compensation policy of the management company is compatible with efﬁcient and healthy risk management,encouraging such an approach, and discouraging any risk-taking which would be incompatible with the risk profiles, thepresent brochure, or the other governing documents of the Funds managed by the management company;
+~ the compensation policy was adopted by the Supervisory Board of the management company, which adopts and re-examines the general principles of such policy at least once a year;
+— personnel engaged in monitoring functions are compensated in accordance with the achievement of the objectiveslinked to their position, regardless of the performance of the sectors that they monitor;
+— when the compensation varies according to performances, its amount is established by combining the evaluation of theperformance of the person concerned and the valuation of the business unit or the Funds, and with regard to their risksand the results of the entirety of the management company during the evaluation of individual performances, takingﬁnancial and non-ﬁnancial criteria into account;
+— an appropriate balance is established between the ﬁxed and variable components of the overall compensation;
+- above a certain threshold, 21 large portion (which in all cases is at least 50% 0f the entire variable component of thecompensation) consists of exposure to an index the components and the operational rules of which guarantee thealignment of the interests of the personnel concerned and those of the investors;
+- above a certain threshold, a substantial portion (and in all cases at least 40%) 0f the variable component of thecompensation is delayed for an appropriate period;
+- variable compensation, including the delayed part, is only paid or acquired if it is compatible with the overall ﬁnancialsituation of the management company and if it is justified by the performances of the business unit, the Funds and theperson concerned.
+The updated details of the compensation policy are available on the following website: http://www.lyxor.com/fr/menu-corporate/nous-connaitre/mentions-reglementaires/
+
+935826 13 Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+13.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+Transparency of securities financing operations and reuse of financial instruments SFTR regulation(Accounting currency of the C/U)1. General information.
+1.1. Amount of securities and raw materials loaned in proportion with the total assets that can be loaned,defined as excluding the cash and cash equivalents.
+Securitieslending
+
+
+% of assets thatcan be loaned
+
+
+
+1.2. Amount of the assets committed to each type of securities financing operation and total return swap,expressed in absolute value (in the currency of the collective investment undertaking) and in proportion with theassets under management of the collective investment undertaking.
+
+
+
+Securities Securities Repo Reverselending borrowing operations repo operations TRSAbsolute value - - - - 940,900,099% of assets undermanagement ' ' ' ' 12753
+
+
+
+
+
+
+2. Concentration data
+2.1. The ten biggest issuers 01 guarantees for all types 01 securities financing operations and total return swaps(breakdown of the volumes of guarantees and raw materials received, with the names of the issuers).
+
+
+
+
+
+
+Name DANONE SA1 Amount 34,680,804Name VINCI2 Amount 25,352,471
+
+
+
+2.2. The ten main counterparties for each type of securities financing operation and total return swap separately(name of the counterparty and gross volume of operations in progress).
+
+
+
+
+Securities Securities Repo Reverselending borrowing operations repo operations TRSSOCIETE1 Name ' ' ' ' GENERALEAmount - - - - 940,900,099
+
+
+
+
+
+
+
+3. Aggregated operation data for each type of securities financing operation and total return swap separately,broken down according to the following categories.
+3.1. Type and quality of the guarantees.
+
+
+
+
+
+
+
+
+Securities Securities Repo Reverselending borrowing operations repo operations TRSCash - - - - -Security - - - - 60,033,275Rating or literary Not applicable
+
+
+
+935826 14 Annual report — Fiscal year ending on: 31.01.2017
+
+
+===================================================
+14.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+3.2. Guarantee maturity.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Securities Securities Repo Reverselending borrowing operations repo operations TRSUnder 1 day - - - - -1 day to 1 week - - - - -1 week 101 month - - - - -1 to 3 months - - - - -3 months 101 year - - - - -More than 1 year A — . _ _Open - - - - 60,033,2753.3. Guarantee currency.Securities Securities Repo Reverselending borrowing operations repo operations TRSCurrency — - - - EUR1 Amount - - - - 60,033,275
+
+
+
+
+
+
+
+3.4. Maturity of the securities financing operations and total return swaps.
+Securities Securities Repo Reverselending borrowing operations repo operations TRS
+
+Under 1 day - - - - -
+
+1 day to 1 week - - - - -
+
+1 week to 1 month - - — . _
+
+1 to 3 months - - - - —
+
+3 monthsto1 year - - - - 940,900,099
+
+More than 1 year - - - - -
+
+
+Open - - - - —
+
+
+
+
+
+
+3.5. Countries where the counterparties are established.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Securities Securities Repo Reverselending borrowing operations repo operations TRSCountry - - - - FRANCE1 Amount - - - - 940,900,0993.6. Settlement and clearing.Securities Securities Repo Reverselending borrowing operations repo operations TRSTripartite - - - - -Central counterparty - - . . .Bilateral - - - - 940,900,099
+
+
+
+
+
+
+
+935826 15 Annual report — Fiscal year ending on: 31.01.2017
+
+
+===================================================
+15.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+4. Data on the reuse of guarantees (collateral).Financial guarantees received in a non-cash form shall not be sold, reinvested or pledged.
+5. Retention of the guarantees received by the collective investment undertaking in connection with securitiesfinancing operations and total return swaps.
+
+
+
+
+Number of custodians 11 Name SOCIETE GENERALEAmount 60,033,275
+
+
+
+6. Retention of the guarantees provided by the collective investment undertaking in connection with securitiesfinancing operations and total return swaps.
+The custodian, Societé Generale 8A., exercises three types of responsibility; respectively, the monitoring of theregularity of the decisions of the management company, the monitoring of cash flows of the UCITS and the custody ofthe assets of the UCITS.
+Société Générale S.A also works with a limited number of sub-custodians, selected according to the most rigorousquality standards, including the management of possible conflicts of interest which may arise from these appointments.The Custodian has established an effective policy for identification, prevention and management of conflicts of interest, incompliance with national and international regulations as well as international norms.
+7. Data on the earnings and costs for each type of securities financing operation and total return swap.
+The Fund shall utilise over-the-counter index-Iinked swaps trading the value of the Fund‘s assets (or, as the case maybe, any other asset held by the Fund) against the value of the Benchmark Indicator.
+The revenue and costs linked to these Total Return Swaps (TRS) are included in the assessment of the instruments aswell as in the result presented in the statement of net assets and the statement of net asset values.
+
+935826 16 Annual report — Fiscal year ending on: 31.01.2017
+
+===================================================
+16.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+Auditor’sreport
+
+pwc
+AUDITOR’S REPORTON THE ANNUAL ACCOUNTSFiscal year closing on 31 January 2017
+LYXOR UCITS ETF COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+Mutual fund governed by the
+Monetary and Financial Code
+Management ComganyLYXOR INTERNATIONAL ASSET MANAGEMENT
+17, cours Valmy92800 Puteaux
+Ladies, Gentlemen,
+As pan of the mission entwsted to us by the management company‘s management bodies, we hereby present ourreport relative to the ﬁscal year closing on 31 January 2017 conceming:
+— the veriﬁcation of the annual accounts of the mutual fund LYXOR UCITS ETF COMMODITIES THOMSONREUTERS / CORECOMMODITY CRB TR UCITS ETF, as they are attached to this report;
+7 the bases of our assessments;
+— the speciﬁc veriﬁcations and information required by law.
+The annual accounts have been closed under the responsibility of the management company. It is our duty to expressan opinion on these accounts based on our audit
+1. OPINION ON THE ANNUAL ACCOUNTS
+We have conducted our audit in accordance with the applicable professional standards in France; these standardsrequire that we apply the procedures necessary to obtain reasonable assurance that the annual accounts do not includeany signiﬁcant misstatements. An audit involves verifying, by sampling and other selection methods, the elementsunderlying the amounts and information contained in the annual accounts It also involves assessing the implementedaccounting principles, the signiﬁcant estimates that have been used, and assessing the overall presentation of theaccounts. We feel that the collected evidence is sufﬁcient and appropriate to form the basis of our opinion.
+We certify that, in accordance with French accounting rules and principles, the annual accounts are accurate andregular and present a fair picture of the operating proﬁts and losses for the past ﬁscal year as well as the ﬁnancialsituation and assets of the UCITS created in the form of a mutual fund at the end of said ﬁscal year,
+2. JUSTIFICATION OF THE ASSESSMENTS
+In application of the provisions of article L,823-9 of the Commercial Code relative to the justiﬁcation of ourassessments, we inform you of the fact that the assessments we made concerned the appropriateness of theimplemented accounting principles and the reasonable nature of the signiﬁcant estimated that have been used.
+
+‘ Price“rarerhouseCoopers Audit, 63, rue de VtIlt'ers, 92208 Neuilly-sur-Seine CedexT: +33 (U) 1 56 57 58 59, F : +33 (0) 1 56 57 58 60. www.pwctfr
+Sooéte u‘axpemse complanle Insults an lab eau us l'oldte de Pans , Ila de France Sbcléle as wmnussanal aux corples membre de la ccmpagnls regionale aeVersailles‘ Souété par Acllcns Sympm'lée au capvlal de 2 510 460 E Slége soetal 63 the de Vllhars 92200 Neullyrsurr SEIHE RCS Nanlene 672 005 483 TVAn' PR Is 572 006-163 Strel 612 006 463 00362 Code APE 6920 Z Bursaqx Emdaaux Granahle, Ule‘ Lynn Marsetlla, Mm, Nantes, Nlce_ Pans Pullers Rennes,Rona, Strasbaulg Toulouse
+
+935826 17 Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+17.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+ﬁgpwc
+LYXOR UCITS ETF COMMODITIES THOMSON REUTERS/ CORECOMMODITY CRB TRUCITS ETF
+
+The assessments made in this way are in line with our approach for the audit of the annual accounts, taken as a whole,and they therefore contributed to the formulation of our opinion as expressed in the ﬁrst part of this report,
+3. SPECIFIC INFORMATION AND AUDIT PROCEDURES
+We have also conducted the auditing procedures required by law, in accordance with the applicable professionalstandards in France
+We have no negative observations to report regarding the truthfulness 0r consistency with the annual accounts of the
+information included in the annual report and in the reports sent to the shareholders concerning the situation andannual accounts.
+Neuilly sur Seine, date of the electronic signature
+
+Document authenticated via electronic signature
+The auditorPricewaterhouseCoopers Audit
+Marieichristine Jetil
+
+
+
+2017.05.18 18:05:16+0200
+
+935826 18 Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+18.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+ANNUALACCOUNTS
+
+935826 19 Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+19.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+31.01.2017 29.01.2016
+
+Currency
+
+Net fixed assetsDepositsFinancial instruments
+0 EQUITIES AND SIMILAR SECURITIESTraded on a regulated 01' similar marketNot traded on a regulaned or similar market
+0 BONDS AND SIMILAR SECURITIESTraded on a regulated or similar marketNot traded on a regulated or similar market
+0 DEBT SECURITIESTraded on a regulated or similar marketNegotiated debt securitiesOther debt securitiesNot traded on a regulated or similar market
+0 COLLECTIVE INVESTMENT UNDERTAKINGSGeneral UCITS and Investment Fund intended for non-professionals andequivalent, of other countriesOther Funds intended for non»professionals and equivalent, of other EUmember statesGeneral professional Funds and equivalent, of other EU member statesand lished securitisation entitiesOther professional investment Funds and equivalent of other EU memberstates and non-listed securitisation entitiesOther non-European entities
+0 TEMPORARY SECURITIES TRANSACTIONSReceivables representing ﬁnancial securities under reverse repurchaseagreementsReceivables representing loaned ﬁnancial securitiesFinancial securities borrowedFinancial secuﬁties under repurchase agreementsOther temporary transactions
+0 FINANCIAL CONTRACTSOperations on a regulated or similar marketOther operations
+0 OTHER FINANCIAL INSTRUMENTS
+ReceivablesFuture foreign exchange operationsOther
+Financial accountsLiquidities
+Other AssetsTotal assets
+
+
+935826 20 Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+2.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+Management company LYXOR INTERNATIONAL ASSET MANAGEMENT17, cours Valmy — 92987 Paris La Defense Cedexi
+Depository and Custodian SOCIETE GENERALE75886 Paris Cedex 18‘
+Underwriters SOCIETE GENERALE75886 Paris Cedex 18‘
+Statutory auditors PRICEWATERHOUSE COOPERS AUDIT63, rue de Villiers - 92208 Neuilly-sur-Seine Cedex,
+INFORMATION ON THE INVESTMENTS AND MANAGEMENT
+ClassiﬁcationDiversiﬁed.The MF is an index-based fund of the UCITS ETF type.
+Terms of determination and allocation of amounts available for distribution (or Allocation of the proﬁt)Class of units C-EUR and C-USD: Capitalisation of all the amounts available for distribution.
+Class of units USD: The management company reserves the right to capitalise and/or distribute all 01' part of theamounts available for distribution one or more times each year.
+Management objective
+The MF’s management objective is an exposure to the international commodities markets by reproducing the progressof the Thomson Reuters/CoreCommodity CRB Total Return index (the “Benchmark Indicator”), listed in US dollar,converted into euros, while insofar as possible minimizing the tracking error between the MF's performances and thoseof the Benchmark Indicator.
+The MF will therefore be exposed to commodities and, more speciﬁcally, to the evolution of energy, metals andagricultural products. The anticipated level of the ex-post tracking error under normal market conditions is 0.08%.
+Benchmark indicatorThe Benchmark Indicator is the Thomson Reuters/CoreCommodity CRB Total Return index.
+The Benchmark Indicator is intended to replicate is of the “Total Return” type; in other words, the performance of theBenchmark Indicator includes the interest (at the rate of the 91 day Treasury Bill) paid on an entirely collateralizedinvestment in the Benchmark Indicator,
+The Benchmark Indicator is an index of commodities futures contracts calculated and published by Reuters, thedistribution of which is the following:
+Thomson Reuters/CoreCommodity CRB Total Return
+Solh21';
+
+PIEJEHI Merlin7%
+IuMna] Metal.13.
+Pmolmn$3:
+13‘-
+6‘-
+
+935826 3 Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+20.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+31.01.2017 29.01.2016
+
+Currency
+
+Shareholders’ equities
+0 Capital
+0 Non—distributed prior net capital gains and losses0 Carried forward
+0 Net capital gains and losses of the ﬁscal year
+0 Result of the fiscal year
+Total shareholders’ equity(amount representing the net assets)
+Financial instruments0 SALE OPERATIONS 0N FINANCIAL INSTRUMENTS
+O TEMPORARY F mANCIAL SECURITIES TRANSACTIONSDebts representing ﬁnancial securities under repurchase agreementsDebts representing borrowed ﬁnancial securitiesOther temporary transactions
+0 FINANCIAL CONTRACTSOperations on a regulated or similar marketOther operations
+DebtsFuture foreign exchange operationsOther
+Financial accountsBank loans and overdraftsLoans
+
+Total liabilities
+
+
+
+935826 21 Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+21.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+Currency
+31.01.2017 29.01.2016
+
+
+Hedgingo Commitments on regulated or similar markets- Futures market- Options market— Credit derivatives— Swaps— Contracts for Differences (CFD)
+0 Over-the—counter commitments— Futures market— Options market- Credit derivatives— Swaps— Contracts for Differences (CFD)
+0 Other commitments— Futures market- Options market— Credit derivatives— Swaps- Contracts for Differences (CFD)
+Other operations0 Commitments on regulated or similar markets— Futures market- Options market- Credit deﬁvatives— Swaps- Contracts for Differences (CFD)
+0 Ovet-the-counter commitments- Futures market- Options market— Credit derivatives- Swaps- Contracts for Differences (CFD)
+0 Other commitments- Futures market— Options market- Credit derivatives- Swaps— Contracts for Differences (CFD)
+
+
+
+935826 22
+Annual report — Fiscalyear ending on: 31.01.2017
+===================================================
+22.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+31.01.2017 29.01.2016
+
+Currency
+
+Earnings on ﬁnancial transactions
+0 Earnings on deposits and ﬁnancial accounts
+0 Earnings on equities and similar securities
+0 Earnings on bonds and similar securities
+0 Earnings on debt securities
+0 Earnings on temporary ﬁnancial securiiies acquisitions and sales0 Earnings on ﬁnancial contracts
+0 Other ﬁnancial products
+Total (I)
+
+Charges on ﬁnancial operations
+0 Charges on temporary ﬁnancial securities acquisitions and sales0 Charges on ﬁnancial contracts
+0 Charges on ﬁnancial debts
+o Other ﬁnancial charges
+Total (II)
+
+Proﬁt and loss on ﬁnancial operations (I - II)
+
+Other earnings (III)
+Management fees and depreciation charges (IV)
+Net proﬁt and loss of the ﬁscal year (L.214-17-l) (I - II + III - IV)Adjustment of the ﬁscal year’s incomes (V)
+Advances on result paid for the ﬁscal year (VI)
+
+
+Earnings (I - II + [H - IV +/- V - VI):
+
+
+935826 23 Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+23.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+1. Accounting rule and methods
+The annual accounts are presented in the form required by Regulation ANC 2014-01 that repealedthe amended CRC Regulation 2003-02.
+Assessment rules
+The MF’s assets are assessed in compliance with the applicable laws and regulations, and moreparticularly with the rules deﬁned in regulation 110. 2014-01 of the Accounting RegulatoryCommittee dated 14 January 2014 relative to the chart of accounts of open-ended undertakings forcollective investment
+The ﬁnancial instruments traded on a regulated market are assessed at the opening price on the daybefore the calculation date of the net asset value. When these financial instruments are traded onseveral regulated markets at the same time, the chosen opening price is the one of the regulatedmarket in which they are primarily traded,
+However, in the absence of signiﬁcant transactions on a regulated market, the following financialinstruments are assessed using the following specific methods:
+- Negotiable debt securities (“NDS”) having a residual life upon acquisition that is less than orequal to 3 months are assessed with a straight-line extension over the residual lifespan of thedifference between the acquisit‘on value and the redemption value, The management companynevertheless reserves the possibility of assessing these securities at the actual value in case ofparticular sensitivity to market risks (rates, etc.). The chosen rate is that of the equivalent securityissues allocated to the risk margin related to the issuer;
+» NDS, of which the residual lifespan at acquisition is greater than 3 months but of which theresidual lifespan 0n the net asset value closing date is equal to or less than 3 months, are assessedby means of a linear distribution, over the residual lifespan, of the difference between the lastadopted current value and the reimbursement value, The management company neverthelessreserves the possibility of assessing these securities at the actual value in case of particularsensitivity to market risks (rates, etc) The chosen rate is that of the equivalent security issuesallocated to the risk margin related to the issuer;
+- NDS, of which the residual lifespan 0n the net asset value closing date is greater than 3 months,are assessed at their current value. The chosen rate is that of the equivalent security issuesallocated to the risk margin related to the issuer.
+Firm future ﬁnancial instruments traded on organised markets are assessed at the clearing price onthe day before the net asset value calculation date. Conditional future financial instruments tradedon organised markets are assessed at the market value on the day before the net asset valuecalculation date, Over-the—counter ﬁrm or conditional future financial instruments are assessed atthe price given by the ﬁnancial instrument’s eounterparty. The management companyindependently carries out a veriﬁcation of this valuation.
+appendix
+Deposits are assessed at their nominal value, plus any related interest that has accrued.
+Subscription warrants, cash certificates, promissory notes and mortgage notes are assessed at theirprobable negotiation value, under the management company’s responsibility.
+Temporary securities acquisitions and sales are assessed at the market price.
+Units and equities of undertakings for collective investment in transferable securities operatingunder French law are assessed at the last net asset value known on the calculation date of the MF’snet asset value.
+Units and equities of UCITS operating under foreign law are assessed at the last unit net assetvalue known on the calculation date of the MF’s net asset value.
+Financial instruments traded on a regulated market for which the price has not been determined orfor which the price has been corrected are assessed at their probable negotiation value, under themanagement company’s responsibility
+
+935826 24 Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+24.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+appendix
+The exchange rates used for the assessment of ﬁnancial instruments listed in a currency other thanthe MF‘s reference currency are the exchange rates published by the WM Reuters fixing the day ofthe MF‘s net asset value.
+Posting method for the negotiation fees
+The chosen method is that of included fees‘
+Posting method of revenues from ﬁxed revenue securities
+The chosen method is that of the coupon received.
+Valuation methods for off—balanee sheet commitmentsOff~balance sheet operations are valued at the commitment value,
+The commitment value for firm futures contracts is equal to the price (in the currency of the CIU)multiplied by the number of contracts multiplied by the face value.
+The commitment value for conditional operations is equal to the price of the underlying security(in the currency of the CIU) multiplied by the number of contracts multiplied by the deltamultiplied by the underlying face value,
+The commitment value for the swap contracts is equal to the contract’s nominal amount (in thecurrency of the CIU).
+Operation and management fees
+These fees include all of the fees invoiced directly to the MF, except for the transaction fees, Thetransaction fees include intermediation fees (brokerage, stock market tax, etc,) and the transfercommission which, if relevant, may notably be collected by the depository and managementcompany.
+For this MF, the following costs can be added to the operation and management fees (see theSummary table hereinafter):
+— outperformance commissions: these commissions reward the management company when theMF exceeds its objectives and are therefore invoiced to the MF;
+- transfer commissions invoiced t0 the MF;
+For more details on the fees actually invoiced to the MF, refer to the Statistical Part of the KeyInvestor Information Document “KIID”,
+
+
+
+
+
+Fees invoiced to the CIU Basis Scheduled rateManagement'fees and external management fees payable maximum 035%to the portfolio management company (CAC, Net assets
+, , . i i , (1) per yearDeposnory, distribution, lawyers) including taxOutperformance commissions Net assets NoneTransfer commissions Collection on each None
+transaction
+
+
+
+(1) including all fees excluding transaction fees, outperformrmce feet? and fees related [0investment? in CIU.
+Accounting currencyThe MF’s accounting is carried out in Euro.
+Indication of accountancy changes declared to each of the bearers individually- Occurred change: None
+- Future change: None
+
+935826
+25 Annual report — Fiscal year ending on: 31.01.2017
+
+===================================================
+25.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+appendix
+Indication of other changes declared to each of the bearers individually (Nor certg‘ﬁed by theauditor)- Occurred Change: None
+- Future change: None
+Indication and justiﬁcation of the changes to estimates and application provisionsNonel
+Indication of the nature of the errors corrected during the ﬁscal year
+None.
+Indication of the rights and conditions attached to each category of unitsUNITS C-EUR and C-USD: Capitalisation of all the amounts available for distribution
+UNITS USD: The management company reserves the right to capitalise and/or distribute all orpart of the amounts available for distribution one or more times each year.
+
+935826
+26 Annual Iepon‘ — Fiscal year ending on: 31.01.2017
+===================================================
+26.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+2. Evolution of the net assets
+
+
+31.01.2017 29.01.2016Currency EUR EURNet assets at the start of the ﬁscal year $0,197,945.89 692,537,499.33Subscriptions (including subscriptioncommission acquired by the CIU) 243,376,01528 264,028,816.76Redemptions (less the redemptioncommission acquired by the CIU) -309,870,933.87 -97,872,380.58
+Capital gains generated on deposits and ﬁnancial instrumentsCapital losses generated on deposits and financial instrumentsCapital gains generated on financial contracts
+Capital losses generated on ﬁnancial contracts
+Transaction fees
+Exchange rate differentials
+Changes to the estimate difference ofthe deposits and ﬁnancial instruments:- Estimate diﬁerenceﬁscal year N- Estimate diﬁerenceﬁscal year N-I
+Changes to the estimate difference of
+ﬁnancial contracts:
+- Estimate diﬂerencefiscal year N- Estimate diﬁerenceﬁscal year N-1
+Previous ﬁscal year distribution of net capital gains and lossesPrevious ﬁscal year distribution on profits
+Net profit and loss of the ﬁscal year before adjustment accountAdvance(s) paid during the ﬁscal year on net capital gains and losses
+Advance(s) on proﬁts paid during the fiscal year
+Other elements
+194,503,005.60-190,477,293.652,787,618,894.34
+-2,816,471,030.33
+21,675,913.19
+763623552741, 758, 753.65-34, 603,601. 62
+43.561.385.2234, 061 ,302.91-9, 500, 082.31
+2,696,423.37
+157,181,48218-134,829,865.682,004,644,342.52
+-2,100.780,888.06
+-6,960,258.26
+-64,859,886.5934,603, 601.6230,256,284.97
+-20,319,788.42-9,500, 082.3110,819, 706.11
+-2,571,127.31
+
+Net assets at the end of the ﬁscal year
+737,779,833.s7
+
+$0,197,945.89
+
+
+935826
+27
+Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+27.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+3. Information supplements
+3.1 Financial instruments: breakdown by the instrument’s legal or economic type3.1.] Breakdown of the “Bonds and similar securities item
+Traded on a regulated Not traded on a regulatedor similar market or similar market
+
+Index-linked bonds - -
+
+Convertible bonds A -
+
+Fixed»rate bonds - »
+
+Variable-rate bonds - -
+
+Zero—coupon bonds ~ —
+
+Participating securities - »
+
+Other instruments _ _
+
+3.1.2 Breakdown of the “Debt securities item by legal or economic type
+Traded on a regulated Not traded on a regulatedor similar market or similar market
+
+Treasury Bills — -
+
+Commercial papers - »
+
+Certificates of deposit . _
+
+Medium—term notes (“BMTN”) — _
+
+Other instruments - »
+
+311.3 Breakdown of the “Sale operations on ﬁnancial instruments” item by instrument type
+
+
+Securities under Securities Securities acquired with Short salesreverse repurchase borrowed sold redemption right soldagreement soldEquities - - - —Bonds - - - -
+
+Debt securities — . _ _
+
+Other investments — . . _
+
+
+935826 28 Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+28.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+311.4 Breakdown of the 0ff»balancc sheet headings by market type (notably rates, equities)
+Rate Equities Exchange Other
+
+HedgingCommitments on regulated - — _ _or similar markets
+
+Over»the-counter commitments - — . _
+
+Other commitments — . _ _
+
+Other operationsCommitments on regulatedor similar markets
+940,900,099.06 - -
+
+Over-[he-counter commitments - — _ _
+
+Other commitments - . . .
+
+3.2 Breakdown by rate types of the asset, liability and off-balance sheet items
+Fixed rate Variable rate Revisable rate Other
+
+AssetsDeposits
+
+Bonds and similar securities - — . _
+
+Debt securities - . _ _
+
+Temporary ﬁnancial securities operations — . _
+
+Financial accounts - - - 1.11
+
+LiabilitiesTemporary ﬁnancial securities operations
+
+Financial accounts — . _ _
+
+Off—balance sheetHedging
+
+Other operations — . . _
+
+3.3 Breakdown by residual maturity of the asset, liability and off-balance sheet items
+0-3 months 3 months - 1-3 years 3-5 years >5 years1 year
+
+AssetsDeposits - — . _ _
+
+Bonds and similar securities - — . _ _
+
+Debt securities — — . _ _
+
+Temporaiy ﬁnancial securitiesoperations —
+
+Financial accounts - 1,11 - . _
+
+LiabilitiesTemporaiy ﬁnancial securitiesoperations — - — - —
+
+Financial accounts — . . _ _
+
+Off—balance sheetHedging
+
+Other operations
+940,900,09906 — . _
+
+
+935826 29 Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+29.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+3.4 Breakdown by listing or assessment currency of the asset, liability and off—balance sheet itemsThis breakdown is givenfor the main listing or asxessmem‘ currenciex, with the exception 0fthe currencyfor thekeeping Ofthe accounts.
+
+
+By main currency USD JPY AUD Othercun’encies
+AssetsDeposits _ _ - _Equities and similar securities 85,616,536.45 68,093,612165 10,619,092.12 16,507,023107
+
+Bonds and similar securities - . _ _
+
+Debt securities » . _ _
+
+CIU - - - -
+
+Temporary ﬁnancial securities operations - — . .
+
+Receivables » - - -
+
+Financial accounts — . _ _
+
+Other assets - ~ - ~
+
+LiabilitiesSale operations on financial instruments
+
+Temporary ﬁnancial securities operations » - - -
+
+Debts - — - —
+
+Financial accounts » . _ _
+
+Off-balance sheet . . _ _Hedging
+
+Other operations . . _ _
+
+3.5 Receivables and Debts: breakdown by typeDetailx 0fthe elementx comprixing the “other receivables” and “other debtx items,notably breakdown of the future foreign exchange operations by type ofoperation (purchase/sale).
+
+Receivables
+Future currency exchange operations: 6’880’572'96
+
+Future purchases of currency -
+
+Total traded amount of future currency Sales —
+
+Other receivables:Deferred settlement sales 6,880,572.96
+
+
+
+
+
+Other operations _
+
+Deb‘s , 7,110,206.84Future currency exchange operanons:
+
+Future sales of currency —
+
+Total traded amount of future currency Purchases -
+
+Other debts:Account payable 6,880,572.96
+
+Accrued expenses 229,633.88
+
+
+
+
+Other operations -
+
+
+935826 30 Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+3.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+Launched in 1957 at the initiative of the Commodities Research Bureau, the calculation method of the BenchmarkIndicator has been adjusted over time such as to keep pace with the successive evolutions 0f the commodities market.
+The Benchmark Indicator beneﬁts from the expertise of both Reuters and CoreCommodin and is part of the benchmarkindicators on the evolution of the commodities market The Benchmark Indicator is intended to be a “global” index, inthat it takes in the evolution of the three main categories of commodities, namely energy, metals and agriculturalproducts (softs).
+On 25 November 2005, 19 commodities selected according to their importance in the economic environment wererepresented within the Benchmark Indicator. The evolution of each of these commodities is reﬂected in [he BenchmarkIndicator with reference to the price of the futures contracts for these same commodities
+These commodities futures contracts are listed on the New York (NYMEX, COMEX, NYBOT), Chicago (CBOT,CME) and London (LME) stock exchanges.
+The weight of the performances of each constituent is predetermined by the calculating agent of the BenchmarkIndicator in order to account for the speciﬁc importance of each commodity in the economic environment, and whilemaintaining diversification.
+Each constituent’s weight is readjusted each month so as to maintain a uniform exposure relative to each constituent,and thus to maintain the original diversiﬁcation level.
+An exhaustive description and the complete methodology for the construction of the Benchmark Indicator as well asinformation on the composition and relative weights of the Benchmark Indicator's components will be available on thefollowing website: http://0n1ine.th0msonreutersicom/indices,
+The monitored performance is that of the index closing prices
+Benchmark Indicator performance calculation
+The Benchmark Indicator’s performance at a ‘t date’ depends on the arithmetic mean of the prices of the futurescontracts underlying the Benchmark Indicator, weighted by the target weight attributed to each, plus the interest paid (atthe 91-day Treasury Bill rate) on a fully collateralised investment in the Benchmark Indicator.
+It is understood that:
+A ‘t date‘ is 21 Banking Day on the New York Mercantile Exchange calendar.
+An ‘r date’ is the sixth Banking Day of a given month on the New York Mercantile Exchange calendar.
+On each r date, the weights of each Benchmark Indicator constituent are rebalanced, i.ei adjusted to their target level,
+For each t date there is a corresponding r date, which is the last rebalancing date. If a t date is a rebalancing date, thecorresponding r date is the previous rebalancing date.
+W(i)r, is the target weight of the Benchmark Indicator futures contract i on the r date, such that:wmﬂn 5: mm, _:1
+L
+[\0
+‘u{i),=1
+Ev01(i) t, is the change in the price of futures contract i on the t date since the corresponding r date.F(i)t, the price of the futures contract i at a date t.
+‘ FmE\'0H7i,~= ”i %[1)Jt;‘|
+dud
+Ind t, is the value of the Thomson Reuters/Corecommodity CRB Total Return Benchmark Indicator on the t date,Accordingly,
+n9Ind: : Zwm, x Ind, x Eml(l!_.A-i
+The index value Ind r is thus recalculated every t date that is a Banking Day following an r rebalancing date, Therefore,for a given t date that is the first Banking Day after an r rebalancing date, the value of Ind 1' is equal to the value of Ind t-1.
+The futures contracts used to calculate the change are those with the nearest maturity date.
+When a futures contract matures, it is replaced, or “rolled over, with the futures contract on the same underlying thathas the nearest maturity date. Contracts are rolled over monthly, on the first 4 Banking Days of the New YorkMercantile Exchange.
+The interest paid (at the 91 day Treasury Bill rate) on a fully collateralised investment in the Benchmark Indicator iscalculated as shown below:
+
+935826 4 Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+30.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+3.6 Shareholders’ equity
+Subscrigtions Redemgtions
+Number of units issued/redeemed Number of units
+during the fiscal year:
+Amount Number of units Amount
+
+Unit C-EUR / FR00 0270033 14,076,500
+210,107,66690 14,910,000 238,280,58300
+
+Unit C-USD / FR00 0318998 2,180,000
+32,782,590171 4,730,000 71,590,350187
+
+Unit USD / FROOIOZ 14813 350.000
+485,757.67 . .
+
+Subscription / redem tion commission byshare category:
+Amou nt
+
+Unit C-EUR / FR00 0270033
+
+Unit C-USD / FR00 0318998
+
+Unit USD / FROOIOZ 14813
+
+Retrocessions by share category:
+
+Unit C-EUR / FR00 0270033
+
+Unit C-USD / FR00 0318998
+
+UnitUSD/FR0010414813
+
+Commissions acquired by the CIU by sharecategory:
+Amount
+
+Unit C-EUR / FR00 0270033
+
+Unit C-USD / FR00 0318998
+
+
+
+UnitUSD/FROOIOA 14813
+
+3.7 Management fees
+02erating and management fees (ﬁxed fees) as % of the average net assets: %
+Share category:Unit C-EUR / FR0010270033
+0.34
+
+Unit C-USD / FR0010318998
+0.35
+
+Unit USD / FR0010414813
+0.38
+
+Performance commissions (variable fees): amount of costs for the year Amount
+Share category:Unit C-EUR / FR0010270033
+
+Unit C-USD / FR0010318998
+
+Unit USD / FR0010414813
+
+Retrocession of management fees:- Total amount of fees retroceded to the CIU
+
+- Breakdown by “target CIU:— CIU 1
+
+-CIU2
+
+-CIU3
+
+—CIU4
+
+
+935826 3 1
+Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+31.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+3.8 Commitments given and received
+3.8.] Description of guarantees received by the CIU with indication of the capital guarantees ............................. None3.8.2 Description of the other commitments received and/or given ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, None
+3.9 Other information
+3.9.1 Current Value of the financial instruments that are the subject of temporary acquisition:- Financial instruments sold under reverse repurchase agreement -
+
+- Other temporary operations -
+
+3.9.2 Current value of the financial instruments comprising security deposits:Financial instruments received as guarantees and not included in the balance sheet:- equities ($0,033,274.62
+
+- bonds -
+
+- debt securities -
+
+- other financial instruments .
+
+Financial estimates given as guarantees and maintained in their original item:- equities -
+
+- bonds _
+
+- debt securities -
+
+- other financial instruments .
+
+3.9.3 Financial instruments held in the portfolio, issued by entities linked to the management company (fund) or to theﬁnancial managers (UCITS) and CIU managed by these entities:- CIU
+
+- other financial instruments 34,061,302.91
+
+
+935826 32 Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+32.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+3.10 Allocation of the proﬁt and loss table (in the CIU ‘s currency ufaccoum)
+Advances paid during the ﬁscal year
+
+
+
+
+
+Date Unit Overall Unit Total tax Unit tax
+category amount amount credits creditsTotal - -advances
+
+
+935826 33 Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+33.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+31.01.2017 29.01.2016
+
+
+Allocation of the profitlloss
+
+Sums still to be allocated
+Cam'ed forward
+Proﬁt and loss
+
+Total
+
+Unit C-EUR / FR0010270033 31.01.2017 29.01.2016
+
+Cun'ency
+
+Allocation
+Disu'ibution
+Can‘ied forward for the ﬁscal yearCapitalisation
+Total
+
+Information relative to the units and resulting in a distribution rightNumber of units
+Unit distribution
+
+
+Tax credits attached to the distribution of proﬁt
+
+
+Unit C-USD / FR0010318998 31.01.2017 29.01.2016
+
+
+Cuuency
+
+Allocation
+Distribution
+Carried forward for the ﬁscal yearCapitalisation
+Total
+
+Information relative to the units and resulting in a distribution rightNumber of units
+Unit distﬁbution
+
+
+Tax credits attached to the distribution of proﬁt
+
+
+935826 34 Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+34.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+Unit USD / FR0010414813 31.01.2017 29.01.2016
+
+Currency
+
+Allocation
+Disu'ibution
+Carried forward for the ﬁscal year
+Capitalisation
+Total
+Information relative to the units and resulting in a distribution rightNumber of units
+Unit distribution
+
+Tax credits attached to the distribution of rofit
+
+
+
+935826 35 Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+35.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+3.11. Allocation table of the distributable sums related to the net capital gains and losses(in the ClU‘s currency ofaccount)
+Advances on net capital gains and losses paid for the ﬁscal year
+
+
+
+
+
+
+Overall UnitDate
+amount amountTotaladvances
+
+
+935826 36 Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+36.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+31.01.2017 29.01.2016
+
+
+Allocation of the net capital gains and losses
+
+Sums still to be allocated
+Nondistributed prior net capital gains and losses
+Net capital gains and losses of the ﬁscal year
+Advances paid on net capital gains and losses of the ﬁscal year
+Total
+
+
+
+Unit C-EUR / FR0010270033 31.01.2017 29.01.2016
+
+
+CurrencAllocation
+Distdbution
+Nondistribuned net capital gains and losses
+Capitalisation
+Total
+Information relative to the units and resulting in a distribution rightNumber of units
+Unit distribution
+
+
+
+Unit C-USD / FR0010318998 31.01.2017 29.01.2016
+
+
+Cun'ency
+
+Allocation
+Distribution
+Non-distributed net capital gains and lossesCapitalisation
+Total
+
+Information relative to the units and resulting in a distribution rightNumber of units
+Unit distﬁbution
+
+
+
+935826 37 Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+37.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+Unit USD / FR0010414813 31.01.2017 29.01.2016
+
+Currency
+
+Allocation
+Disu'ibution
+Non—disttibuted net capital gains and losses
+Capitalisation
+Total
+Information relative to the units and resulting in a distribution rightNumber of units
+Unit distribution
+
+
+935826 38 Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+38.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+3.12 Table of the proﬁt and loss and other characteristic elements of the MF during the last 5 ﬁscal yearsFund creation date: 26 January 2006.
+
+
+
+
+CurrencyEUR 31.01.2017 29.01.2016 30.01.2015 31.01.2014 31.01.2013Net assets 737,779,833.57 690,197,94589 692,537,49933 608,615,17030 913,441,68233Unit C-EUR / FR0010270033 Currency of the unit and of the NAV: EUR
+31.01.2017 29.01.2016 30.01.2015 31.01.2014 31.01.2013Number of circulating units 35,216,501 36,050,001 28,245,001 21,890,001 21,560,001Net asset value 16.3554 14.2433 18.0359 19.6691 21.1 138Unit distribution on capitalgains and losses(including advances) - - - - -Unit distribution(including advances)* - - — — -Unit tax credit transferredto unit holders(natural persons) (1) - . . _ _Unit capitalisation * -3.28 -1.70 -4.67 -8.68 —0.07
+
+* The amounts of the unit dixtrihution. the unit L'apitalimtion and the tax (‘I‘L’dlfK are indicated in the accounting currency (1f the CIU. The unitcapitalixalinn enrrespnndx m the sum nfpmﬁt and [am and ne/ capital gains or [mses 0n the number nfcirchlating MIIlIS. This calculalinn method ixapplied since 1 January 2013.
+(1) Fiscal year closed; pumumt tn the Fiscal Instruction r1f4 March 1993 from the Directorate General for taxes, the uni! tux credit will bedetermined (In the eX-dividend date by distribution of the total amount of the tax credits between the equitiex in circulation (In that date.
+
+
+Unit C-USD / FR0010318998 Currencx 0f the unit and 0f the NAV: USD
+31.01.2017 29.01.2016 30.01.2015 31.01.2014 31.01.2013Number of circulating units 9,565,001 12,1 15,001 9,695,001 8,445,001 20,895,001Net asset value 17.6753 15.412 20.3526 26.5248 28.6599
+
+Unit distribution on capitalgains and losses(including advances) - . . _ _
+Unit distribution(including advances)* - . . _ _
+Unit tax credit transferredto unit holders(natural persons) (1) . - _ _ _
+Unit capitalisation * 0.57 -1.1 1 -2. 10 13.76 -0.07* The mmunts 0f the unit dixtrilmtinn, the unit cupitalimtinn and the tax credits are indicated in the accounting currency of the CIU. The unit('upitali.\'atirm eorrexpmuh to the xum ()fpmﬁt and low and net Capital gainx 0r lonex 0n the number ofcireulating unitx. Thix Calculation method [.1applied xim'e 1 January 2013.
+(1) Fixeal year closed; [mr.mcmt to the Fiscal Instruction (7f4 March 1993 from the Directorate General for taxes, the unit 1ch credit will bedetermined on the eX-clividend date by distribution Ufthe total amount Ufthe tax credit: between the equitiex in circulation (In that date.
+
+
+
+935826 39 Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+39.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+
+Unit USD / FR0010414813 Currencx 0f the unit and 0f the NAV: USD
+31.01.2017 29.01.2016 30.01.2015 31.01.2014 31.01.2013Number of circulating units 3,275,630 2,925,630 4,576,000 6,076,000 8,076,000Net asset value 1.7675 1.5412 2.0352 2.6525 2,8660
+
+Unit distribution on capitalgains and losses(including advances) - . . _ _
+Unit distribution(including advances)* - . . _ _
+Unit tax credit transferredto unit holders(natural persons) (1) . . _ _ _
+Unit capitalisation * -0.32 0.98 0.66 -0.22 -0.007* The amnunts of the unit dixtrilmtion, the uni! Cupitalixalion and the tax credit: are indiralezl in [he accounting currency of [he CIU. The unitcapitalisation cnrrespnmlx m the sum ()fpmﬁt and [(13.1 and net capital gains or Irmes 0n the number ()fcirculating units. This calculation method ixapplied Since 1 January 2013.
+(1) Fiscal year eIUSed; [mr.mant t!) the Fixed! Instruction 0f 4 March 1993 from the Directorate General for taxes. the unit 1ch credit will bedetermined on [he eX-tlividend dale by dislribution ofthe total amnun/ ofthe tax credits between the equities in circulation 011 (ha! dale.
+
+
+
+935826 40 Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+4.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+IndTR t, is the closing value of the Benchmark Indicator at the t date.IndTR — IndTR, 3({1‘ T BJW‘W x {Ind [ImIH «TB: :1
+with:‘Days’ being the number of calendar days between t and [-1.
+ETB — I 11’ 91— “l——><TBR,.361] *-
+and‘TBRt-l’ being the 91-day Treasury Bill rate date t-1.
+Since the calculation of the Benchmark Indicator is not based on direct investment in commodities but on indirectinvestment in futures contracts, the UCITS performance may be affected by the cost of renewing, or ‘rolling over' thesefutures contracts on a monthly basis. This phenomenon could negatively and progressively impact, in a significantmanner, the gap between the UCITS performance and the gross performance of the underlyings of the aforesaid futures,notably in case of long-term investment in the MF’s units.
+Benchmark Indicator revision and comgositionThe composition of the Benchmark Indicator is revised monthly‘
+The exact composition of the Benchmark Indicator and NYSE»Eur0next’s rules for index composition revision areavailable on the Internet at https://indices.nyx.c0m/
+The frequency of the rebalancing indicated above will have an impact on the costs borne by the MF and may thereforeaffect the MF's performance.
+Benchmark Indicator comgosition 0n 8 xlune 2005
+On 8 December 2005, the Benchmark Indicator was composed of the following 19 commodity futures contracts (forguidance only).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Futures contract Target weight ExchangeWTI Crude Oil 23% NYMEXHeating Oil 5% NYMEXUnleaded Gas 5% NYMEXNatural Gas 6% NYMEXCorm 6% CBOTSoybeans 6% CBOTLive Cattle 6% CMEGold 6% COMEXAluminium 6% LMECop_per 6% COMEXSugar 5% NYBOTCotton 5% NYBOTCocoa 5% NYBOTCoffee 5% NYBOTNickel 1% LMEWheat 1% CBOTLean Hogs 1% CMEOrange Juice 1% NYBOTSilver 1% COMEX
+NYMEX New York Mercantile Exchange
+NYBOT New York Board of Trade
+COMEX Commodity Exchange Inc.
+CME Chicago Mercantile ExchangeCBOT Chicago Board of TradeLME London Metal Exchange
+
+
+935826 5 Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+40.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+4. In entory of 31.10.2016
+Seculity code Name of the security Security status Quantity Market value cﬁﬁﬁg Elf;Investment Securities
+Equity
+NL0011540547 ABN AMRO GROUP N.V. OWN SPECIFIC 808,773.00 17,590,812,75 EUR 2.38DEIDAIEWWWO ADIDAS NOM OWN SPECIFIC 431,448.00 62,840,40120 EUR 8.52E50105046009 AENA SA OWN SPECIFIC 25,508.00 3,426,999.80 EUR 0.46Nw000687663 AERCAP HOLDINGS NV OWN SPECIFIC 27,161.00 1,112,628.36 USD 0.15NL0000235190 AIRBUS GROUP OWN SPECIFIC 3,290.00 206,480.40 EUR 0.03DE0008404005 ALLIANZ SE-NOM OWN SPECIFIC 301,949.00 47,345,603.20 EUR 6.42USO2079K1079 ALPHABET INC SHS C OWN SPECIFIC 617.00 454,908.33 USD 0.06NL0011333760 ALTICE NV OWN SPECIFIC 154,267.00 3,143,961.46 EUR 0.43U50231351067 AMAZON.COM OWN SPECIFIC 648.00 493,767.97 USD 0.07BE0974293251 ANHEUSER BUSCH INBEV SA/NV OWN SPECIFIC 138,300.00 13,297,54500 EUR 1.80USO4010L1035 ARES CAPITAL OWN SPECIFIC 7,763.00 121,397.89 USD 0.02JP3942400007 ASTELLAS PHARMA INC OWN SPECIFIC 184,668.00 2,297,348.98 JPY 0.31E80] 13307021 BANKIA SA OWN SPECIFIC 5,379,680.00 5,245,188.00 EUR 0.71DE000BASF1 11 BASF SE OWN SPECIFIC 699,281.00 62.319.922.72 EUR 8.45DE000BAY0017 BAYER AG OWN SPECIFIC 197,817.00 20,236,679.10 EUR 2.74030846707026 BERKSHlRE HATAW B OWN SPECIFIC 178,076.00 27,046,72401 USD 3.67E80140609019 CAIXABANK OWN SPECIFIC 247,369.00 836,354.59 EUR 0.1 1US1313473043 CALPINE CORP W/I OWN SPECIFIC 126,615.00 1,382,490.05 USD 0.191350105066007 CELLNEX TELECOM S.A. OWN SPECIFIC 230,662.00 3,035,51 1.92 EUR 0.41US1255091092 CIGNA CORP OWN SPECIFIC 613.00 82,939.63 USD 0.01JP3305990008 CONCORDIA FINANCIAL GROUP LTD OWN SPECIFIC 846,785.00 4,163,633.24 JPY 0.56DE0007100000 DAIMLER OWN SPECIFIC 604,162.00 41,898,634.70 EUR 5.68FR0000120644 DANONE PGARAN 598,048.00 34,680,803 .52 EUR 4.70US23918K1088 DAVITA INC OWN SPECIFIC 7,409.00 437,053.53 USD 0.06D130005557508 DEUTSCHE TELEKOM AG-NOM OWN SPECIFIC 2,440,514.00 39,438,70624 EUR 5.35
+
+935826 41 Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+41.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+Security code Name of the security Security status Quantity Market value cgiﬁ 20881::U525278x1090 DIAMONDBACK ENG OWN SPECIFIC 1,012.00 98,484.35 1151) 0.01DK0060079531 135v OWN 555c151c 1.00 44.96 DKK 0.00N10000235195 EADS OWN SPECIFIC 62,151.00 3,904,947.33 EUR 0.53JP3160400002 ElSAI OWN 555c151c 23,263.00 1,188,392.10 15y 0.16550130960018 ENAGAS OWN SPECIFIC 176,523.00 4,007,072.10 EUR 0.54US30303M1027 FACEBOOK A OWN SPECIFIC 37,483.00 452001902 1150 0,61N10011585146 FERRARI NV OWN SPECIFIC 45,334.00 2,615,771.80 EUR 0.35US3364331070 FIRST SOLAR INC OWN SPECIFIC 7.33000 211,550.57 11513 0.031350005785604 FRESENIUS 513 & co KGAA OWN SPECIFIC 94,864.00 6,918,431.52 EUR 0.94BE0003818359 GALAPAGOS GENOMICS OWN SPECIFIC 945.00 56,652.75 EUR 0.01PIGALOAMGID GALP ENERGIA 5055 SA-B OWN SPECIFIC 129,776.00 1,767,549.12 EUR 0.245501434161 15 $$§50%?§X%§ACION OWN SPECIFIC 136,408.00 2,650,407.44 EUR 0.36DK0010272202 GENMAB OWN SPECIFIC 1,941.00 346,590.83 DKK 0.05550000202624 GETINGE A135 OWN SPECIFIC 14,956.00 223,857.14 SEK 0.03115375558 1036 GILEAD SCIENCES INC OWN SPECIFIC 18,730.00 1,255,656.98 11513 0.17DEOOO8402215 HANNOVER RUECK SE OWN SPECIFIC 7,101.00 721,816.65 EUR 0.10DE0006047004 HEIDELBERGCEMENT AG OWN SPECIFIC 121,886.00 10,864,91804 EUR 1.47c110012214055 HOLCIM LTD-NOM EUR OWN SPECIFIC 18,170.00 898,960.75 EUR 0.12E50144580Y14 IBERDROLA SA OWN SPECIFIC 388,004.00 2,263,615.34 EUR 0.31JP3046300004 ICHIGO REIT OWN SPECIFIC 5,1 16.00 3,170,697.31 11W 043N10011821202 INC- GROUP NV OWN SPECIFIC 2,478,542.00 32,840,68150 EUR 4.45NL0009693779 111151210011 OWN SPECIFIC 13,874.00 493,363.39 11513 0.07US46120E6023 INTUITIVE SURGICAL OWN SPECIFIC 879.00 563,407.52 1151) 0.08550000107419 INVESTOR 13 OWN SPECIFIC 34,459.00 1,272,652.18 SEK 017JP3667600005 10c OWN 555c151c 204,841.00 3,305,141.74 15y 0.45JP3496400007 KDDI CORP OWN SPECIFIC 13,677.00 340,632.73 151! 0.05550008373906 KINNEVIK 13— 51-15 OWN 555c151c 25,061.00 595,023.00 SEK 008NL0011794037 KONINKLIJKE AHOLD DELHAIZE OWN SPECIFIC 140,836.00 2,773,765.02 EUR 0.38NL0000009538 KONINKLIJKE 51-11st NV. OWN 555c151c 711,812.00 19,315,018.62 EUR 2.621350005470405 LANXESS OWN 555c11=1c 185,757.00 12,473,58255 EUR 1.69
+
+935826 42 Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+42.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+Security code Name of the security Security status Quantity Market value cgiﬁ 20881::13130001301110 LEG IMMOBILIEN OWN SPECIFIC 73,682.00 5,353,734.12 EUR 0.73DE0006483001 LINDE AG OWN SPECIFIC 24537.00 3.691.591.65 EUR 0.501550152503035 265mm“ ESPANA COMUNICACION OWN SPECIFIC 57,791.00 653,616.21 EUR 0.09US$8933Y1055 MERCK AND CO INC OWN SPECIFIC 30.501.00 1.749.566.94 11513 0.24JP3891600003 Ml’I‘SUI ENGINEERING & 51111913111153 OWN SPECIFIC 60,000.00 90,251.67 JPY 0.011P38903 10000 MS AD ASSURANCE OWN SPECIFIC 133,732.00 4,171,574.67 JPY 0.57JP3733000008 NEC CORP OWN SPECIFIC 175,481.00 376,464.05 JPY 0.05NL0010773342 NN GROUP NV OWN SPECIFIC 273,545.00 3.953.127.35 EUR 1.21PIZONOAM0006 NOS SGPS SA OWN SPECIFIC 574,490.00 2,992,518.41 EUR 0.41JP3381000003 NP STI & S'TOMO OWN SPECIFIC 9,071.00 204,034.46 JPY 0.03U56745991058 OCCIDENTAL PETROLEUM CORP OWN SPECIFIC 24,973.00 1,566,354.27 11513 0121U869343P1057 011. COMPANY LUKOIL ADR 1 s11 OWN SPECIFIC 110,073.00 5,715,255.46 USD 0.77U56821891057 ON SEMICONDUCTOR OWN SPECIFIC 157,780.00 1,944,692.83 11513 01261P3200450009 ORIX CORP OWN SPECIFIC 273.379.00 3,835.76130 JPY 0.52CH0024608827 PARTNERS GROUP HOLDING N OWN SPECIFIC 1,374.00 642,733.54 CHF 0.09DEOOOPSM7770 PROSIEBENSATI MEDIA SE OWN SPECIFIC 330.686.00 14.953.346.03 EUR 2.03US74736K1016 QORVO INC SHS OWN SPECIFIC 4,118.00 244,671.77 11513 0.031110000379121 RANDSTAD HOLDING NV OWN SPECIFIC 18,895.00 1,016,551.00 EUR 0.1411575972733014 RENEWABLE ENERGY GROUP OWN SPECIFIC 14,593.00 117,478.58 11513 0.02CH0012032048 £35125 A'ﬁLEDgaggﬁggN DE OWN SPECIFIC 395.00 86,320.58 CHF 0.01D1<0060634707 ROYAL UNIBREW 51-15 OWN SPECIFIC 124,331.00 4,368,298.38 DKK 0.591350007037129 RWE AG OWN SPECIFIC 900,959.00 11,041,25255 EUR 1.500130007 164600 SAP s13 OWN SPECIFIC 41 .139.00 3.431.593.57 EUR 0.475E0000148884 SEE A OWN SPECIFIC 88,870.00 924,259.29 SEK 013JP3419400001 513105111 CHEMICAL co LTD OWN SPECIFIC 275.789.00 4.130.139.34 JPY 0.57AUOOOOOOSHL7 SONIC HEALTHCARE OWN SPECIFIC 726,097.00 1061909212 AUD 1.44JP3435000009 SONY CORP OWN SPECIFIC 235.227.00 6.618.307.95 JPY 0.90NL0000226223 STMICROELECTRONICS NV OWN SPECIFIC 1,413,663.00 17,218,41534 EUR 2.33JP3890350006 SUMITOMO MITSUI FINANCIAL GRP OWN SPECIFIC 248.466.00 9.090.284.27 JPY 1.231158688612048 SURGUTNEFTEGAZ-SP ADR OWN SPECIFIC 434,011.00 2,150,577.32 11513 0.29
+
+935826 43 Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+43.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+Security code Name of the security Security status Quantity Market value cugseﬁ 27551::SE0000242455 SWEDBANK A SHS A OWN SPECIFIC 34,483.00 807,048.94 SEK 0.11CH0126881561 SWISS RE AG OWN SPECIFIC 30,395.00 2,625,566.97 CHF 0.36DEOOOSYM9999 SYMRISE OWN SPECIFIC 12,037.00 669,859.05 EUR 0.09USS716071076 SYNOPSYS INC OWN SPECIFIC 33,032.00 1,922,256.39 USD 0.26DK0060228559 TDC OWN SPECIFIC 413,526.00 2,015,599.73 DKK 0.27JP3546800008 TERUMO CORP OWN SPECIFIC 117,207.00 4,017,376.24 JPY 0.54US$835561023 THERMO FISHER SCIE OWN SPECIFIC 11,940.00 1,683,664.85 USD 0.23JP3633400001 TOYOTA MOTOR CORP OWN SPECIFIC 330,128.00 17,865,907.65 JPY 2.42DK0010268606 VESTAS WlND SYSTEMS A/S OWN SPECIFIC 32,922.00 2,131,896.65 DKK 0.29FR0000125486 VINCI SA PGARAN 390,639.00 25,352,471.10 EUR 3.44DE0007664039 VOLKSWAGEN AG—PFD OWN SPECIFIC 117,675.00 [6,933,432.50 EUR 2.30DEOOOAIML7JI VONOVIA SE NAMEN AKT OWN SPECIFIC 308,853.00 9,348,980.31 EUR 1.27DK0060738599 WILLIAM DEMANT HOLDING OWN SPECIFIC 26,973.00 467,130.88 DKK 0.06DE0007472060 WIRECARD OWN SPECIFIC 1.1 [2.00 49,828.72 EUR 0.01NL0000395903 WOLTERS KLUWER CVA OWN SPECIFIC 51,423.00 1,818,060.17 EUR 0.25US98387E2054 X 5 RETAIL GROUP N V REGS ADR OWN SPECIFIC 86,670.00 2,690,643.56 USD 0.36U59843321061 YAHOO lNC OWN SPECIFIC 675,762.00 27,556,982.83 USD 3.74JP3940000007 YAMATO HOLDINGS OWN SPECIFIC 169,596.00 3,177,664.95 JPY 0.43Total Equity 763,981,438.” 103.55Total Investment Securities 763,981,438.05 103.55Interest rate swap
+SWAP03589632 FEES LEG C EUR LYX C OWN SPECIFIC 1.00 179,341.64 EUR 0.02SWAP03589587 FEES LEG C USD LYX C OWN SPECIFIC 1.00 48,616.20 EUR 0.01SWAP03589592 FEES LEG USD LYX COM OWN SPECIFIC 1.00 1,675.48 EUR 0.00SWAP03589590 INDEX LEG C EUR LYX OWN SPECIFIC 733,207,550.82 575,982,29833 EUR 78.07SWAP03589626 INDEX LEG C USD LYX OWN SPECIFIC 200.810.548.93 156.440.052.34 EUR 21.20SWAP03589585 INDEX LEG USD LYX C0 OWN SPECIFIC 6,881,999.31 5,357,482.33 EUR 0.73SWAP03589577 VRAC LEG LYX COMMO T OWN SPECIFIC 940.900.099.06 403.948.163.41 EUR 795.41Total Interest rate swap 34,061,302.” 4.62
+
+935826 44 Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+44.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+CashAT BANK 0R PENDINGPAYABLE 0N SWAP OWN SPECIFIC 0.00 -6,830,572.96 EUR -0.93EUR SGP BAN K OWN SPECIFIC 0.00 1.11 EUR 0.00DEF. SALES EUR SECURITIES OWN SPECIFIC 0.00 6,880,572.96 EUR 0.93Total AT BANK 0R PENDING 1.11 0.00MANA GEMEN T FEESPRCOMGESTADM OWN SPECIFIC 0.00 -229,633.88 EUR 0.03T oral MANAGEMENT FEES 429,633.88 -0. 03Tom! Cash 429,632. 77 -0.03F iles
+ADI REME: DEPOSIT 0F COLLATERAL (ﬁle)
+PDC—01628541 PDC LYXOFR0000120644 PGARl $4,680,803.52 $4,680,803.52 EUR —4.70PDC-01628543 PDC LYXOFR0000125486 PGARl -25,352,471.10 -25,352,471.10 EUR -3.44Tom! ADI REME: DEPOSI T 0F COLLA TERAL (ﬁle) -60,033,274.62 -8.14Tom! F iles -60,033,274.62 -8.14
+
+935626 45 Annual report — Fiscalyear ending on: 31.01.2017
+===================================================
+45.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETFFiscal year closing on 31/01/2017
+
+APPENDIX TO THE REPORTintended for Swiss subscribers
+This appendix makes the annual report with the FINMA requirements for the marketing in Switzerland. It has not beencertiﬁed by the accountants.
+Country of origin of the FundFrance.
+Representative of the Swiss FundSociété Générale, Paris, Zurich Branch, has been authorised by the FINMA as the Fund’s representative in Switzerland
+while also assuming the payment service. The prospectus, articles of association, annual and semiannual reports of theFund, the KIIDs as well as the list of purchases and sales made by the Fund during the fiscal year can be obtained onrequest and at no cost from the representative’s head office in Switzerland, Société Générale Paris, Zurich Branch,Talacker 50, PO. Box 5070, 8021 Zurich.
+Calculation of the Total Expense Ratio (in compliance with the recommendations of the Swiss Funds & AssetManagement Association SFAMA)
+
+Annual closing of the collective investment: 31-Jan
+UCITS management commission: 0,35 % tax includedAverage assets of the fund for the period
+from 30/01/16 to 31/01/17: 76636596036
+
+
+
+Excerpt from the income statement
+
+
+
+
+
+
+
+
+
+Expenses in euros Annual report Half—yearly report Annual report29/01/2016 29/07/2016 31/01/2017Fund management commission 2,571,127.31 1,302,848.39 2,696,575.33Custodian bank fee 0.00 0.00 0.00Other expenses 0,00 0,00 0,00Taxes 0.00 0.00 0.00Total operating expenses 2,571,127.31 1,302,848.39 2,696,575.33
+
+
+
+
+Calculation of the TER for 12 months, from 30/01/16 to 31/01/17:
+TER, including performance fee
+2,696,575.33 / 766,365,96036 * 100
+
+
+
+0.35 %Performance fee as a share in percentage of the net average assets:0.00 %
+
+
+
+
+46
+
+===================================================
+46.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETFFiscal year closing on 31/01/2017
+
+Performance of the fund
+The details of the performances of the Fund’s units calculated in compliance with the principles of the Swiss FundAssociation are given below:
+Annual Annual Annualperformance performance performancefrom 29/01/2016 from 30/01/2015 from 31/01/2014to 31/01/2017 to 29/01/2016 to 30/01/2015
+LYXOR COMMODITIES THOMSON
+REUTERSCORECOMMODITY
+CRB TR UCITS ETF
+Unit C-EUR +l4.83% -21.03% 830%Unit C-USD +l4.69% -24.28% 93.27%Unit USD +14.68% -24,27% -23.27%
+Thomson Reuters/CoreCommodity
+CRB TR (USD)
+Unit C-EUR +15.57% -23,75% -22.73%Unit C-USD +15.57% -23,75% -22.73%Unit USD +15.57% -23,75% -22.73%
+Past performances are no indicator of future performances. The performances indicated herein do not take into accountthe subscription and redemption commissions and costs of Fund units,
+
+47
+===================================================
+5.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+Benchmark Indicator publicationThe Benchmark Indicator is available through Reuters and Bloomberg. On Reuters: TRJCRBTR
+0n Bloomberg: CRYTRThe closing price of the Benchmark Indicator is available on the Internet,
+Investment strategy:
+1. Strategy employedThe MF will comply with the investment rules dictated by the European Directive no. 2009/65/EC dated 13 July 2009.
+In pursuit of the greatest possible correlation with the performance of the Benchmark Indicator, the MF will reach itsmanagement objective using the indirect replication method which means that it will enter into one or more OTC swapcontracts enabling it to reach its investment objective. The objective of these swap contracts will be to exchange (i) thevalue of the MF's assets, which will consist of cash and/or balance sheet assets (excluding any securities received asguarantees), for (ii) the value of the securities that underlie the Benchmark Indicator.
+The securities held as assets by the MF may notably be securities that make up the Benchmark Indicator, as well asother international equities, from all economic sectors, listed on all markets, including the small caps markets.
+The basket of assets held may be adjusted daily such that its value will generally be at least 100% of the net assets.When necessary, this adjustment will be made to ensure that the counterparty risk arising from the aforementioned swapcontract will be entirely neutralized.
+Information relative to the (i) updated composition of the basket of the balance sheet assets held in the MF’s portfolioand (ii) the market value of the future exchange operation entered into by the MF, are available on the page dedicated tothe MP on the site www.lyxoretf.com. The update frequency and/or the update date of the aforesaid information is alsoindicated on the same page of the aforesaid Internet site.
+As part of the management of its exposure, the MF may be exposed on a component of the Benchmark Indicator, for upto 20% of its assets. This 20% limit will be verified at each rebalancing date of the Benchmark Indicator, in compliancewith the method of calculation of the Benchmark Indicator, that limits to 20% the exposure of each component andwhose calculation is carried out by the sponsor or the calculation agent of the Benchmark Indicator. This 20% limit canbe increased to 35% for a single component when this proves to be justified by exceptional conditions within themarket, notably when certain securities are heavily dominant and/or in case of high volatility of the price of futurescontracts on a component represented in the Benchmark Indicator. It could be the case after an unfavourable evolutionof climatic or economic conditions that have a negative impact on the quantities available of a component representedin the Benchmark Indicator or of any other event affecting the liquidities of one of the futures contracts comprising theBenchmark Indicator.
+As the Benchmark Indicator‘s calculation methodology is not based on a direct investment in commodities, but ratheron an indirect investment via futures contracts, the MF’s performance will be impacted by the cost related to therenewal (“Roll”) of the aforesaid futures on a monthly basis.
+This phenomenon could negatively and progressively impact, potentially in a signiﬁcant manner, the gap between theMF’s performance and the gross performance of the underlyings of the aforesaid futures, notably in case of long-terminvestment in the MF’s units.
+2. Balance sheet assets {excluding integrated derivatives!
+In compliance with the ratios included in the regulations, the MF can hold international equities (from all economicsectors, listed on all markets), including within the small cap markets,
+The aforementioned equities will be chosen on the basis of criteria: of eligibility, in particular:
+0 Subordination t0 the main market indices
+0 Liquidity (minimal thresholds applied to mean daily volumes of transactions and to the equity market capitalisation)- Rating of the country of the issuer’s head office (requirement of a minimal threshold in S&P rating or equivalent)
+- Of diversification, in particular:
+0 Issuer (application of ratios applicable to the eligible assets of an UCITS, as speciﬁed in Art. R214-21 of the[French] Monetary and Financial Code)
+0 Geographical area0 Sector
+For more information on the abovementioned eligibility and diversiﬁcation criteria, in particular the list of the eligibleindices, investors can Visit the following Internet site: www.lyxoretf.com.
+For up to 10% of its net assets, the MF can invest in the assets of the undertakings for collective investment intransferable securities (“UCITS) that comply with Directive 2009/65/EC, As part of these investments, the MF cansubscribe to units or equities 0f UCITS managed by the management company, or a company with which it is linked,The manager will not invest in units or equities of AIF or other investment funds established on the basis of foreignlaws as indicated in article R214-l3 0f the Monetary and Financial Code,
+
+935826 6 Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+6.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+When the MF receives securities as guarantee under the conditions and limits of this section’s paragraph 8 below, theywill also constitute balance sheet assets received in full ownership by the MF, given that they are received by the MF infull ownership.
+As part of the future optimisation of the MF’s management, the manager reserves the right to use other instrumentswithin the limits of the regulations in order to achieve the management objective
+3. Off—balance sheet assets gderivative instruments!
+The MP will use IndeX-linked swaps traded over the counter, thereby swapping the value of the MF's assets against thevalue of the Benchmark Indicator (in compliance with the description contained in this section's paragraph 1 above)
+- Maximum proportion of assets under management which may be the object of a Total Return Swap (TRS): 100% ofthe assets under management
+— Expected proportion of assets under management which may be the object of a Total Return Swap (TRS): up to 100%of the assets under management
+As part of a future optimisation of the MF management, the manager reserves the right to use other instruments withinthe limits of the regulations, such as to reach the management objective, for example including future ﬁnancialinstruments other than index-linked swaps
+In compliance with its best execution policy, the management company considers that the Société Generale is thecounterparty that generally makes it possible to obtain the best possible result with these future ﬁnancial instruments,These future financial instruments (including index-linked swaps) can therefore be negotiated with the SociétéGénérale, without prior open competition involving several counterparties,
+The counterparty 0f the aforesaid future ﬁnancial instruments (the “‘Counterparty”) will have no discretionary powerregarding the composition of the MF’s investment portfolio, nor regarding the underlying assets of the future financialinstruments,
+4. Securities with integrated derivativesNone.
+5. DepositsUp to 20% of its net assets, the MF can have recourse to deposits with lending institutions belonging to the same groupas the depositary in order to optimise its cash management.
+6. Cash borrowingUp to 10% of its net assets, the MF may temporarily have recourse to borrowings.
+7. Temporag securities acquisition and sale operationsNone. The manager will not have recourse to temporary securities acquisition and/or sale operations.
+8. Financial guarantees
+In all cases in which the MF is subject to a counterparty risk as a result of the deployed investment strategy, notably inthe event of the MF’s use of forward swap contracts traded over the counter, the MF can receive securities that areconsidered as guarantees in order to reduce the counterparty risk related to these operations. The portfolio of receivedguarantees can be adjusted each day in order for its value to be greater than 01' equal to the level of the counterparty riskborne by the MF in most cases, The objective of this adjustment will be to ensure that the level of counterparty riskborne by the MF is totally neutralized,
+Any financial guarantee received by the MF will be provided to the MF in full ownership and listed in the MF’s accountopened in the books of its depositary. As such, the received ﬁnancial guarantees will be listed amongst the MF’s assets.
+Any ﬁnancial guarantee received by the MF within this framework must comply with the criteria deﬁned by theprevailing laws and regulations, notably in terms of liquidity, valuation, credit quality of the issuers, correlation, risksrelated to the management of securities, and applicability. The received guarantees must, in particular, comply with thefollowing conditions:
+(a) Any received guarantee must be of high quality, very liquid and traded on a regulated market or in a multilateraltrading system with transparent pricing, in order to be sold quickly at a price close to the prior valuation;(b) They must be valued at the mark-to-market price at least on a daily basis and assets showing strong price volatilitymust not be accepted as a guarantee except in case of the application of a sufficiently cautious discount;
+(c) They must be issued by an entity that is independent of the counterparty and must not be highly correlated with thecounterparty’ s performances;
+(d) They must be sufficiently diversified in terms of countries, markets and issuers, with a maximum exposure perissuer of 20% of the MF’s net asset value;
+(e) The MF’s Management Company must be able to fully realise them at any time, without consultation with thecounterparty nor approval of the latter.
+
+935826 7 Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+7.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+Notwithstanding the condition specified in (d) above, the MF may receive a basket of financial guarantees with anexposure to a single issuer corresponding to more than 20% of its net asset value provided that:
+such received ﬁnancial guarantees are issued by (i) a Member State, (ii) one or more of a Member State’s localauthorities, (iii) a country that is not a Member State (iv) a public international organization to which one or moreMember States belong; and
+such financial guarantees consists of at least six different issues of which none exceeds 30% 0f the MF’s assets.In compliance with the aforesaid conditions, the guarantees received by the MF can include:(i) Liquid assets or equivalents, notably including short-term bank assets and money market instruments;
+(ii) Bonds issued or guaranteed by an OECD Member State, by its local public authorities or by institutions andsupranational bodies of a Community, regional or worldwide nature, or by any other country, provided that conditions(a) to (e) (above) have been fully met;
+(iii) Equities or units issued by money market funds that calculate a daily net asset value and that have a rating of AAAor equivalent;
+(iv) Equities or units issued by UCITS investing primarily in bonds/equities as indicated in points (V) and (Vi) below;(V) Bonds issued or guaranteed by first-Class issuers, offering suitable liquidity;
+(vi) Equities admitted to trading or traded on a regulated market of an EU Member State, on a stock market of an OECDMember State or on a stock market of another country provided that conditions (a) to (e) (above) have been fully metand that these equities are included within a first-class index.
+Policy related to discountsThe MF’s management company will apply a margin to the financial guarantees received by the MP. The appliedmargins will notably depend on the following criteria:
+— Nature of the asset received as guarantee;
+— Maturity of the asset received as guarantee (if applicable);
+— Rating of the issuer of the asset received as guarantee (if applicable).
+Reinvestment of received guarantees
+Financial guarantees received in a non-cash form shall not be sold, reinvested 0r pledged,Guarantees received in cash shall, at the discretion of the manager, be either:
+(i) deposited with an enabled institution;
+(ii) invested in high-quality State bonds;
+(iii) used for reverse repurchase transactions, on the condition that such transactions are performed with creditinstitutions which are subject to prudential regulation and on the condition that the UCITS may at any time withdrawthe total amount of the liquidity, taking into account accrued interest;
+(iv) invested in short—term money mutual funds, as they are deﬁned in the guidelines for a common definition ofEuropean money mutual funds,
+Reinvested cash financial guarantees must be diversified, in compliance with the applicable requirements for non—cashﬁnancial guarantees.
+Risk proﬁle
+The bearer’s money will primarily be invested in financial instruments selected by the management company. Theseinstruments will be subject to the vagaries ofthe markets.
+Through the MF, the bearer is primarily exposed to the following risks:- Risk linked to the investment in commodities
+The commodity markets are decorrelated from the traditional markets, As the underlying index is calculated on thebasis of commodity futures contracts, the investor is exposed to a liquidity risk involving these instruments. An indexcalculated on the basis of futures contracts can notably be affected by the rollover cost when these futures contractscome to maturity. The price variation of a commodity futures contract and its rollover costs notably reﬂect (but withoutbeing limited to): price changes of the underlying commodity, its current and estimated production, the estimated levelof essential reserves, the climatic and geopolitical environment, its storage and transportation cost.
+- Capital loss risk
+The invested capital is not guaranteed The investor consequently runs the risk of capital loss. The entire or part of theinvested amount may not be recovered, notably should the performance of the Benchmark Indicator be negative overthe investment periodi
+
+935826 8 Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+8.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+- Liquidity risk (primary market)
+If, when the MF (or one of its counterparties for Future Financial Instrument (“FFI”)) adjust its exposure, the marketsrelated to this exposure are then limited, closed or subject to significant purchase / sale price discrepancies, the valueand/or liquidity of the MF could be negatively affected. Should low volumes of exchanges result in an inability to carryout transactions linked to the replication of the Benchmark Indicator, this can also have consequences on the processesrelated to the subscription, conversion or redemption of units.
+- Liquidity risk on a place of listing
+The MF’s equity price can deviate from its indicative net asset value. The liquidity of the MF’s units or equities on aplace of listing can be affected by any suspension that could notably be due to:
+i) suspension or stoppage 0f the calculation of the Benchmark Indicator, and/or
+ii) suspension of the market(s) 0f the underlyings used of the Benchmark Indicator, and/or
+iii) the impossibility for a given place of listing to obtain or calculate the MF's indicative net asset value, and/oriv) a market maker’s Violation of the rules applicable to this marketplace, and/or
+V) a failure of this marketplace's IT or electronic systems.
+- Counterparty risk
+The MP is exposed to the risk of bankruptcy, payment default or any other type of default of any counterparty withwhich it has entered into a contract or transaction. It is particularly exposed to the counterparty risk resulting from itsuse of Future Financial Instruments (“FFI) traded over-the-counter with Societe Générale or with any othercounterparty. In compliance with the UCITS regulations, the counterparty risk (whether this counterparty is the SociétéGénérale or any other entity) cannot exceed 10% 0f the total value of the MF’s assets by counterparty.
+In case of a Counterparty’s default, the contract relating to FFIs can be terminated early. The MF will then make everyeffort to achieve its management objective by signing, if relevant, another contract relating to FFIs with a third partycounterparty, under the market conditions prevailing at the time of the occurrence of this event.
+The realisation of this risk can notably have impacts on the MF’s ability to achieve its management objective, inparticular the replication of the Benchmark Indicator.
+When Société Générale is involved as a counterparty 0f the FFIs, conﬂicts of interest can arise between the MF’sManagement Company and the FFI’s counterparty. The Management Company manages these conﬂict of interest risksby setting up procedures intended to identify and limit them, and to ensure their equitable resolution, if relevant,
+- Roll risk on futures
+As the Benchmark Indicator is made up of “future” type contracts on commodities, a monthly “Roll” of the futurespositions is necessary in order to maintain the exposure: rolling futures contracts involves transferring a position withfutures maturing in the near future (in any event, before the expiry of the futures contracts) to futures with a longermaturity,
+The investor is exposed to a risk of loss or gain when futures are rolled over. In certain market configurations, thisphenomenon could result in a systematic loss at the time of the monthly rollovers, and thus negatively and progressivelyimpact, potentially in a significant manner, the gap between the MF’s performance and the gross performance of theshort positions on the underlyings 0f the aforesaid futures, notably in case of long-term investment in the MF’s units.
+- Risk that the management objective may only be partially reached
+Nothing guarantees that the management objective will be reached. Indeed, [to asset or financial instrument will allowan automatic and continuous replication of the Benchmark Indicator, notably should one or more of the following risksarise:
+- Risk related to the use of derivative instruments
+In order to reach its investment objective, the MF uses “FFI traded over-the-counter, that can notably take the form ofswap contracts that will allow it to obtain the performance of the Benchmark Indicator. These FFIs can result in a seriesof risks on the level of the FFIs that notably include: counterparty risk, event affecting the hedging, event affecting theBenchmark Indicator, risk related to the tax regime, risk related to the regulations, operational risk and liquidity risk.These risks can directly affect a FFI and can result in the adjustment and/or early termination of the FFI transaction,which could affect the MF’s net asset value
+- Legal risk
+The mutual fund may bear a legal risk related to the conclusion of any Total Return Swap contract (TRS) as laid downin Regulation (EU) 2015/2365.
+- Risk related to a change of the tax regime
+Any change to the tax legislation in any country in which the MP is established, authorised for marketing or listed canaffect the tax treatment of the investors In this case, the MF’s manager assumes no liability relative to investors withregard to the payments having to be made to any competent tax authorityi
+
+935826 9 Annual report — Fiscal year ending on: 31.01.2017
+===================================================
+9.hocr: 
+LYXOR COMMODITIES THOMSON REUTERS/CORECOMMODITY CRB TR UCITS ETF
+
+- Risk related to a change of the tax regime affecting the underlyings
+Any change of the tax legislation applicable to the MF’s underlyings can affect the MF‘s tax treatment. Consequently,in case of divergence between the anticipated tax treatment and the one actually applied to the MF (and/or to itscounterparty in the FFI), the MF’s net asset value may be affected.
+- Risk related to regulations
+In case of change of the regulations in any country in which the MF is established, authorised for marketing or listed,the processes for the subscription, conversion and redemption of the units may be affected.
+- Risk related to regulations applicable to the underlyings
+In ease of change of the regulations applicable to the MF's underlyings, the MF's net asset value can be affected, as canthe processes for the subscription, conversion and redemption of the units,
+- Risk related to events affecting the Benchmark Indicator
+In case of events affecting the Benchmark Indicator, the manager may, under the conditions and limits of the applicablelegislation, have to suspend the subscription and redemption of MF units. The calculation of the MF’s net asset valuecan also be affected.
+If the event persists, the MF’s manager will decide on measures having to be adopted, which can have an impact on theMF’s net asset value. “Events affecting the Benchmark Indicator” are understood to mean the following situations:
+1) the Benchmark Indicator is considered to be incorrect or not reﬂective of the market‘s actual evolution,ii) the Benchmark Indicator is deﬁnitively discontinued by its supplier,iii) the supplier of the index is incapable of providing the level or value of the said Benchmark Indicator,
+iv) the supplier of the index makes a signiﬁcant change to its formula or calculation method (other than a minormodiﬁcation such as the adjustment of the underlyings used with this Benchmark Indicator or of the respectiveweightings between its various components), that cannot be effectively replicated by the MF at a reasonable cost,
+V) One or more components of the Benchmark Indicator becomes n0n»liquid, with the listing being suspended on anorganised market, or components traded over-the-counter (such as bonds, for example) become n0n»liquid,
+vi) The Benchmark Indicator‘s components are impacted by transaction costs relative to the execution, delivery versuspayment or specific ﬁscal constraints, without these costs being reﬂected in the Benchmark Indicator’s performance.
+- Securities transaction risk
+Should the issuer of a security underlying the Benchmark Indicator undertake an unanticipated review of a securitiestransaction (“ST), that contradicts a prior and official announcement that had resulted in a valuation of the ST by theMF (and/or in a valuation of the ST by the MF’s counterparty in a future ﬁnancial instrument), the MF’s net asset valuemay be affected, notably should the actual treatment of the ST by the MF differ from the ST’s treatment in themethodology used by the Benchmark Indicator.
+- Exchange risk linked to the class of units C-EUR (EUR/USD)The abovementioned Class of units is exposed to an exchange risk to the extent that it is listed in a currency other than
+that of the Benchmark Indicator. The net asset value of the abovementioned class of units can therefore decrease due toﬂuctuating exchange rates even though the value of the Benchmark Indicator has increased,
+Eligible subscribers and typical investor profileThe MF is open to any subscriber.
+An investor subscribing to this MF wishes to obtain an exposure to the commodities market and, more specifically, tothe performance of the main commodities markets, namely: energy, metals and agricultural products (softs).
+The amount that it is reasonable to invest in this MF depends on the personal situation of each investor. To determinethis amount, the investor must take into account his/her personal wealth and/or estate, his/her cash requirements atpresent and for ﬁve years, but also his/her desire to take risks or, on the contrary, to prefer a cautious investment. It isalso recommended to sufficiently diversify its investments so as not to be exposed solely to the risks of this MF.
+Investors are therefore recommended to study their individual situations with their usual estate management adviser,The minimum recommended investment period is greater than 5 years,
+Indications on the tax treatment
+Investors should take note that the following information constitutes only a general summaiy 0f the tax regimeapplicable to an investment in a French MF, under the current French tax legislation. Investors are therefore requestedto study their personal situations with their usual tax adviser.
+1. 0n the level of the MFIn France, the co-ownership status of MFs means that they are automatically exempt from corporate tax; by nature, they
+therefore beneﬁt from a certain degree of transparency As such, the earnings collected and generated by the MFthrough its management are not taxable at the level of the MF itself.
+
+935826 10 Annual report — Fiscal year ending on: 31.01.2017
+===================================================

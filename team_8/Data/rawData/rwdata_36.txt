@@ -1,0 +1,36 @@
+Page: 0
+Entity Name: r<XOm _<_mO_ _<_>_.><m_> CO_._.m m._._n 
+Page: 14
+Audit Period: Fiscal year closing on 28 February 2017 
+Entity Name: LYXOR MSCI MALAYSIA UCITS ETF 
+Audit Period: report relative to the ﬁscal year closing on 28 February 2017 concerning: 
+Entity Name: — the veriﬁcation of the annual accounts of UCITS incorporated in the form of a mutual fund LYXOR MSCI 
+Entity Name: MALAYSIA UCITS ETF, as they are attached to this report; 
+Auditor Opinion: We certify that, in accordance with French accounting rules and principles, the annual ﬁnancial statements are truthful and in order, and present a fair picture of the operating proﬁts and losses for the past ﬁscal year, as well as the UCITS created in the form of a mutual fund at the end of said ﬁscal yeat: 
+Entity Name: LYXOR MSCI MALAYSIA UCITS ETF 
+Audit Period: 935859 15 Annual report — Fiscal year ending on: 28.02.2017 
+Page: 15
+Name of auditor: PricewaterhouseCoopers Audit 
+Entity Name: LYXOR MSCI MALAYSIA UCITS ETF 
+Entity Name: LYXOR MSCI MALAYSIA UCITS ETF  
+Audit Period: 935859 16 Annual report — Fiscal year ending on: 28.02.2017 
+Page: 18
+Entity Name: LYXOR MSCI MALAYSIA UCITS ETF 
+Total Equity: Total shareholders’ equity (amount representing the net assets) 
+Total Equity: Total shareholders’ equity 
+Year: 28.02.2017 29.02.2016  
+Currency: Currency 
+Year: 28.02.2017 29.02.2016  
+Currency: Currency  
+Page: 20
+Entity Name: LYXOR MSCI MALAYSIA UCITS ETF 
+Total Income: Total (I)  
+Total Income: Total (I)  
+Net Profit: Net proﬁt and loss of the ﬁscal year (L.214-17-l) (I - II + III - IV) 
+Net Profit: Net proﬁt and loss of the ﬁscal year (L.214-17-l) (I - II + III - IV) 
+Year: 28.02.2017 29.02.2016  
+Currency: Currency 
+Year: 28.02.2017 29.02.2016  
+Currency: Currency  
+
+

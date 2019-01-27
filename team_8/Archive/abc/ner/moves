@@ -1,0 +1,296 @@
+Å´transitions⁄U[
+  {
+    "clas":0,
+    "move":1,
+    "label":"Audit Period",
+    "name":"B-Audit Period"
+  },
+  {
+    "clas":1,
+    "move":2,
+    "label":"Audit Period",
+    "name":"I-Audit Period"
+  },
+  {
+    "clas":2,
+    "move":3,
+    "label":"Audit Period",
+    "name":"L-Audit Period"
+  },
+  {
+    "clas":3,
+    "move":4,
+    "label":"Audit Period",
+    "name":"U-Audit Period"
+  },
+  {
+    "clas":4,
+    "move":1,
+    "label":"Year",
+    "name":"B-Year"
+  },
+  {
+    "clas":5,
+    "move":2,
+    "label":"Year",
+    "name":"I-Year"
+  },
+  {
+    "clas":6,
+    "move":3,
+    "label":"Year",
+    "name":"L-Year"
+  },
+  {
+    "clas":7,
+    "move":4,
+    "label":"Year",
+    "name":"U-Year"
+  },
+  {
+    "clas":8,
+    "move":1,
+    "label":"Auditor Opinion",
+    "name":"B-Auditor Opinion"
+  },
+  {
+    "clas":9,
+    "move":2,
+    "label":"Auditor Opinion",
+    "name":"I-Auditor Opinion"
+  },
+  {
+    "clas":10,
+    "move":3,
+    "label":"Auditor Opinion",
+    "name":"L-Auditor Opinion"
+  },
+  {
+    "clas":11,
+    "move":4,
+    "label":"Auditor Opinion",
+    "name":"U-Auditor Opinion"
+  },
+  {
+    "clas":12,
+    "move":1,
+    "label":"Entity Name",
+    "name":"B-Entity Name"
+  },
+  {
+    "clas":13,
+    "move":2,
+    "label":"Entity Name",
+    "name":"I-Entity Name"
+  },
+  {
+    "clas":14,
+    "move":3,
+    "label":"Entity Name",
+    "name":"L-Entity Name"
+  },
+  {
+    "clas":15,
+    "move":4,
+    "label":"Entity Name",
+    "name":"U-Entity Name"
+  },
+  {
+    "clas":16,
+    "move":1,
+    "label":"",
+    "name":"B-"
+  },
+  {
+    "clas":17,
+    "move":2,
+    "label":"",
+    "name":"I-"
+  },
+  {
+    "clas":18,
+    "move":3,
+    "label":"",
+    "name":"L-"
+  },
+  {
+    "clas":19,
+    "move":4,
+    "label":"",
+    "name":"U-"
+  },
+  {
+    "clas":20,
+    "move":5,
+    "label":"",
+    "name":"O"
+  },
+  {
+    "clas":21,
+    "move":1,
+    "label":"Name of auditor",
+    "name":"B-Name of auditor"
+  },
+  {
+    "clas":22,
+    "move":2,
+    "label":"Name of auditor",
+    "name":"I-Name of auditor"
+  },
+  {
+    "clas":23,
+    "move":3,
+    "label":"Name of auditor",
+    "name":"L-Name of auditor"
+  },
+  {
+    "clas":24,
+    "move":4,
+    "label":"Name of auditor",
+    "name":"U-Name of auditor"
+  },
+  {
+    "clas":25,
+    "move":1,
+    "label":"Net Profit",
+    "name":"B-Net Profit"
+  },
+  {
+    "clas":26,
+    "move":2,
+    "label":"Net Profit",
+    "name":"I-Net Profit"
+  },
+  {
+    "clas":27,
+    "move":3,
+    "label":"Net Profit",
+    "name":"L-Net Profit"
+  },
+  {
+    "clas":28,
+    "move":4,
+    "label":"Net Profit",
+    "name":"U-Net Profit"
+  },
+  {
+    "clas":29,
+    "move":1,
+    "label":"Total Income",
+    "name":"B-Total Income"
+  },
+  {
+    "clas":30,
+    "move":2,
+    "label":"Total Income",
+    "name":"I-Total Income"
+  },
+  {
+    "clas":31,
+    "move":3,
+    "label":"Total Income",
+    "name":"L-Total Income"
+  },
+  {
+    "clas":32,
+    "move":4,
+    "label":"Total Income",
+    "name":"U-Total Income"
+  },
+  {
+    "clas":33,
+    "move":1,
+    "label":"Total Entity",
+    "name":"B-Total Entity"
+  },
+  {
+    "clas":34,
+    "move":2,
+    "label":"Total Entity",
+    "name":"I-Total Entity"
+  },
+  {
+    "clas":35,
+    "move":3,
+    "label":"Total Entity",
+    "name":"L-Total Entity"
+  },
+  {
+    "clas":36,
+    "move":4,
+    "label":"Total Entity",
+    "name":"U-Total Entity"
+  },
+  {
+    "clas":37,
+    "move":1,
+    "label":"NO ENTITY TYPE",
+    "name":"B-NO ENTITY TYPE"
+  },
+  {
+    "clas":38,
+    "move":2,
+    "label":"NO ENTITY TYPE",
+    "name":"I-NO ENTITY TYPE"
+  },
+  {
+    "clas":39,
+    "move":3,
+    "label":"NO ENTITY TYPE",
+    "name":"L-NO ENTITY TYPE"
+  },
+  {
+    "clas":40,
+    "move":4,
+    "label":"NO ENTITY TYPE",
+    "name":"U-NO ENTITY TYPE"
+  },
+  {
+    "clas":41,
+    "move":1,
+    "label":"Total Equity",
+    "name":"B-Total Equity"
+  },
+  {
+    "clas":42,
+    "move":2,
+    "label":"Total Equity",
+    "name":"I-Total Equity"
+  },
+  {
+    "clas":43,
+    "move":3,
+    "label":"Total Equity",
+    "name":"L-Total Equity"
+  },
+  {
+    "clas":44,
+    "move":4,
+    "label":"Total Equity",
+    "name":"U-Total Equity"
+  },
+  {
+    "clas":45,
+    "move":1,
+    "label":"Stock Code",
+    "name":"B-Stock Code"
+  },
+  {
+    "clas":46,
+    "move":2,
+    "label":"Stock Code",
+    "name":"I-Stock Code"
+  },
+  {
+    "clas":47,
+    "move":3,
+    "label":"Stock Code",
+    "name":"L-Stock Code"
+  },
+  {
+    "clas":48,
+    "move":4,
+    "label":"Stock Code",
+    "name":"U-Stock Code"
+  }
+]
