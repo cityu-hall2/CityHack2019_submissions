@@ -1,6 +1,8 @@
 # cityuhackathon
 Repo for Cityhack 2019
 
+!! The .apk package Hackerman.apk is available through our team repo https://github.com/CrzongA/cityhack2019new
+
 Team Hackerman
 
 -Task 1 : CityU Helper
