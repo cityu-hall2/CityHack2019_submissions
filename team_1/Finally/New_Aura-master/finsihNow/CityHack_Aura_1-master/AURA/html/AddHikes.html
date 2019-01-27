@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+      <script>
+      String.isNullOrEmpty=function(string)
+    {
+      return (!string || string == undefined || string.trim() == "" || string.length == 0);
+    }
+      function addHike()
+      {
+        hike={
+          organizer: document.querySelector("#organizer").value,
+          place: document.querySelector("select").options[document.querySelector("select").selectedIndex].innerHTML,
+          meetingTime: document.querySelector("#meetingTime").value,
+          meetingPlace: document.querySelector("#meetingPlace").value,
+          approximateCost: document.querySelector("#approximateCost").value,
+          additionalNotes: document.querySelector("#additionalNotes").value
+        };
+        sifra=document.querySelector("#sifra").value;
+        localStorage.setItem(sifra,JSON.stringify(hike));
+      }
+      function informationValidation()
+    {
+      var test=true;
+      input=document.querySelectorAll("input");
+      for(i=0;i<input.length;i++)
+      if(String.isNullOrEmpty(input[i].value))
+      {
+          //document.querySelector("#dateParagraph").style.display="block";
+          test=false;
+      }
+      if(!test)
+      {
+        document.querySelector(".Error_Block").style.display="block";
+        document.querySelector(".Page").style.opacity=0.1;
+      }
+      else
+        addHike();
+    }
+
+    function disappear()
+    {
+      document.querySelector(".Error_Block").style.display="none";
+      document.querySelector(".Page").style.opacity=1;
+    }
+
+
+    </script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>New Hike</title>
+   <link rel="stylesheet" href="../css/Default.css" type="text/css" media="all">
+<link rel="stylesheet" href="../css/AddHikes.css" type="text/css" media="all">
+  <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans+SC" rel="stylesheet">
+  </head>
+  <body>
+
+   <div class="Error_Block" onclick="disappear();">
+
+      <p>Input mistake</p>
+
+    </div>
+
+    <div class="Page">
+    <header>
+          <img src="../images/cityulogo.png" alt="logo of City University of Hong Kong">
+          <h1>CityU Hikethon</h1>
+        </header>
+        <div class="main">
+          <div id="pinkDiv" >
+      pink
+          </div>
+          <div id="personal"  >
+
+      <ul>
+        <li>
+          <a href="#"><img id="person" src="../images/person1.png" width="10%" alt="account" title="My account"></a>
+          <p id="logout">
+            <a href="#">Log out</a>
+            </p>
+        </li>
+        <li><a href="MyHikes.html"><img src="../images/myhikes.png"  alt="my hikes" title="My Hikes"></a></li>
+        <li><a href="JoinHikePage.html"><img src="../images/joinhike.png"  alt="join hikes" title="Join existing hike"></a></li>
+        <li><a href="AddHikes.html"><img src="../images/addhike.png"  alt="add hike" title="Add hike"></a></li>
+        <li><a href="JoinHikePage.html.myHikes"><img src="../images/upcoming.png"  alt="my upcoming hikes" title="My upcoming hikes"></a></li>
+      </ul>
+          </div>
+<div class="content">
+          <label for="Organizer">Organizer</label>
+          <input id="organizer" type="text" name="Organizer" value="">
+
+          <label for="placesList"> Choose a hike place </label>
+          <select name="placesList">
+             <option value="PengChau">Peng Chau</option>
+             <option value="Lamma">Lamma</option>
+             <option value="Lan Tau">Lau Tau</option>
+             <option value="CheungChan">Cheung Chan</option>
+             <option value="KiuTsui">Kiu Tsui</option>
+          </select>
+
+          <label for="meetingTime">Meeting time</label>
+          <input id="meetingTime" type="text" name="meetingTime" value="">
+
+          <label for="meetingPlace">Meeting place</label>
+          <input id="meetingPlace" type="text" name="meetingPlace" value="">
+
+          <label for="approximateCost">Approximate cost</label>
+          <input id="approximateCost" type="text" name="approximateCost" value="">
+
+          <label for="additionalNotes">Additional notes</label>
+          <textarea id="additionalNotes" name="additionalNotes" rows="8" cols="80"></textarea>
+
+          <label for="password">Input password to confirm identity</label>
+          <input id="sifra" type="password" name="password" value="">
+
+          <button type="button" name="button" onclick="informationValidation();">add hike</button>
+
+          <button type="button" name="addHike" onclick="location.href='./html1.html';">Back</button>
+
+        </div>
+</div>
+<footer>
+  <p>
+    <a href="HomePage.html">Home</a>
+   <a href="OrderPage.html">Explore existing</a>
+   <a href="OrderPage.html">Add hike</a>
+   <a href="DesignPage.html">About Hikethon</a>
+   <a href="#">Regulations</a>
+  </p>
+</footer>
+</div>
+  </body>
+</html>

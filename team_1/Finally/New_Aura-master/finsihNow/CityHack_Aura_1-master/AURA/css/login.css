@@ -1,0 +1,233 @@
+/* //////////////////////////////////////////////////////////////////////////////// */
+                            /* reset */
+/* //////////////////////////////////////////////////////////////////////////////// */
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+
+  font-family: 'Open Sans', sans-serif;
+}
+
+header h1{
+  display: flex;
+  width: 40vw;
+  /* margin: auto; */
+  position: absolute;
+  top: 3vh;
+  left: 30vw;
+  justify-content: center;
+  color: #BF165E;
+}
+
+
+/* //////////////////////////////////////////////////////////////////////////////// */
+/* //////////////////////////////////////////////////////////////////////////////// */
+                            /* Desktop */
+/* //////////////////////////////////////////////////////////////////////////////// */
+/* //////////////////////////////////////////////////////////////////////////////// */
+@media screen and (orientation: landscape){
+
+    /* //////////////////////////////////////////////////////////////////////////////// */
+
+                /* header */
+    header{
+      height: 12vh;
+      width: 100vw;
+    }
+    header img{
+        padding: 3px;
+    }
+/* //////////////////////////////////////////////////////////////////////////////// */
+
+            /* form */
+
+    #loginText{
+      height: 5vh;
+      width: 100vw;
+      padding-bottom: 2vh;
+
+      font-style: normal;
+      font-weight: normal;
+      line-height: normal;
+      font-size: 5vh;
+      text-align: center;
+    }
+    #centerFieldset{
+      height: 47vh;
+      width: 90vw;
+      margin: auto;
+
+      background-color: #BF165E;
+    }
+
+    #centerFieldset > label{
+      display: none;
+    }
+
+    #centerFieldset > input{
+      display: block;
+      margin: auto;
+      height: 5vh;
+      width: 79vw;
+
+    }
+
+    .labels{
+      width: 42vw;
+      height: 5vh;
+      margin: 1vh;
+
+      color: white;
+    }
+
+    #formButtons{
+      position: relative;
+      top: 50px;
+
+      display: flex;
+      justify-content: space-around;
+    }
+
+    #formButtons input{
+      height: 5vh;
+      width: 28vw;
+    }
+
+    /* //////////////////////////////////////////////////////////////////////////////// */
+                    /* footer */
+
+    footer{
+      position: absolute;
+      bottom: 0px;
+      width: 100vw;
+      height: 16vh;
+
+      display: flex;
+      justify-content: space-around;
+
+      background-color: #0B0F1A;
+    }
+
+    footer a{
+      padding-top: 2vh;
+
+      color: white;
+    }
+
+    /* //////////////////////////////////////////////////////////////////////////////// */
+
+}
+
+/* //////////////////////////////////////////////////////////////////////////////// */
+/* //////////////////////////////////////////////////////////////////////////////// */
+                            /* End Desktop */
+/* //////////////////////////////////////////////////////////////////////////////// */
+/* //////////////////////////////////////////////////////////////////////////////// */
+
+
+/* //////////////////////////////////////////////////////////////////////////////// */
+/* //////////////////////////////////////////////////////////////////////////////// */
+                            /* Mobile */
+/* //////////////////////////////////////////////////////////////////////////////// */
+/* //////////////////////////////////////////////////////////////////////////////// */
+
+@media screen and (orientation: portrait){
+
+    /* //////////////////////////////////////////////////////////////////////////////// */
+
+                /* header */
+    header{
+      height: 17vh;
+      width: 100vw;
+    }
+    header img{
+        width: 27vw;
+        height: 15vh;
+        padding: 3px;
+    }
+/* //////////////////////////////////////////////////////////////////////////////// */
+
+            /* form */
+
+    #loginText{
+      height: 7vh;
+      width: 100vw;
+
+      font-style: normal;
+      font-weight: normal;
+      line-height: normal;
+      font-size: 5vw;
+      text-align: center;
+    }
+    #centerFieldset{
+      height: 47vh;
+      width: 90vw;
+      margin: auto;
+
+      background-color: #BF165E;
+    }
+
+    #centerFieldset > label{
+      display: none;
+    }
+
+    #centerFieldset > input{
+      display: block;
+      margin: auto;
+      height: 5vh;
+      width: 79vw;
+
+    }
+
+    .labels{
+      width: 42vw;
+      height: 5vh;
+      margin: 1vh;
+
+      color: white;
+    }
+
+    #formButtons{
+      position: relative;
+      top: 50px;
+
+      display: flex;
+      justify-content: space-around;
+    }
+
+    #formButtons input{
+      height: 5vh;
+      width: 28vw;
+    }
+
+    /* //////////////////////////////////////////////////////////////////////////////// */
+                    /* footer */
+
+    footer{
+      position: absolute;
+      bottom: 0px;
+      width: 100vw;
+      height: 16vh;
+
+      display: flex;
+      justify-content: space-around;
+
+      background-color: #0B0F1A;
+    }
+
+    footer a{
+      padding-top: 2vh;
+
+      color: white;
+    }
+
+    /* //////////////////////////////////////////////////////////////////////////////// */
+
+}
+
+/* //////////////////////////////////////////////////////////////////////////////// */
+/* //////////////////////////////////////////////////////////////////////////////// */
+                            /*End Mobile */
+/* //////////////////////////////////////////////////////////////////////////////// */
+/* //////////////////////////////////////////////////////////////////////////////// */

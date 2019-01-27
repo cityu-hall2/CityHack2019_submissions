@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../css/Default.css" type="text/css" media="all">
+<link rel="stylesheet" href="../css/MyHikes.css" type="text/css" media="all">
+  <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans+SC" rel="stylesheet">
+    <title>My Hikes</title>
+    <script type="text/javascript" src="../js/trail_info.js"></script>
+
+  </head>
+  <body>
+    <header>
+      <img src="../images/cityulogo.png" alt="cityu logo">
+      <h1>CityU Hikethon</h1>
+    </header>
+    <div class="main">
+    <div id="pinkDiv" >
+      pink
+    </div>
+    <div id="personal"  >
+
+<ul>
+  <li>
+    <a href="#"><img id="person"src="../images/person1.png" width="10%" alt="account" title="My account"></a>
+    <p id="logout">
+      <a href="#">Log out</a>
+      </p>
+  </li>
+  <li><a href="MyHikes.html"><img src="../images/myhikes.png"  alt="my hikes" title="My Hikes"></a></li>
+        <li><a href="JoinHikePage.html"><img src="../images/joinhike.png"  alt="join hikes" title="Join existing hike"></a></li>
+        <li><a href="AddHikes.html"><img src="../images/addhike.png"  alt="add hike" title="Add hike"></a></li>
+        <li><a href="JoinHikePage.html.myHikes"><img src="../images/upcoming.png"  alt="my upcoming hikes" title="My upcoming hikes"></a></li>
+</ul>
+    </div>
+    <div class="myHikes">
+      <table>
+        <caption>Mark the Hiking places you have already visited and Hikethon will generate the next hike for you!</caption>
+          <thead>
+            <th >Island</th>
+            <th >Coast</th>
+            <th >Lake</th>
+            <th >Mountain</th>
+          </thead>
+
+          <tbody>
+            <!-- 1 -->
+            <tr>
+                <td>
+                  <label for="Peng Chau">Peng Chau</label>
+                  <input type="checkbox" name="Peng Chau" value="PengChau">
+                </td>
+
+                <td>
+                  <label for="ClearWaterBay">Clear Water Bay</label>
+                  <input type="checkbox" name="ClearWaterBay" value="ClearWaterBay">
+                </td>
+                <td>
+                  <label for="KamShan">Kam Shan</label>
+                  <input type="checkbox" name="KamShan" value="KamShan">
+                </td>
+
+                <td>
+                  <label for="LionRock">Lion Rock</label>
+                  <input type="checkbox" name="LionRock" value="LionRock">
+                </td>
+            </tr>
+            <!-- 2 -->
+            <tr>
+              <td>
+                  <label for="Lamma">Lamma</label>
+                  <input type="checkbox" name="Lamma" value="Lamma">
+              </td>
+
+              <td>
+                  <label for="ShekO">Shek O</label>
+                  <input type="checkbox" name="ShekO" value="ShekO">
+              </td>
+              <td>
+                  <label for="ShingMun">Shing Mun</label>
+                  <input type="checkbox" name="ShingMun" value="ShingMun">
+              </td>
+              <td>
+                <label for="MaOnShan">Ma On Shan</label>
+                <input type="checkbox" name="MaOnShan" value="MaOnShan">
+              </td>
+            </tr>
+            <!-- 3 -->
+            <tr>
+              <td>
+                  <label for="LanTau">Lan Tau</label>
+                  <input type="checkbox" name="LanTau" value="LanTau">
+              </td>
+
+              <td>
+                  <label for="SaiKung">Sai Kung</label>
+                  <input type="checkbox" name="SaiKung" value="SaiKung">
+              </td>
+              <td>
+                  <label for="PokFuLam">Pok Fu Lam</label>
+                  <input type="checkbox" name="PokFuLam" value="PokFuLam">
+              </td>
+              <td>
+                  <label for="TaiTam">Tai Tam</label>
+                  <input type="checkbox" name="TaiTam" value="TaiTam">
+              </td>
+            </tr>
+            <!-- 4 -->
+            <tr>
+              <td>
+                  <label for="CheungChau">Cheung Chau</label>
+                  <input type="checkbox" name="CheungChau" value="CheungChau">
+              </td>
+              <td>
+                  <label for="PloverCove">Plover Cove</label>
+                  <input type="checkbox" name="PloverCove" value="PloverCove">
+              </td>
+              <td>
+                  <label for="Aberdeen">Aberdeen</label>
+                  <input type="checkbox" name="Aberdeen" value="Aberdeen">
+              </td>
+              <td>
+                  <label for="LamTsuen">Lam Tsuen</label>
+                  <input type="checkbox" name="LamTsuen" value="LamTsuen">
+              </td>
+            </tr>
+            <!-- 5 -->
+            <tr>
+              <td>
+                  <label for="KiuTsui">Kiu Tsui</label>
+                  <input type="checkbox" name="KiuTsui" value="KiuTsui">
+              </td>
+              <td>
+                  <label for="LungFuShan">Lung Fu Shan</label>
+                  <input type="checkbox" name="LungFuShan" value="LungFuShan">
+              </td>
+              <td>
+                  <label for="TaiLam">Tai Lam</label>
+                  <input type="checkbox" name="TaiLam" value="TaiLam">
+              </td>
+              <td>
+                  <label for="TaiMoShan">Tai Mo Shan</label>
+                  <input type="checkbox" name="TaiMoShan" value="TaiMoShan">
+              </td>
+
+            </tr>
+          </tbody>
+        </table>
+        <button type="button" name="sub">submit</button>
+    </div>
+    <div class="Recommend" >
+       <table id="Recommend_box">
+         <caption>Recommend Trails</caption>
+         <thead>
+           <th>Trail Name</th>
+           <th>View Type</th>
+           <th>Difficulty</th>
+           <th>Estimate Score</th>
+         </thead>
+         <tbody>
+
+         </tbody>
+       </table>
+     </div>
+    </div>
+    <footer>
+      <p>
+        <a href="HomePage.html">Home</a>
+       <a href="OrderPage.html">Explore existing</a>
+       <a href="OrderPage.html">Add hike</a>
+       <a href="DesignPage.html">About Hikethon</a>
+       <a href="#">Regulations</a>
+      </p>
+    </footer>
+  </body>
+  <script type="text/javascript">
+      document.querySelector("button").onclick=function(){
+        HKtrail=initTrail();
+        var view_sum=[0,0,0,0];
+        var avg_diff;
+        var place_count=0;
+        avg_diff=0;
+
+        for(var i=0;i<20;i++){
+          var qstring='input[name="'+HKtrail[i].TrailName+'"]';
+          if(document.querySelector(qstring).checked==true){
+            var v=HKtrail[i].ViewType;
+            view_sum[v]++;
+            avg_diff+=HKtrail[i].Difficulty;
+            place_count++;
+            HKtrail[i].Visited=1;
+          }
+        }
+        avg_diff=avg_diff/place_count;
+        for (var i = 0; i < 20; i++) {
+            var difficult_gap;
+            difficult_gap = Math.abs(HKtrail[i].Difficulty - avg_diff);
+            HKtrail[i].Score = view_sum[HKtrail[i].ViewType] + (5.00-difficult_gap)*(place_count/4);
+        }
+        //sort the trails by Score
+        var rank=[];
+        for (var i = 0; i < 20; i++) {
+          rank[i] = i;
+        }
+        var score=[];
+        for (var i = 0; i < 20; i++) {
+          score[i] = HKtrail[i].Score;
+        }
+        for (var i = 0; i < 20; i++) {
+          for (var j = i+1; j < 20; j++) {
+            if (score[i] < score[j]) {
+              var temp_score = score[j];
+              score[j] = score[i];
+              score[i] = temp_score;
+              var temp_rank = rank[j];
+              rank[j] = rank[i];
+              rank[i] = temp_rank;
+            }
+          }
+        }
+        var text="average difficulty:"+avg_diff+"\n";
+        var index=1;
+        for (var j = 0; j < 20; j++) {
+            var i = rank[j];
+            if (HKtrail[i].Visited == 1) {
+              continue;
+            }
+
+            var table=document.getElementById("Recommend_box");
+            var row=table.insertRow(index);
+            index++;
+            var trail_name=row.insertCell(0);
+            var trail_view_type=row.insertCell(1);
+            var trail_difficulty=row.insertCell(2);
+            var trail_score=row.insertCell(3);
+            trail_name.innerHTML=HKtrail[i].TrailName;
+            trail_view_type.innerHTML=HKtrail[i].ViewType_word;
+            trail_difficulty.innerHTML=HKtrail[i].Difficulty;
+            trail_score.innerHTML=HKtrail[i].Score;
+        }
+      }
+
+    </script>
+</html>

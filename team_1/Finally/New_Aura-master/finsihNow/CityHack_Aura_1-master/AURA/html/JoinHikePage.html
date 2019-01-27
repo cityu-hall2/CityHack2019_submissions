@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <script type="text/javascript">
+
+  function FillingData()
+  {
+      hikeList=document.querySelector("#content");
+      for (i = 0; i<localStorage.length; i++)
+      {
+          hike= document.createElement("div");
+          hike.className="hike";
+          objekat=JSON.parse(localStorage.getItem(localStorage.key(i)));
+          names=Object.getOwnPropertyNames(objekat);
+          for(j=0;j<names.length;j++)
+          {
+            paragraph=document.createElement("p");
+            paragraph.className=names[j];
+            paragraph.textContent=names[j]+": ";
+            paragraph.textContent+=objekat[names[j]];
+            hike.appendChild(paragraph);
+          }
+          butt=document.createElement("button");
+          butt.name="join";
+          butt.innerHTML="JOIN";
+          butt.style.backgroundColor="red";
+          butt.onclick=change;
+          hike.appendChild(butt);
+          hikeList.appendChild(hike);
+      }
+  }
+
+
+function change(){
+
+  if(this.style.backgroundColor=="red")
+  {
+    this.innerHTML="Joined";
+    this.style.backgroundColor="green";
+    place=this;
+    while(place.className!="place")
+    place=place.previousSibling;
+    arr=document.querySelectorAll("table td label");
+    checkboxes=document.querySelectorAll("table td input");
+    for(i=0;i<arr.length;i++)
+    {
+      if(place.textContent.slice(6).trim()==arr[i].innerHTML.trim())
+      checkboxes[i].checked=true;
+    }
+  }
+
+  else
+  {
+    this.innerHTML="JOIN";
+    this.style.backgroundColor="red";
+    while(place.className!="place")
+    place=place.previousSibling;
+    arr=document.querySelectorAll("table td label");
+    checkboxes=document.querySelectorAll("table td input");
+    for(i=0;i<arr.length;i++)
+    {
+      if(place.textContent.slice(6).trim()==arr[i].innerHTML.trim())
+      checkboxes[i].checked=false;
+    }
+  }
+
+}
+
+  window.onload= function()
+  {
+    FillingData();
+  };
+  </script>
+    <title>Add Hike</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../css/Default.css" type="text/css" media="all">
+<link rel="stylesheet" href="../css/JoinHike.css" type="text/css" media="all">
+  <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans+SC" rel="stylesheet">
+  </head>
+  <body>
+
+    <header>
+      <img src="../images/cityulogo.png" alt="cityu logo">
+      <h1>CityU Hikethon</h1>
+    </header>
+    <div class="main">
+    <div id="pinkDiv" >
+     pink
+    </div>
+    <div id="personal"  >
+<ul>
+  <li>
+    <a href="#"><img id="person" src="../images/person1.png" width="10%" alt="account" title="My account"></a>
+    <p id="logout">
+      <a href="#">Log out</a>
+      </p>
+  </li>
+  <li><a href="MyHikes.html"><img src="../images/myhikes.png"  alt="my hikes" title="My Hikes"></a></li>
+        <li><a href="JoinHikePage.html"><img src="../images/joinhike.png"  alt="join hikes" title="Join existing hike"></a></li>
+        <li><a href="AddHikes.html"><img src="../images/addhike.png"  alt="add hike" title="Add hike"></a></li>
+        <li><a href="JoinHikePage.html.myHikes"><img src="../images/upcoming.png"  alt="my upcoming hikes" title="My upcoming hikes"></a></li>
+</ul>
+    </div>
+
+    <div id="content" >
+
+    </div>
+    <div class="myHikes">
+      <table>
+        <caption>My Upcoming Hikes</caption>
+          <thead>
+            <th >Island</th>
+            <th >Coast</th>
+            <th >Lake</th>
+            <th >Mountain</th>
+          </thead>
+
+          <tbody>
+            <!-- 1 -->
+            <tr>
+                <td>
+                  <label for="Peng Chau">Peng Chau</label>
+                  <input type="checkbox" name="Peng Chau" value="PengChau">
+                </td>
+
+                <td>
+                  <label for="ClearWaterBay">Clear Water Bay</label>
+                  <input type="checkbox" name="ClearWaterBay" value="ClearWaterBay">
+                </td>
+                <td>
+                  <label for="KamShan">Kam Shan</label>
+                  <input type="checkbox" name="KamShan" value="KamShan">
+                </td>
+
+                <td>
+                  <label for="LionRock">Lion Rock</label>
+                  <input type="checkbox" name="LionRock" value="LionRock">
+                </td>
+            </tr>
+            <!-- 2 -->
+            <tr>
+              <td>
+                  <label for="Lamma">Lamma</label>
+                  <input type="checkbox" name="Lamma" value="Lamma">
+              </td>
+
+              <td>
+                  <label for="ShekO">Shek O</label>
+                  <input type="checkbox" name="ShekO" value="ShekO">
+              </td>
+              <td>
+                  <label for="ShingMun">Shing Mun</label>
+                  <input type="checkbox" name="ShingMun" value="ShingMun">
+              </td>
+              <td>
+                <label for="MaOnShan">Ma On Shan</label>
+                <input type="checkbox" name="MaOnShan" value="MaOnShan">
+              </td>
+            </tr>
+            <!-- 3 -->
+            <tr>
+              <td>
+                  <label for="LanTau">Lan Tau</label>
+                  <input type="checkbox" name="LanTau" value="LanTau">
+              </td>
+
+              <td>
+                  <label for="SaiKung">Sai Kung</label>
+                  <input type="checkbox" name="SaiKung" value="SaiKung">
+              </td>
+              <td>
+                  <label for="PokFuLam">Pok Fu Lam</label>
+                  <input type="checkbox" name="PokFuLam" value="PokFuLam">
+              </td>
+              <td>
+                  <label for="TaiTam">Tai Tam</label>
+                  <input type="checkbox" name="TaiTam" value="TaiTam">
+              </td>
+            </tr>
+            <!-- 4 -->
+            <tr>
+              <td>
+                  <label for="CheungChau">Cheung Chau</label>
+                  <input type="checkbox" name="CheungChau" value="CheungChau">
+              </td>
+              <td>
+                  <label for="PloverCove">Plover Cove</label>
+                  <input type="checkbox" name="PloverCove" value="PloverCove">
+              </td>
+              <td>
+                  <label for="Aberdeen">Aberdeen</label>
+                  <input type="checkbox" name="Aberdeen" value="Aberdeen">
+              </td>
+              <td>
+                  <label for="LamTsuen">Lam Tsuen</label>
+                  <input type="checkbox" name="LamTsuen" value="LamTsuen">
+              </td>
+            </tr>
+            <!-- 5 -->
+            <tr>
+              <td>
+                  <label for="KiuTsui">Kiu Tsui</label>
+                  <input type="checkbox" name="KiuTsui" value="KiuTsui">
+              </td>
+              <td>
+                  <label for="LungFuShan">Lung Fu Shan</label>
+                  <input type="checkbox" name="LungFuShan" value="LungFuShan">
+              </td>
+              <td>
+                  <label for="TaiLam">Tai Lam</label>
+                  <input type="checkbox" name="TaiLam" value="TaiLam">
+              </td>
+              <td>
+                  <label for="TaiMoShan">Tai Mo Shan</label>
+                  <input type="checkbox" name="TaiMoShan" value="TaiMoShan">
+              </td>
+
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <footer>
+      <p>
+        <a href="HomePage.html">Home</a>
+       <a href="OrderPage.html">Explore existing</a>
+       <a href="OrderPage.html">Add hike</a>
+       <a href="DesignPage.html">About Hikethon</a>
+       <a href="#">Regulations</a>
+      </p>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,28 @@
+#explore, #recommend{
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5%;
+
+}
+.polaroid {
+  width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+  margin-left: 10%;
+}
+
+.container {
+  text-align: center;
+
+}
+#explore img{
+
+width: 100%;
+margin-top: 5%;
+}
+
+ #explore>p, #recommend>p{
+   text-align: center;
+ }

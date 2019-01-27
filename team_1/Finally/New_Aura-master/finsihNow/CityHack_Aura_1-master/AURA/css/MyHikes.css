@@ -1,0 +1,45 @@
+.myHikes, .Recommend {
+
+  margin-left: 5%;
+  width: 70%;
+  margin-left: 20%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+table {
+  border-collapse: collapse;
+
+
+}
+
+table, th, td,tr {
+  border: 1px solid black;
+  text-align: center;
+  padding: 2%;
+
+}
+input{
+  cursor: pointer;
+}
+tr:nth-child(even),th {background-color:#BF165E;
+color:white;}
+tr:nth-child(odd)  {background-color:#a9a8a8; color:white;}
+
+button{
+  margin-top: 5%;
+  margin-left: 0;
+  width:20%;
+  background-color:#BF165E;
+  border: none;
+  height: 5vh;
+  color:white;
+  font-weight: bold;
+  cursor: pointer;
+}
+button:hover {
+  transition: 1.5s;
+  transform: scale(1.2);
+}
+.caption{
+  text-align:left;
+}
